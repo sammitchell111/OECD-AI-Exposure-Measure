@@ -1,0 +1,133 @@
+Scale 1: Language
+
+Dimensions: Linguistic (semantics/grammar) | Modality (verbal vs text and understanding vs generation) | Number of languages | Knowledge | Reasoning | Learning
+
+Level 5: AI systems demonstrate nuanced discourse, integrating tone, humour, critical thinking and real-time knowledge. They learn continuously and dynamically, handle all languages and operate effectively across real-life, multimodal, noisy environments. 
+
+Typical tasks include automatic video description generation (i.e. video captioning) and structured reasoning tasks, which rely on critical thinking, real-time knowledge and the ability to process real-world multimodal inputs.
+
+Level 4: AI systems at this level interpret language contextually, using web-scale knowledge and complex reasoning. They process all major modalities and many low-resource languages. They support ongoing, continuous learning without needing major architectural changes.
+
+Typical tasks include dialogue, which depend on contextual understanding, web-scale knowledge and processing diverse language inputs.
+
+Level 3: AI systems at this level reliably understand and generate semantic meaning using multi-corpus knowledge. They show advanced logical and social reasoning ability and can process text, speech and images. They support a diverse range of languages and adapt through iterative learning techniques.
+
+Typical tasks include essay scoring and text classification, reflecting multi-corpus knowledge and advanced semantic and syntactic capabilities.
+
+Level 2: AI systems can produce grammatically correct language, drawing on static, single-domain knowledge bases. They can process two or more modalities (e.g., text and speech) but only in high-resource languages (e.g., English or Chinese). They are capable of basic problem-solving. Learning occurs only through full model retraining, with no continuous adaptation. Typical tasks include syntactic parsing.
+
+Level 1: AI systems rely on basic pattern matching, such as identifying keywords. They have no knowledge, no reasoning, and no ability to learn or adapt. Their interaction is limited to a single modality and a single language. A typical task at this level would be keyword-based web search.
+
+Scale 2: Social Interaction
+
+Dimensions:  Embodiment | Social Memory | Identity | Social communication | Affective skills | Social perception | Social Problem Solving
+
+Level 5: AI agents integrate into any social environment, naturally adopting roles and adjusting in real time. With unlimited, adaptive social memory and context-aware identity, they engage in nuanced communication with deep emotional understanding of interlocutors. They continuously infer group behaviour and intent, anticipating challenges and adapting solutions instantly.
+
+AI at this level excels at complex tasks like describing scenes from another’s perspective, learning new social norms or gauging distant social openness. It leverages unlimited adaptability, deep emotional comprehension and flawless contextual alignment.
+
+Level 4: AI systems adapt gestures to different scenarios and manage a structured social memory. They maintain a clear role in groups, handle ambiguity and most nuanced communication. They infer motives and recognise group roles. They demonstrate versatile social problem solving by using social knowledge to anticipate and resolve outcomes. AI at this level manages nuanced tasks, such as attracting a waiter’s attention, determining student disengagement or deciding when to interrupt a group. It uses advanced capabilities like adapting gestures, understanding emotional intensity and interpreting motives.
+
+Level 3: AI systems interpret body language, mimics group interactions and updates responses based on past experiences. They maintain a consistent and evolving personality and engage in basic emotional exchanges. They infer social intent, interpret behavioural cues and evaluate multiple solutions to complex social challenges. AI can handle tasks like co-ordinating turn-taking at intersections or managing simple group dynamics, relying on its ability to interpret body language, infer intent and respond dynamically to moderately complex social scenarios
+
+Level 2: AI systems combine simple movements to express emotions and learn from interactions for future encounters. They recall events and adapt slightly based on experience, recognising basic signals and detecting emotions through tone and context. They also perceive individual distinctions and apply past experiences to recurring challenges. AI at this level can manage basic tasks like recognising individuals and applying past experiences to recurring problems, but it struggles with complex co-ordination tasks like navigating group interactions or assessing nuanced emotional states.
+
+Level 1: AI systems have rigid embodiment at this level, limited to basic movements and pre-programmed social behaviour. They only detect presence and pick up on simple emotional cues, lack contextual awareness, cannot learn from interactions, and exhibit a fixed memory and generic identity. AI at this level can detect the presence of others and solve simple static tasks. It cannot engage in tasks like attracting a waiter’s attention or co-ordinating turn-taking due to limited adaptability and contextual understanding.
+
+Scale 3: Problem Solving
+
+Dimensions: Solution required | Range of Alternatives Considered (Alternatives Considered) | Complexity of professional knowledge (Professional Knowledge) | Complexity of model formulation/interpretation (Model Complexity)
+
+Level 5: AI systems solve unstructured, real-world, and multidisciplinary problems by integrating tacit, social, and technical knowledge. They demonstrate a deep understanding of emotions and perspectives during live interactions and can navigate ethical challenges, drawing on approaches from multiple domains to develop effective solutions. An AI system at this level can identify and solve unstructured, real-world problems that involve social complexity; require solution approaches from multiple domains; and interact with other problems.
+
+Level 4: AI systems solve everyday commonsense and some professional problems without needing a clear description. They interpret interactions in complex social environments, identify problems that require attention, and develop approaches to address them. They learn from past experiences, enhancing future performance and adaptability. AI systems at this level can interpret interactions in a complex social environment, identify problems that need to be solved and develop an approach for solving those problems.
+
+Level 3: AI systems identify emotions and engage in theory of mind reasoning, enabling them to handle social or ethical issues as well as complex professional problems described in everyday language by translating informal descriptions into structured models. They simulate human mental states and adjust its responses based on contextual understanding. AI systems at this level can solve problems in areas like mathematics, the natural sciences, medicine or engineering, where the problem is described in everyday terms. These problems are like the questions on standardised human tests in these areas that specifically involve word problems. Other AI systems at this level can solve problems related to social and ethical reasoning where the problems are directly described.
+
+Level 2: AI systems integrate qualitative reasoning—such as spatial or temporal relationships—with quantitative analysis to address complex professional problems framed using conventional domain abstractions. They handle multiple qualitative states and transitions, predicting how systems may evolve or change over time. AI systems at this level can solve problems in areas like mathematics, the natural sciences, medicine or engineering, where the problem is described using conventional domain abstractions.
+
+Level 1: AI systems at this level can solve structured problems in fields such as mathematics, the natural sciences, medicine, or engineering. They work within clearly defined domains, using precise, domain-specific terms like mathematical equations, and analyse data for discrepancies, missing values, or inconsistencies. AI systems at this level can solve structured problems in areas like mathematics, the natural sciences, medicine or engineering, where the problem is specified. These problems are like the questions on typical standardised human tests in these areas.
+
+Scale 4: Creativity
+
+Dimensions: Value | Novelty (including transformativity and surprise) | Adaptability | Intentionality | Self-assessment
+
+Level 5: AI systems possess intentionality, authenticity, and full agency, creating historically transformative and highly valuable outputs on par with those of world-class human creators. Driven by intrinsic goals, they autonomously decide what and when to produce, and have the ability to critique, reimagine, and situate themselves within a cultural context. Examples of tasks might include designing a new fashion style that dominates the fashion market; writing an international bestseller autobiographical book acclaimed by critics; or designing an innovative technology that disrupts existing markets and sets new industry standards.
+
+Level 4: AI systems incorporate process-oriented creativity, adapt their outputs to evolving domains while maintaining their value across contexts. They refine results to ensure quality and appropriateness, balancing innovation with contextual relevance. Examples of tasks might include writing a speech for a special occasion. A speech for a wedding, for example, could select and link key events of the lives of newlyweds in a humorous, personal yet appropriate way; composing a letter for a newspaper reflecting on the mood of a nation after a sad event; or writing journal entries that thoughtfully recount the day’s events.
+
+Level 3: AI systems generate valuable outputs that deviate significantly from their training data and challenge traditional boundaries. They generalise skills to new tasks and integrate ideas across domains. Examples of tasks might include winning videogames by devising unexpected strategies; participating in a political debate and successfully arguing a point; or composing an installation that integrates visual art, music and interactive elements to convey a complex narrative.
+
+Level 2: AI systems create valuable, novel solutions within clearly defined constraints. Examples of tasks might include painting a portrait of a contemporary head of state in the style of Dutch masters; writing a short story that blends genres, such as science fiction and historical novels; or developing videogames with levels where the players explore automatically generated cities that follow topological rules, ensuring that each level is novel.
+
+Level 1: AI systems produce results that are valuable—typical and relevant—but they replicate human outputs without exhibiting genuine creative properties. Examples of tasks might include generating a variation of a culinary recipe by sensibly substituting an ingredient given a cookbook; drawing an object with modifications to a set of examples; or creating a simple piece of music that follows a specific meter and style.
+
+Scale 5: Metacognition and critical thinking
+
+Dimensions: Need for critical thinking (assess strategy and self-monitoring) | Knowledge of what it does and doesn’t know | What information is needed to solve the problem
+
+Level 5: AI systems manage complex trade-offs between goals, resources, and required skills, handling long-term tasks that intersect with others by making decisions about delegation, self-improvement, or task abandonment. They self-assess and adapt their methodologies accordingly. An assistant must find a file with a name referring to an eclipse or similar in the computer and send it to Jason by e-mail. The assistant needs to determine if it cannot find it, what level of similarity is appropriate and whether it can access the email system and send it.
+
+Level 4: AI systems actively regulate their thought processes, tackling complex and ambiguous problems in unfamiliar domains while carefully evaluating their knowledge and calibrating their confidence. An assistant must perform some paperwork and needs to determine if it has all the required attachments or needs to ask some people.
+
+Level 3: AI systems critically evaluate their own knowledge, make educated judgments, and engage in strategic problem solving by integrating complex or nuanced information. They identify subtle connections and their implications, and analyse and synthesise both familiar and unfamiliar concepts. A robot reaches a door that has a kind of handle it has never seen before, and it must look for information about how to use it or try different options to understand how it works.
+
+Level 2: AI systems monitor their own understanding and adjust their approaches accordingly. They work with familiar information that may contain ambiguities, requiring measured confidence and informed guesses. They can handle partially incomplete information by discerning what they know and what they do not. An assistant must do the weekly shopping for a customer, and is given a shopping list, a preferred list of supermarkets and a limited budget. The assistant will identify and resolve trade-offs (quality vs. price), react to offers or unavailable products in a critical way (replacing them with similar ones), given the assistant’s knowledge about the customer’s preferences. The assistant will only ask the customer in case of doubt.
+
+Level 1: AI systems do not engage in critical thinking but are capable of basic filtering of known information and understanding logical connections. They can interpret or recognize information at a basic level and work with familiar subject matter that is either straightforward or highly specialized. A robot must cook a Vichyssoise for some lactose-intolerant guests and needs to tell the user how long it will take. The robot needs to determine whether it can adapt the recipe to a substitute of cream without lactose, obtain the ingredients and do all the cooking using tools in the kitchen.
+
+Scale 6: Knowledge, learning and memory
+
+Dimensions: Kinds of knowledge (procedural vs declarative, semantic vs episodic, explicit vs implicit)
+Learning mechanisms (statistical adaptivity, symbolic inference, knowledge representation)
+Memory processes (associative retrieval, attentional focus, pattern matching)
+
+Level 5: AI systems integrate diverse knowledge types, learning methods, and memory systems to support robust real-time adaptation and reasoning. They achieve human-like cognitive flexibility and efficiency while avoiding hallucinations. AI at this level can perform tasks requiring open-ended cognitive flexibility, such as performing scientific research, making public policy decisions and arguing legal cases.
+
+Level 4: AI systems learn incrementally through interaction with the world and other agents, enabling real-time learning. They incorporate metacognitive awareness stored in episodic memory to identify knowledge gaps and balance exploration with exploitation. AI at this level can perform tasks that involve operating in unknown, uncertain or changing environments, such as performing household tasks, supporting the elderly or operating in an open-floor industrial setting.
+
+Level 3: AI systems learn the semantics of information through distributed representations and generalize to novel situations. They can process massive datasets for context-sensitive understanding but lack real-time learning capabilities. AI at this level can perform tasks that involve generating content, such as writing stories, creating illustrations, summarising information and computer programming.
+
+Level 2: AI systems can search loosely organized information without rigid structuring, using statistical inference to connect search terms with relevant results. This allows flexibility in handling natural language and other unstructured formats, though they struggle to generalize when data is missing. AI at this level can perform tasks that involve information search, such as online shopping, news gathering, travel planning and researching product reviews.
+
+Level 1: Systems’ knowledge is represented in formal formats such as tables and rules, enabling accurate retrieval through structured queries. They store and retrieve information using precise computational methods. AI at this level can perform tasks that involve precise record keeping, such as financial accounting, computing statistics or managing schedules.
+
+Scale 7: Vision
+
+Dimensions: Breadth and variability of object in focus |Variation in background visual environment | Learning | Task Diversity
+
+Level 5: AI systems can handle all variations in objects—including shape, appearance, and position—as well as environmental changes in lighting, perspective, and scene, whether expected or novel. They continuously improve performance through self-feedback and are capable of performing the full diversity of human tasks. Typical tasks include complex object recognition, dynamic tracking and real-time scene understanding across varied environments, such as autonomous vehicles interacting with dynamic traffic.
+
+Level 4: AI systems cope with significant variations in the shape and appearance of target objects, make subtle distinctions between similar object classes, and adapt to changes in lighting. They improve performance through feedback—whether from self-assessment or external sources—and can perform many different tasks, though not all that a human can do. Typical tasks include complex manipulation and analysis in dynamic environments, such as robots performing diverse kitchen tasks, monitoring assembly lines or conducting intricate quality control in manufacturing.
+
+Level 3: AI systems can handle some variation in target object appearance and lighting, performs multiple subtasks, and can cope with known variations in data and situations. Typical tasks include autonomous vehicle navigation, facial recognition and environment mapping for robotic systems.
+
+Level 2: AI systems handle small changes to objects and minor variations in lighting or sensor positioning within controlled environments. They perform more than one subtask at a time, as long as they remain within the controlled domain. Typical tasks include face detection, obstacle avoidance in controlled driving environments, and specialised visual inspections in manufacturing.
+
+Level 1: AI systems operate with fixed objects in highly controlled environments with minimal variation and are limited to executing only one task at a time. Typical tasks include basic object recognition in fixed settings, barcode scanning and quality control in manufacturing environments with well-organised materials.
+
+Scale 8: Manipulation 
+
+Level 5: AI systems manipulate objects with exceptional precision and adaptability, including in-hand repositioning. They operate in any environment, even extremely cluttered spaces, and collaborate seamlessly with humans. They handle objects of diverse shapes, sizes, materials, and dynamics, and perform effectively under strict time constraints. Typical tasks include helping dress a person or search and rescue operations.
+
+Level 4: AI systems execute tasks that require specific object orientations and navigate tight or obscured spaces. They perform force-based operations with some adaptation and function in cluttered environments with significant variation, relying on human confirmation when needed. They handle both rigid and non-rigid objects, including those with moving parts, generalise across varying object properties, and complete tasks under moderate time constraints. Typical tasks include unloading a dishwasher, force-based surface manipulation and object assembly in cluttered or dynamic environments.
+
+Level 3: AI systems reorient objects or place them in moderately challenging positions, though they cannot perform in-hand repositioning. They execute force-based operations when given instructions and adapt to moderately cluttered environments. They handle a broader range of object geometries and materials, including reflective or low-friction surfaces, but struggle under strict time constraints. Typical tasks include reorienting irregular objects, setting a table for a meal and handling delicate materials requiring force-based manipulation.
+
+Level 2: AI systems handle a variety of object shapes and moderately pliable materials, operating in controlled environments with low to moderate clutter. They navigate around small obstacles in open spaces, accommodate objects placed randomly within a defined region, and perform tasks without time constraints. Typical tasks include picking up toy blocks from a table and placing them in a storage container and material handling in controlled factory environments.
+
+Level 1: AI systems perform simple pick-and-place tasks with wide margins of error in well-organized environments, following a predetermined path. They manipulate rigid objects with basic shapes and uniform materials, such as plastic or metal, that are easy to grasp. An example task would be moving boxes of cereal in a warehouse from pre-taught locations and inserting them in cases.
+
+Scale 9: Robotic Intelligence
+
+Dimensions: Environment | Task | Abstraction | Human Interaction | Uncertainty | Ethics
+
+Level 5: Robotic systems operate in highly dynamic, unseen, unstructured, and natural environments, handling long-horizon, complex tasks that require common sense, general knowledge, and diverse skills. They perform tasks based on high-level descriptions, adapting to shifting goals and significant constraints, including those demanding human-level social skills. They manage out-of-distribution scenarios with high uncertainty in complex physical and social contexts, requiring real-time planning and problem solving. They ensure the safety of human collaborators, counters biases, and respects copyright and legal responsibilities. Typical tasks include home-assistance robots for people with disabilities, robots performing ethical decision making and high-performance autonomous driving in diverse and dynamic environments.
+
+Level 4: Robotic systems operate in unseen, dynamic, less structured, and natural environments, handling long-horizon, complex tasks with contextual dependencies. They perform loosely defined tasks involving many dynamic variables and may require human collaboration. They operate under high levels of uncertainty, adapt in real time to dynamic changes, ensure the safety of human collaborators, and counter their biases. Typical tasks include cooking robots selecting ingredients based on availability, autonomous wheelchairs navigating obstacles and autonomous aerial navigation near airports.
+
+Level 3: Robotic systems operate in partially known, dynamic, and semi-structured environments with moderate variability. They handle medium-horizon, composite, multi-step predefined tasks that may have multiple flexible solutions. They can share environments with humans and perform tasks under a moderate level of uncertainty from external sources or unfamiliar settings, while respecting minimum requirements for social compliance and safety. Typical tasks include hospital robots handling both transport and cleaning tasks, robots assisting with furniture assembly and robot cinematographers autonomously filming based on learnt preferences.
+
+Level 2: Robotic systems operate in partially known, mostly static, semi-structured environments with some well-defined variability. They handle short-horizon, simple multi-function tasks that, while well defined, involve inherent uncertainty. They can engage in limited human interaction, such as minimal interfaces, and manage some unexpected outcomes within familiar task settings. They deal with little to no ethical issues. Typical tasks include medical transport robots, material-handling robots in factories and agricultural robots for fruit picking.
+
+Level 1: Robotic systems operate in fully known, static, and highly structured environments, handling short-horizon, repetitive, single-function tasks. They can only perform concretely pre-defined tasks within pre-specified constraints, without human interaction. They behave deterministically, are unable to manage unexpected outcomes, and do not consider ethical concerns. Typical tasks include basic automated assembly in factories, robotic vacuum cleaners and object sorting systems in logistics operations.

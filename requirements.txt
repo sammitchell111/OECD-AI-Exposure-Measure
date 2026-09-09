@@ -1,0 +1,11 @@
+# Core
+pandas
+openpyxl
+xlrd            # only needed to open the legacy .xls input files
+
+# Provider SDKs (install only the ones you plan to run)
+anthropic
+openai
+google-generativeai   # run_ratings*.py (Gemini, synchronous)
+google-genai          # run_ratings_google_batch.py / retrieve_batch_results.py / check_batch_jobs.py
+mistralai

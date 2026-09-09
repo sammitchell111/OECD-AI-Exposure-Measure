@@ -1,0 +1,2928 @@
+[
+  {
+    "soc_code": "13-2011.00",
+    "title": "Accountants and Auditors",
+    "description": "Examine, analyze, and interpret accounting records to prepare financial statements, give advice, or audit and evaluate statements prepared by others. Install or advise on systems of recording costs or other financial and budgetary data.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 69.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 69.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 63.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 60.0
+      }
+    ],
+    "tasks": [
+      "Audit payroll and personnel records to determine unemployment insurance premiums, workers' compensation coverage, liabilities, and compliance with tax laws.",
+      "Prepare detailed reports on audit findings.",
+      "Prepare forms and manuals for accounting and bookkeeping personnel and direct their work activities.",
+      "Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",
+      "Confer with company officials about financial and regulatory matters.",
+      "Conduct pre-implementation audits to determine if systems and programs under development will work as planned.",
+      "Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.",
+      "Examine whether the organization's objectives are reflected in its management activities, and whether employees understand the objectives.",
+      "Advise management about issues such as resource utilization, tax strategies, and the assumptions underlying budget forecasts.",
+      "Represent clients before taxing authorities and provide support during litigation involving financial issues.",
+      "Examine records, tax returns, and related documents pertaining to settlement of decedent's estate.",
+      "Serve as bankruptcy trustees or business valuators.",
+      "Direct activities of personnel engaged in filing, recording, compiling and transmitting financial records.",
+      "Report to management regarding the finances of establishment.",
+      "Appraise, evaluate, and inventory real property and equipment, recording information such as the description, value, and location of property.",
+      "Supervise auditing of establishments, and determine scope of investigation required.",
+      "Prepare, analyze, and verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",
+      "Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",
+      "Provide internal and external auditing services for businesses or individuals.",
+      "Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate.",
+      "Evaluate taxpayer finances to determine tax liability, using knowledge of interest and discount rates, annuities, valuation of stocks and bonds, and amortization valuation of depletable assets.",
+      "Survey operations to ascertain accounting needs and to recommend, develop, or maintain solutions to business and financial problems.",
+      "Examine records and interview workers to ensure recording of transactions and compliance with laws and regulations.",
+      "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",
+      "Review taxpayer accounts, and conduct audits on-site, by correspondence, or by summoning taxpayer to office.",
+      "Produce up-to-the-minute information, using internal computer systems, to allow management to base decisions on actual, not historical, data.",
+      "Develop, implement, modify, and document recordkeeping and accounting systems, making use of current computer technology.",
+      "Analyze business operations, trends, costs, revenues, financial commitments, and obligations to project future revenues and expenses or to provide advice.",
+      "Advise clients in areas such as compensation, employee health care benefits, the design of accounting or data processing systems, or long-range tax or estate plans.",
+      "Examine inventory to verify journal and ledger entries.",
+      "Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity.",
+      "Review data about material assets, net worth, liabilities, capital stock, surplus, income, and expenditures.",
+      "Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",
+      "Develop, maintain, and analyze budgets, preparing periodic reports that compare budgeted costs to actual costs.",
+      "Establish tables of accounts and assign entries to proper accounts.",
+      "Maintain or examine the records of government agencies."
+    ]
+  },
+  {
+    "soc_code": "13-2061.00",
+    "title": "Financial Examiners",
+    "description": "Enforce or ensure compliance with laws and regulations governing financial and securities institutions and financial and real estate transactions. May examine, verify, or authenticate records.",
+    "skills_and_abilities": [
+      {
+        "name": "Written Comprehension",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 78.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 75.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 72.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 72.0
+      }
+    ],
+    "tasks": [
+      "Verify and inspect cash reserves, assigned collateral, and bank-owned securities to check internal control procedures.",
+      "Resolve problems concerning the overall financial integrity of banking institutions including loan investment portfolios, capital, earnings, and specific or large troubled accounts.",
+      "Review applications for mergers, acquisitions, establishment of new institutions, acceptance in Federal Reserve System, or registration of securities sales to determine their public interest value and conformance to regulations, and recommend acceptance or rejection.",
+      "Recommend actions to ensure compliance with laws and regulations, or to protect solvency of institutions.",
+      "Confer with officials of real estate, securities, or financial institution industries to exchange views and discuss issues or pending cases.",
+      "Review balance sheets, operating income and expense accounts, and loan documentation to confirm institution assets and liabilities.",
+      "Examine the minutes of meetings of directors, stockholders and committees to investigate the specific authority extended at various levels of management.",
+      "Review and analyze new, proposed, or revised laws, regulations, policies, and procedures to interpret their meaning and determine their impact.",
+      "Direct and participate in formal and informal meetings with bank directors, trustees, senior management, counsels, outside accountants and consultants to gather information and discuss findings.",
+      "Evaluate data processing applications for institutions under examination to develop recommendations for coordinating existing systems with examination procedures.",
+      "Investigate activities of institutions to enforce laws and regulations and to ensure legality of transactions and operations or financial solvency.",
+      "Plan, supervise, and review work of assigned subordinates.",
+      "Provide regulatory compliance training to employees.",
+      "Prepare reports, exhibits and other supporting schedules that detail an institution's safety and soundness, compliance with laws and regulations, and recommended solutions to questionable financial conditions.",
+      "Review audit reports of internal and external auditors to monitor adequacy of scope of reports or to discover specific weaknesses in internal routines.",
+      "Train other examiners in the financial examination process.",
+      "Establish guidelines for procedures and policies that comply with new and revised regulations and direct their implementation."
+    ]
+  },
+  {
+    "soc_code": "15-1255.01",
+    "title": "Video Game Designers",
+    "description": "Design core features of video games. Specify innovative game and role-play mechanics, story lines, and character biographies. Create and maintain design documentation. Guide and collaborate with production staff to produce games as designed.",
+    "skills_and_abilities": [
+      {
+        "name": "Fluency of Ideas",
+        "score": 78.0
+      },
+      {
+        "name": "Originality",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 69.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 69.0
+      }
+    ],
+    "tasks": [
+      "Provide feedback to designers and other colleagues regarding game design features.",
+      "Create core game features including storylines, role-play mechanics, and character biographies for a new video game or game franchise.",
+      "Conduct regular design reviews throughout the game development process.",
+      "Devise missions, challenges, or puzzles to be encountered in game play.",
+      "Create gameplay test plans for internal and external test groups.",
+      "Write or supervise the writing of game text and dialogue.",
+      "Consult with multiple stakeholders to define requirements and implement online features.",
+      "Present new game design concepts to management and technical colleagues, including artists, animators, and programmers.",
+      "Solicit, obtain, and integrate feedback from design and technical staff into original game design.",
+      "Prepare and revise initial game sketches using two- and three-dimensional graphical design software.",
+      "Determine supplementary virtual features, such as currency, item catalog, menu design, and audio direction.",
+      "Create gameplay prototypes for presentation to creative and technical staff and management.",
+      "Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",
+      "Collaborate with artists to achieve appropriate visual style.",
+      "Guide design discussions between development teams.",
+      "Review or evaluate competitive products, film, music, television, and other art forms to generate new game design ideas.",
+      "Oversee gameplay testing to ensure intended gaming experience and game adherence to original vision.",
+      "Balance and adjust gameplay experiences to ensure the critical and commercial success of the product.",
+      "Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",
+      "Prepare two-dimensional concept layouts or three-dimensional mock-ups.",
+      "Provide test specifications to quality assurance staff.",
+      "Provide feedback to production staff regarding technical game qualities or adherence to original design.",
+      "Document all aspects of formal game design, using mock-up screenshots, sample menu layouts, gameplay flowcharts, and other graphical devices.",
+      "Keep abreast of game design technology and techniques, industry trends, or audience interests, reactions, and needs by reviewing current literature, talking with colleagues, participating in educational programs, attending meetings or workshops, or participating in professional organizations or conferences."
+    ]
+  },
+  {
+    "soc_code": "17-1022.00",
+    "title": "Surveyors",
+    "description": "Make exact measurements and determine property boundaries. Provide data relevant to the shape, contour, gravitation, location, elevation, or dimension of land or land features on or near the earth's surface for engineering, mapmaking, mining, land evaluation, construction, and other purposes.",
+    "skills_and_abilities": [
+      {
+        "name": "Mathematics",
+        "score": 75.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 66.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      }
+    ],
+    "tasks": [
+      "Coordinate findings with the work of engineering and architectural personnel, clients, and others concerned with projects.",
+      "Search legal records, survey records, and land titles to obtain information about property boundaries in areas to be surveyed.",
+      "Establish fixed points for use in making maps, using geodetic and engineering instruments.",
+      "Write descriptions of property boundary surveys for use in deeds, leases, or other legal documents.",
+      "Analyze survey objectives and specifications to prepare survey proposals or to direct others in survey proposal preparation.",
+      "Survey bodies of water to determine navigable channels and to secure data for construction of breakwaters, piers, and other marine structures.",
+      "Determine longitudes and latitudes of important features and boundaries in survey areas using theodolites, transits, levels, and satellite-based global positioning systems (GPS).",
+      "Direct or conduct surveys to establish legal boundaries for properties, based on legal deeds and titles.",
+      "Adjust surveying instruments to maintain their accuracy.",
+      "Verify the accuracy of survey data including measurements and calculations conducted at survey sites.",
+      "Determine specifications for photographic equipment to be used for aerial photography, as well as altitudes from which to photograph terrain.",
+      "Record the results of surveys including the shape, contour, location, elevation, and dimensions of land or land features.",
+      "Direct aerial surveys of specified geographical areas.",
+      "Calculate heights, depths, relative positions, property lines, and other characteristics of terrain.",
+      "Plan and conduct ground surveys designed to establish baselines, elevations, and other geodetic measurements.",
+      "Train assistants and helpers, and direct their work in such activities as performing surveys or drafting maps.",
+      "Conduct research in surveying and mapping methods using knowledge of techniques of photogrammetric map compilation and electronic data processing.",
+      "Develop criteria for survey methods and procedures.",
+      "Develop criteria for the design and modification of survey instruments.",
+      "Locate and mark sites selected for geophysical prospecting activities such as efforts to locate petroleum or other mineral products.",
+      "Compute geodetic measurements and interpret survey data to determine positions, shapes, and elevations of geomorphic and topographic features.",
+      "Prepare or supervise preparation of all data, charts, plots, maps, records, and documents related to surveys.",
+      "Prepare and maintain sketches, maps, reports, and legal descriptions of surveys to describe, certify, and assume liability for work performed."
+    ]
+  },
+  {
+    "soc_code": "19-1032.00",
+    "title": "Foresters",
+    "description": "Manage public and private forested lands for economic, recreational, and conservation purposes. May inventory the type, amount, and location of standing timber, appraise the timber's worth, negotiate the purchase, and draw up contracts for procurement. May determine how to conserve wildlife habitats, creek beds, water quality, and soil stability, and how best to comply with environmental regulations. May devise plans for planting and growing new trees, monitor trees for healthy growth, and determine optimal harvesting schedules.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 72.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 72.0
+      },
+      {
+        "name": "Category Flexibility",
+        "score": 72.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 69.0
+      }
+    ],
+    "tasks": [
+      "Contact local forest owners and gain permission to take inventory of the type, amount, and location of all standing timber on the property.",
+      "Plan and supervise forestry projects, such as determining the type, number and placement of trees to be planted, managing tree nurseries, thinning forest and monitoring growth of new seedlings.",
+      "Study different tree species' classification, life history, light and soil requirements, adaptation to new environmental conditions and resistance to disease and insects.",
+      "Monitor forest-cleared lands to ensure that they are reclaimed to their most suitable end use.",
+      "Conduct public educational programs on forest care and conservation.",
+      "Perform inspections of forests or forest nurseries.",
+      "Plan and direct forest surveys and related studies and prepare reports and recommendations.",
+      "Provide advice and recommendations, as a consultant on forestry issues, to private woodlot owners, firefighters, government agencies or to companies.",
+      "Subcontract with loggers or pulpwood cutters for tree removal and to aid in road layout.",
+      "Establish short- and long-term plans for management of forest lands and forest resources.",
+      "Develop techniques for measuring and identifying trees.",
+      "Determine methods of cutting and removing timber with minimum waste and environmental damage.",
+      "Supervise activities of other forestry workers.",
+      "Negotiate terms and conditions of agreements and contracts for forest harvesting, forest management and leasing of forest lands.",
+      "Analyze effect of forest conditions on tree growth rates and tree species prevalence and the yield, duration, seed production, growth viability, and germination of different species.",
+      "Map forest area soils and vegetation to estimate the amount of standing timber and future value and growth.",
+      "Monitor wildlife populations and assess the impacts of forest operations on population and habitats.",
+      "Choose and prepare sites for new trees, using controlled burning, bulldozers, or herbicides to clear weeds, brush, and logging debris.",
+      "Plan and implement projects for conservation of wildlife habitats and soil and water quality.",
+      "Monitor contract compliance and results of forestry activities to assure adherence to government regulations.",
+      "Direct, and participate in, forest fire suppression.",
+      "Plan and direct construction and maintenance of recreation facilities, fire towers, trails, roads and bridges, ensuring that they comply with guidelines and regulations set for forested public lands.",
+      "Procure timber from private landowners.",
+      "Plan cutting programs and manage timber sales from harvested areas, assisting companies to achieve production goals.",
+      "Develop new techniques for wood or residue use."
+    ]
+  },
+  {
+    "soc_code": "19-2031.00",
+    "title": "Chemists",
+    "description": "Conduct qualitative and quantitative chemical analyses or experiments in laboratories for quality or process control or to develop new products or knowledge.",
+    "skills_and_abilities": [
+      {
+        "name": "Critical Thinking",
+        "score": 75.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Category Flexibility",
+        "score": 72.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 72.0
+      },
+      {
+        "name": "Mathematics",
+        "score": 69.0
+      }
+    ],
+    "tasks": [
+      "Study effects of various methods of processing, preserving, or packaging on composition or properties of foods.",
+      "Evaluate laboratory safety procedures to ensure compliance with standards or to make improvements as needed.",
+      "Prepare test solutions, compounds, or reagents for laboratory personnel to conduct tests.",
+      "Analyze organic or inorganic compounds to determine chemical or physical properties, composition, structure, relationships, or reactions, using chromatography, spectroscopy, or spectrophotometry techniques.",
+      "Induce changes in composition of substances by introducing heat, light, energy, or chemical catalysts for quantitative or qualitative analysis.",
+      "Write technical papers or reports or prepare standards and specifications for processes, facilities, products, or tests.",
+      "Confer with scientists or engineers to conduct analyses of research projects, interpret test results, or develop nonstandard tests.",
+      "Direct, coordinate, or advise personnel in test procedures for analyzing components or physical properties of materials.",
+      "Conduct quality control tests.",
+      "Compile and analyze test information to determine process or equipment operating efficiency or to diagnose malfunctions.",
+      "Purchase laboratory supplies, such as chemicals, when supplies are low or near their expiration date.",
+      "Maintain laboratory instruments to ensure proper working order and troubleshoot malfunctions when needed.",
+      "Develop, improve, or customize products, equipment, formulas, processes, or analytical methods."
+    ]
+  },
+  {
+    "soc_code": "19-3092.00",
+    "title": "Geographers",
+    "description": "Study the nature and use of areas of the Earth's surface, relating and interpreting interactions of physical and cultural phenomena. Conduct research on physical aspects of a region, including land forms, climates, soils, plants, and animals, and conduct research on the spatial implications of human activities within a given area, including social characteristics, economic activities, and political organization, as well as researching interdependence between regions at scales ranging from local to global.",
+    "skills_and_abilities": [
+      {
+        "name": "Inductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 78.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 78.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 75.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 66.0
+      },
+      {
+        "name": "Category Flexibility",
+        "score": 66.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      }
+    ],
+    "tasks": [
+      "Provide geographical information systems support to the private and public sectors.",
+      "Develop, operate, and maintain geographical information computer systems, including hardware, software, plotters, digitizers, printers, and video cameras.",
+      "Gather and compile geographic data from sources including censuses, field observations, satellite imagery, aerial photographs, and existing maps.",
+      "Collect data on physical characteristics of specified areas, such as geological formations, climates, and vegetation, using surveying or meteorological equipment.",
+      "Conduct field work at outdoor sites.",
+      "Locate and obtain existing geographic information databases.",
+      "Analyze geographic distributions of physical and cultural phenomena on local, regional, continental, or global scales.",
+      "Create and modify maps, graphs, or diagrams, using geographical information software and related equipment, and principles of cartography such as coordinate systems, longitude, latitude, elevation, topography, and map scales.",
+      "Study the economic, political, and cultural characteristics of a specific region's population.",
+      "Write and present reports of research findings.",
+      "Teach geography.",
+      "Provide consulting services in fields such as resource development and management, business location and market area analysis, environmental hazards, regional cultural history, and urban social planning."
+    ]
+  },
+  {
+    "soc_code": "21-1013.00",
+    "title": "Marriage and Family Therapists",
+    "description": "Diagnose and treat mental and emotional disorders, whether cognitive, affective, or behavioral, within the context of marriage and family systems. Apply psychotherapeutic and family systems theories and techniques in the delivery of services to individuals, couples, and families for the purpose of treating such diagnosed nervous and mental disorders.",
+    "skills_and_abilities": [
+      {
+        "name": "Social Perceptiveness",
+        "score": 85.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 81.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 81.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 75.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 75.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 75.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Ask questions that will help clients identify their feelings and behaviors.",
+      "Confer with other counselors, doctors, and professionals to analyze individual cases and to coordinate counseling services.",
+      "Follow up on results of counseling programs and clients' adjustments to determine effectiveness of programs.",
+      "Develop and implement individualized treatment plans addressing family relationship problems, destructive patterns of behavior, and other personal issues.",
+      "Confer with clients to develop plans for posttreatment activities.",
+      "Encourage individuals and family members to develop and use skills and strategies for confronting their problems in a constructive manner.",
+      "Determine whether clients should be counseled or referred to other specialists in such fields as medicine, psychiatry, and legal aid.",
+      "Supervise other counselors, social service staff, and assistants.",
+      "Write evaluations of parents and children for use by courts deciding divorce and custody cases, testifying in court if necessary.",
+      "Maintain case files that include activities, progress notes, evaluations, and recommendations.",
+      "Collect information about clients, using techniques such as testing, interviewing, discussion, and observation.",
+      "Gather information from doctors, schools, social workers, juvenile counselors, law enforcement personnel, and others to make recommendations to courts for resolution of child custody or visitation disputes.",
+      "Provide family counseling and treatment services to inmates participating in substance abuse programs.",
+      "Counsel clients on concerns, such as unsatisfactory relationships, divorce and separation, child rearing, home management, and financial difficulties.",
+      "Provide instructions to clients on how to obtain help with legal, financial, and other personal issues.",
+      "Provide public education and consultation to other professionals or groups regarding counseling services, issues, and methods."
+    ]
+  },
+  {
+    "soc_code": "25-2021.00",
+    "title": "Elementary School Teachers, Except Special Education",
+    "description": "Teach academic and social skills to students at the elementary school level.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Expression",
+        "score": 91.0
+      },
+      {
+        "name": "Instructing",
+        "score": 81.0
+      },
+      {
+        "name": "Learning Strategies",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 75.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 75.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 75.0
+      },
+      {
+        "name": "Coordination",
+        "score": 72.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 72.0
+      }
+    ],
+    "tasks": [
+      "Provide a variety of materials and resources for children to explore, manipulate, and use, both in learning activities and in imaginative play.",
+      "Read books to entire classes or small groups.",
+      "Prepare, administer, and grade tests and assignments to evaluate students' progress.",
+      "Organize and lead activities designed to promote physical, mental, and social development, such as games, arts and crafts, music, and storytelling.",
+      "Use computers, audio-visual aids, and other equipment and materials to supplement presentations.",
+      "Provide disabled students with assistive devices, supportive technology, and assistance accessing facilities, such as restrooms.",
+      "Perform administrative duties such as assisting in school libraries, hall and cafeteria monitoring, and bus loading and unloading.",
+      "Confer with other staff members to plan and schedule lessons promoting learning, following approved curricula.",
+      "Observe and evaluate students' performance, behavior, social development, and physical health.",
+      "Supervise, evaluate, and plan assignments for teacher assistants and volunteers.",
+      "Prepare reports on students and activities as required by administration.",
+      "Maintain accurate and complete student records as required by laws, district policies, and administrative regulations.",
+      "Meet with other professionals to discuss individual students' needs and progress.",
+      "Sponsor extracurricular activities such as clubs, student organizations, and academic contests.",
+      "Instruct students individually and in groups, using various teaching methods such as lectures, discussions, and demonstrations.",
+      "Enforce administration policies and rules governing students.",
+      "Prepare objectives and outlines for courses of study, following curriculum guidelines or requirements of states and schools.",
+      "Administer standardized ability and achievement tests and interpret results to determine student strengths and areas of need.",
+      "Attend professional meetings, educational conferences, and teacher training workshops to maintain and improve professional competence.",
+      "Prepare materials and classrooms for class activities.",
+      "Establish clear objectives for all lessons, units, and projects and communicate those objectives to students.",
+      "Prepare students for later grades by encouraging them to explore learning opportunities and to persevere with challenging tasks.",
+      "Prepare for assigned classes and show written evidence of preparation upon request of immediate supervisors.",
+      "Adapt teaching methods and instructional materials to meet students' varying needs and interests.",
+      "Plan and supervise class projects, field trips, visits by guest speakers or other experiential activities, and guide students in learning from those activities.",
+      "Meet with parents and guardians to discuss their children's progress and to determine priorities for their children and their resource needs.",
+      "Attend staff meetings and serve on committees, as required.",
+      "Organize and label materials and display students' work.",
+      "Prepare and implement remedial programs for students requiring extra help.",
+      "Select, store, order, issue, and inventory classroom equipment, materials, and supplies.",
+      "Assign and grade class work and homework.",
+      "Instruct and monitor students in the use and care of equipment and materials to prevent injuries and damage.",
+      "Establish and enforce rules for behavior and procedures for maintaining order among the students for whom they are responsible.",
+      "Confer with parents or guardians, teachers, counselors, and administrators to resolve students' behavioral and academic problems.",
+      "Involve parent volunteers and older students in children's activities to facilitate involvement in focused, complex play.",
+      "Collaborate with other teachers and administrators in the development, evaluation, and revision of elementary school programs.",
+      "Guide and counsel students with adjustment or academic problems, or special academic interests.",
+      "Plan and conduct activities for a balanced program of instruction, demonstration, and work time that provides students with opportunities to observe, question, and investigate."
+    ]
+  },
+  {
+    "soc_code": "25-3041.00",
+    "title": "Tutors",
+    "description": "Instruct individual students or small groups of students in academic subjects to support formal class instruction or to prepare students for standardized or admissions tests.",
+    "skills_and_abilities": [
+      {
+        "name": "Instructing",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 78.0
+      },
+      {
+        "name": "Learning Strategies",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 69.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 69.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 66.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 60.0
+      }
+    ],
+    "tasks": [
+      "Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.",
+      "Travel to students' homes, libraries, or schools to conduct tutoring sessions.",
+      "Provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",
+      "Prepare lesson plans or learning modules for tutoring sessions according to students' needs and goals.",
+      "Provide feedback to students using positive reinforcement techniques to encourage, motivate, or build confidence in students.",
+      "Schedule tutoring appointments with students or their parents.",
+      "Administer, proctor, or score academic or diagnostic assessments.",
+      "Identify, develop, or implement intervention strategies, tutoring plans, or individualized education plans (IEPs) for students.",
+      "Monitor student performance or assist students in academic environments, such as classrooms, laboratories, or computing centers.",
+      "Develop teaching or training materials, such as handouts, study materials, or quizzes.",
+      "Communicate students' progress to students, parents or teachers in written progress reports, in person, by phone, or by email.",
+      "Prepare and facilitate tutoring workshops, collaborative projects, or academic support sessions for small groups of students.",
+      "Research or recommend textbooks, software, equipment, or other learning materials to complement tutoring.",
+      "Organize tutoring environment to promote productivity and learning.",
+      "Teach students study skills, note-taking skills, and test-taking strategies.",
+      "Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",
+      "Maintain records of students' assessment results, progress, feedback, or school performance, ensuring confidentiality of all records.",
+      "Collaborate with students, parents, teachers, school administrators, or counselors to determine student needs, develop tutoring plans, or assess student progress.",
+      "Assess students' progress throughout tutoring sessions."
+    ]
+  },
+  {
+    "soc_code": "27-1022.00",
+    "title": "Fashion Designers",
+    "description": "Design clothing and accessories. Create original designs or adapt fashion trends.",
+    "skills_and_abilities": [
+      {
+        "name": "Originality",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 72.0
+      },
+      {
+        "name": "Fluency of Ideas",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Coordination",
+        "score": 69.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 69.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 69.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 66.0
+      }
+    ],
+    "tasks": [
+      "Determine prices for styles.",
+      "Examine sample garments on and off models, modifying designs to achieve desired effects.",
+      "Identify target markets for designs, looking at factors such as age, gender, and socioeconomic status.",
+      "Design custom clothing and accessories for individuals, retailers, or theatrical, television, or film productions.",
+      "Provide sample garments to agents and sales representatives, and arrange for showings of sample garments at sales meetings or fashion shows.",
+      "Confer with sales and management executives or with clients to discuss design ideas.",
+      "Test fabrics or oversee testing so that garment care labels can be created.",
+      "Collaborate with other designers to coordinate special products and designs.",
+      "Purchase new or used clothing and accessory items as needed to complete designs.",
+      "Direct and coordinate workers involved in drawing and cutting patterns and constructing samples or finished garments.",
+      "Research the styles and periods of clothing needed for film or theatrical productions.",
+      "Draw patterns for articles designed, cut patterns, and cut material according to patterns, using measuring instruments and scissors.",
+      "Attend fashion shows and review garment magazines and manuals to gather information about fashion trends and consumer preferences.",
+      "Sew together sections of material to form mockups or samples of garments or articles, using sewing equipment.",
+      "Adapt other designers' ideas for the mass market.",
+      "Develop a group of products or accessories, and market them through venues such as boutiques or mail-order catalogs.",
+      "Sketch rough and detailed drawings of apparel or accessories, and write specifications such as color schemes, construction, material types, and accessory requirements.",
+      "Select materials and production techniques to be used for products.",
+      "Read scripts and consult directors and other production staff to develop design concepts and plan productions.",
+      "Visit textile showrooms to keep up-to-date on the latest fabrics."
+    ]
+  },
+  {
+    "soc_code": "27-3092.00",
+    "title": "Court Reporters and Simultaneous Captioners",
+    "description": "Use verbatim methods and equipment to capture, store, retrieve, and transcribe pretrial and trial proceedings or other information. Includes stenocaptioners who operate computerized stenographic captioning equipment to provide captions of live or prerecorded broadcasts for hearing-impaired viewers.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 78.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 50.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 47.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 47.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 47.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 41.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 41.0
+      }
+    ],
+    "tasks": [
+      "File a legible transcript of records of a court case with the court clerk's office.",
+      "Transcribe recorded proceedings in accordance with established formats.",
+      "Record depositions and other proceedings for attorneys.",
+      "Ask speakers to clarify inaudible statements.",
+      "Take notes in shorthand or use a stenotype or shorthand machine that prints letters on a paper tape.",
+      "Record symbols on computer storage media and use computer aided transcription to translate and display them as text.",
+      "Record verbatim proceedings of courts, legislative assemblies, committee meetings, and other proceedings, using computerized recording equipment, electronic stenograph machines, or stenomasks.",
+      "File and store shorthand notes of court session.",
+      "Verify accuracy of transcripts by checking copies against original records of proceedings and accuracy of rulings by checking with judges.",
+      "Respond to requests during court sessions to read portions of the proceedings already recorded.",
+      "Provide transcripts of proceedings upon request of judges, lawyers, or the public."
+    ]
+  },
+  {
+    "soc_code": "29-1021.00",
+    "title": "Dentists, General",
+    "description": "Examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums. May treat diseases of nerve, pulp, and other dental tissues affecting oral hygiene and retention of teeth. May fit dental appliances or provide preventive care.",
+    "skills_and_abilities": [
+      {
+        "name": "Finger Dexterity",
+        "score": 81.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 78.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 78.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 78.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 75.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Analyze or evaluate dental needs to determine changes or trends in patterns of dental disease.",
+      "Eliminate irritating margins of fillings and correct occlusions, using dental instruments.",
+      "Perform oral or periodontal surgery on the jaw or mouth.",
+      "Use dental air turbines, hand instruments, dental appliances, or surgical implements.",
+      "Treat exposure of pulp by pulp capping, removal of pulp from pulp chamber, or root canal, using dental instruments.",
+      "Diagnose and treat diseases, injuries, or malformations of teeth, gums, or related oral structures and provide preventive or corrective services.",
+      "Administer anesthetics to limit the amount of pain experienced by patients during procedures.",
+      "Design, make, or fit prosthodontic appliances, such as space maintainers, bridges, or dentures, or write fabrication instructions or prescriptions for denturists or dental technicians.",
+      "Plan, organize, or maintain dental health programs.",
+      "Manage business aspects such as employing or supervising staff or handling paperwork or insurance claims.",
+      "Formulate plan of treatment for patient's teeth and mouth tissue.",
+      "Remove diseased tissue, using surgical instruments.",
+      "Apply fluoride or sealants to teeth.",
+      "Write prescriptions for antibiotics or other medications.",
+      "Use masks, gloves, and safety glasses to protect patients and self from infectious diseases.",
+      "Examine teeth, gums, and related tissues, using dental instruments, x-rays, or other diagnostic equipment, to evaluate dental health, diagnose diseases or abnormalities, and plan appropriate treatments.",
+      "Produce or evaluate dental health educational materials.",
+      "Advise or instruct patients regarding preventive dental care, the causes and treatment of dental problems, or oral health care services.",
+      "Fill pulp chamber and canal with endodontic materials.",
+      "Bleach, clean, or polish teeth to restore natural color."
+    ]
+  },
+  {
+    "soc_code": "29-1211.00",
+    "title": "Anesthesiologists",
+    "description": "Administer anesthetics and analgesics for pain management prior to, during, or after surgery.",
+    "skills_and_abilities": [
+      {
+        "name": "Problem Sensitivity",
+        "score": 100.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 88.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 88.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 88.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 81.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 81.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 78.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 75.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Order laboratory tests, x-rays, and other diagnostic procedures.",
+      "Confer with other medical professionals to determine type and method of anesthetic or sedation to render patient insensible to pain.",
+      "Manage anesthesiological services, coordinating them with other medical activities and formulating plans and procedures.",
+      "Position patient on operating table to maximize patient comfort and surgical accessibility.",
+      "Inform students and staff of types and methods of anesthesia administration, signs of complications, and emergency methods to counteract reactions.",
+      "Diagnose illnesses, using examinations, tests, and reports.",
+      "Provide medical care and consultation in many settings, prescribing medication and treatment and referring patients for surgery.",
+      "Decide when patients have recovered or stabilized enough to be sent to another room or ward or to be sent home following outpatient surgery.",
+      "Provide and maintain life support and airway management and help prepare patients for emergency surgery.",
+      "Coordinate and direct work of nurses, medical technicians, and other health care providers.",
+      "Administer anesthetic or sedation during medical procedures, using local, intravenous, spinal, or caudal methods.",
+      "Examine patient, obtain medical history, and use diagnostic tests to determine risk during surgical, obstetrical, and other medical procedures.",
+      "Record type and amount of anesthesia and patient condition throughout procedure.",
+      "Coordinate administration of anesthetics with surgeons during operation.",
+      "Instruct individuals and groups on ways to preserve health and prevent disease.",
+      "Monitor patient before, during, and after anesthesia and counteract adverse reactions or complications.",
+      "Conduct medical research to aid in controlling and curing disease, to investigate new medications, and to develop and test new medical techniques.",
+      "Schedule and maintain use of surgical suite, including operating, wash-up, waiting rooms, and anesthetic and sterilizing equipment."
+    ]
+  },
+  {
+    "soc_code": "29-1224.00",
+    "title": "Radiologists",
+    "description": "Diagnose and treat diseases and injuries using medical imaging techniques, such as x rays, magnetic resonance imaging (MRI), nuclear medicine, and ultrasounds. May perform minimally invasive medical procedures and tests.",
+    "skills_and_abilities": [
+      {
+        "name": "Inductive Reasoning",
+        "score": 88.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 88.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 85.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 85.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 85.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 85.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 78.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 78.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 78.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Serve as an offsite teleradiologist for facilities that do not have on-site radiologists.",
+      "Establish or enforce standards for protection of patients or personnel.",
+      "Develop or monitor procedures to ensure adequate quality control of images.",
+      "Document the performance, interpretation, or outcomes of all procedures performed.",
+      "Calculate, measure, or prepare radioisotope dosages.",
+      "Communicate examination results or diagnostic information to referring physicians, patients, or families.",
+      "Interpret imaging data and confer with other medical specialists to formulate diagnoses.",
+      "Monitor cleanup of radioactive spills to ensure that proper procedures are followed and that decontamination activities are conducted.",
+      "Check and approve the quality of diagnostic images before patients are discharged.",
+      "Instruct radiologic staff in desired techniques, positions, or projections.",
+      "Consult with anesthesiologists regarding recommended dosages or combinations of sedative drugs.",
+      "Review or transmit images and information using picture archiving or communications systems.",
+      "Establish and enforce radiation protection standards for patients and staff.",
+      "Monitor handling of radioactive materials to ensure that established procedures are followed.",
+      "Provide advice on the selection of nuclear medicine supplies or equipment.",
+      "Obtain patients' histories from electronic records, patient interviews, dictated reports, or by communicating with referring clinicians.",
+      "Recognize or treat complications during and after procedures, including blood pressure problems, pain, oversedation, or bleeding.",
+      "Perform cardiovascular nuclear medicine procedures such as exercise testing and pharmacologic stress testing.",
+      "Administer radioisotopes to clinical patients or research subjects.",
+      "Direct the safe management and disposal of radioactive substances.",
+      "Administer radiopaque substances by injection, orally, or as enemas to render internal structures and organs visible on x-ray films or fluoroscopic screens.",
+      "Advise other physicians of the clinical indications, limitations, assessments, or risks of diagnostic and therapeutic applications of radioactive materials.",
+      "Participate in quality improvement activities including discussions of areas where risk of error is high.",
+      "Perform interventional procedures such as image-guided biopsy, percutaneous transluminal angioplasty, transhepatic biliary drainage, and nephrostomy catheter placement.",
+      "Evaluate medical information to determine patients' risk factors, such as allergies to contrast agents, or to make decisions regarding the appropriateness of procedures.",
+      "Participate in continuing education activities to maintain and develop expertise.",
+      "Test dosage evaluation instruments and survey meters to ensure they are operating properly.",
+      "Determine appropriate tests or protocols based on patients' needs or conditions.",
+      "Schedule examinations and staff activities.",
+      "Prepare comprehensive interpretive reports of findings.",
+      "Schedule examinations and assign radiologic personnel.",
+      "Perform or interpret the outcomes of diagnostic imaging procedures including magnetic resonance imaging (MRI), computer tomography (CT), positron emission tomography (PET), nuclear cardiology treadmill studies, mammography, or ultrasound.",
+      "Consult with patients following radiation treatments to provide information and assess outcomes or to recommend further consultation or treatments as appropriate.",
+      "Prepare comprehensive interpretive reports of findings.",
+      "Conduct physical examinations to inform decisions about appropriate procedures.",
+      "Provide advice on types or quantities of radiology equipment needed to maintain facilities.",
+      "Provide counseling to radiologic patients to explain the processes, risks, benefits, or alternative treatments.",
+      "Conduct laboratory procedures, such as radioimmunoassay studies of blood or urine, using radionuclides.",
+      "Coordinate radiological services with other medical activities.",
+      "Confer with medical professionals regarding image-based diagnoses.",
+      "Treat malignant internal or external growths by exposure to radiation from radiographs (x-rays), high energy sources, or natural or synthetic radioisotopes.",
+      "Compare nuclear medicine procedures with other types of procedures such as computed tomography, ultrasonography, nuclear magnetic resonance imaging, and angiography.",
+      "Monitor quality control of radionuclide preparation, administration, or disposition ensuring that activities comply with applicable regulations and standards.",
+      "Supervise and teach residents or medical students.",
+      "Implement protocols in areas such as drugs, resuscitation, emergencies, power failures, and infection control.",
+      "Teach nuclear medicine, diagnostic radiology, or other specialties at graduate educational level.",
+      "Participate in research projects involving radiology.",
+      "Prescribe radionuclides and dosages to be administered to individual patients.",
+      "Interpret images using computer-aided detection or diagnosis systems.",
+      "Formulate plans and procedures for nuclear medicine departments.",
+      "Administer or maintain conscious sedation during and after procedures.",
+      "Interview and physically examine patients prior to testing.",
+      "Review procedure requests and patients' medical histories to determine applicability of procedures and radioisotopes to be used.",
+      "Direct nuclear medicine technologists or technicians regarding desired dosages, techniques, positions, and projections.",
+      "Develop treatment plans for radiology patients."
+    ]
+  },
+  {
+    "soc_code": "29-1229.01",
+    "title": "Allergists and Immunologists",
+    "description": "Diagnose, treat, and help prevent allergic diseases and disease processes affecting the immune system.",
+    "skills_and_abilities": [
+      {
+        "name": "Problem Sensitivity",
+        "score": 88.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 81.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 81.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 81.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 78.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 78.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 75.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Prescribe medication such as antihistamines, antibiotics, and nasal, oral, topical, or inhaled glucocorticosteroids.",
+      "Document patients' medical histories.",
+      "Order or perform diagnostic tests such as skin pricks and intradermal, patch, or delayed hypersensitivity tests.",
+      "Educate patients about diagnoses, prognoses, or treatments.",
+      "Conduct physical examinations of patients.",
+      "Develop individualized treatment plans for patients, considering patient preferences, clinical data, or the risks and benefits of therapies.",
+      "Assess the risks and benefits of therapies for allergic and immunologic disorders.",
+      "Interpret diagnostic test results to make appropriate differential diagnoses.",
+      "Diagnose or treat allergic or immunologic conditions.",
+      "Conduct laboratory or clinical research on allergy or immunology topics.",
+      "Perform allergen provocation tests such as nasal, conjunctival, bronchial, oral, food, and medication challenges.",
+      "Provide therapies, such as allergen immunotherapy and immunoglobin therapy, to treat immune conditions.",
+      "Engage in self-directed learning and continuing education activities.",
+      "Present research findings at national meetings or in peer-reviewed journals.",
+      "Provide allergy or immunology consultation or education to physicians or other health care providers.",
+      "Coordinate the care of patients with other health care professionals or support staff."
+    ]
+  },
+  {
+    "soc_code": "31-1131.00",
+    "title": "Nursing Assistants",
+    "description": "Provide or assist with basic care or support under the direction of onsite licensed nursing staff. Perform duties such as monitoring of health status, feeding, bathing, dressing, grooming, toileting, or ambulation of patients in a health or nursing facility. May include medication administration and other health-related tasks. Includes nursing care attendants, nursing aides, and nursing attendants.",
+    "skills_and_abilities": [
+      {
+        "name": "Service Orientation",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 66.0
+      },
+      {
+        "name": "Coordination",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 53.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 53.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 53.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 53.0
+      }
+    ],
+    "tasks": [
+      "Assist nurses or physicians in the operation of medical equipment or provision of patient care.",
+      "Clean and sanitize patient rooms, bathrooms, examination rooms, or other patient areas.",
+      "Collect specimens, such as urine, feces, or sputum.",
+      "Gather information from caregivers, nurses, or physicians about patient condition, treatment plans, or appropriate activities.",
+      "Exercise patients who are comatose, paralyzed, or have restricted mobility.",
+      "Lift or assist others to lift patients to move them on or off beds, examination tables, surgical tables, or stretchers.",
+      "Position or hold patients in position for surgical preparation.",
+      "Feed patients or assist patients to eat or drink.",
+      "Observe or examine patients to detect symptoms that may require medical attention, such as bruises, open wounds, or blood in urine.",
+      "Provide information such as directions, visiting hours, or patient status information to visitors or callers.",
+      "Turn or reposition bedridden patients.",
+      "Wash, groom, shave, or drape patients to prepare them for surgery, treatment, or examination.",
+      "Transport specimens, laboratory items, or pharmacy items, ensuring proper documentation and delivery to authorized personnel.",
+      "Communicate with patients to ascertain feelings or need for assistance or social and emotional support.",
+      "Change bed linens or make beds.",
+      "Document or otherwise report observations of patient behavior, complaints, or physical symptoms to nurses.",
+      "Undress, wash, and dress patients who are unable to do so for themselves.",
+      "Administer medications or treatments, such as catheterizations, suppositories, irrigations, enemas, massages, or douches, as directed by a physician or nurse.",
+      "Prepare or serve food trays.",
+      "Apply clean dressings, slings, stockings, or support bandages, under direction of nurse or physician.",
+      "Restock patient rooms with personal hygiene items, such as towels, washcloths, soap, or toilet paper.",
+      "Record vital signs, such as temperature, blood pressure, pulse, or respiration rate, as directed by medical or nursing staff.",
+      "Explain medical instructions to patients or family members.",
+      "Review patients' dietary restrictions, food allergies, and preferences to ensure patient receives appropriate diet.",
+      "Measure and record food and liquid intake or urinary and fecal output, reporting changes to medical or nursing staff.",
+      "Provide physical support to assist patients to perform daily living activities, such as getting out of bed, bathing, dressing, using the toilet, standing, walking, or exercising.",
+      "Remind patients to take medications or nutritional supplements.",
+      "Record height or weight of patients.",
+      "Set up treating or testing equipment, such as oxygen tents, portable radiograph (x-ray) equipment, or overhead irrigation bottles, as directed by a physician or nurse.",
+      "Supply, collect, or empty bedpans.",
+      "Stock or issue medical supplies, such as dressing packs or treatment trays.",
+      "Transport patients to treatment units, testing units, operating rooms, or other areas, using wheelchairs, stretchers, or moveable beds.",
+      "Answer patient call signals, signal lights, bells, or intercom systems to determine patients' needs."
+    ]
+  },
+  {
+    "soc_code": "31-9011.00",
+    "title": "Massage Therapists",
+    "description": "Perform therapeutic massages of soft tissues and joints. May assist in the assessment of range of motion and muscle strength, or propose client therapy plans.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 66.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 66.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 63.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 60.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 60.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 56.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 56.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 53.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 53.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 53.0
+      }
+    ],
+    "tasks": [
+      "Prepare and blend oils and apply the blends to clients' skin.",
+      "Massage and knead muscles and soft tissues of the body to provide treatment for medical conditions, injuries, or wellness maintenance.",
+      "Apply finger and hand pressure to specific points of the body.",
+      "Consult with other health care professionals, such as physiotherapists, chiropractors, physicians, and psychologists, to develop treatment plans for clients.",
+      "Maintain treatment records.",
+      "Treat clients in professional settings or travel to clients' offices and homes.",
+      "Refer clients to other types of therapists when necessary.",
+      "Use complementary aids, such as infrared lamps, wet compresses, ice, and whirlpool baths to promote clients' recovery, relaxation, and well-being.",
+      "Confer with clients about their medical histories and problems with stress or pain to determine how massage will be most helpful.",
+      "Assess clients' soft tissue condition, joint quality and function, muscle strength, and range of motion.",
+      "Provide clients with guidance and information about techniques for postural improvement and stretching, strengthening, relaxation, and rehabilitative exercises.",
+      "Perform other adjunctive therapies or treatment techniques in addition to massage.",
+      "Develop and propose client treatment plans that specify which types of massage are to be used."
+    ]
+  },
+  {
+    "soc_code": "33-2011.00",
+    "title": "Firefighters",
+    "description": "Control and extinguish fires or respond to emergency situations where life, property, or the environment is at risk. Duties may include fire prevention, emergency medical service, hazardous material response, search and rescue, and disaster assistance.",
+    "skills_and_abilities": [
+      {
+        "name": "Problem Sensitivity",
+        "score": 78.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 69.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Coordination",
+        "score": 66.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 66.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 66.0
+      }
+    ],
+    "tasks": [
+      "Inform and educate the public about fire prevention.",
+      "Inspect fire sites after flames have been extinguished to ensure that there is no further danger.",
+      "Take action to contain hazardous chemicals that might catch fire, leak, or spill.",
+      "Administer first aid and cardiopulmonary resuscitation to injured persons.",
+      "Collaborate with police to respond to accidents, disasters, and arson investigation calls.",
+      "Inform and educate the public on fire prevention.",
+      "Test and maintain tools, equipment, jump gear, and parachutes to ensure readiness for fire suppression activities.",
+      "Extinguish flames and embers to suppress fires, using shovels or engine- or hand-driven water or chemical pumps.",
+      "Fell trees, cut and clear brush, and dig trenches to create firelines, using axes, chainsaws or shovels.",
+      "Participate in courses, seminars and conferences, and study fire science literature, to learn firefighting techniques.",
+      "Protect property from water and smoke, using waterproof salvage covers, smoke ejectors, and deodorants.",
+      "Dress with equipment such as fire-resistant clothing and breathing apparatus.",
+      "Rescue fire victims, and administer emergency medical aid.",
+      "Select and attach hose nozzles, depending on fire type, and direct streams of water or chemicals onto fires.",
+      "Rescue victims from burning buildings and accident sites.",
+      "Patrol burned areas after fires to locate and eliminate hot spots that may restart fires.",
+      "Position and climb ladders to gain access to upper levels of buildings, or to rescue individuals from burning structures.",
+      "Participate in physical training activities to maintain a high level of physical fitness.",
+      "Establish firelines to prevent unauthorized persons from entering areas near fires.",
+      "Respond to fire alarms and other calls for assistance, such as automobile and industrial accidents.",
+      "Create openings in buildings for ventilation or entrance, using axes, chisels, crowbars, electric saws, or core cutters.",
+      "Establish water supplies, connect hoses, and direct water onto fires.",
+      "Maintain fire equipment and firehouse living quarters.",
+      "Search burning buildings to locate fire victims.",
+      "Operate pumps connected to high-pressure hoses.",
+      "Drive and operate fire fighting vehicles and equipment.",
+      "Operate pumps connected to high-pressure hoses.",
+      "Move toward the source of a fire, using knowledge of types of fires, construction design, building materials, and physical layout of properties.",
+      "Salvage property by removing broken glass, pumping out water, and ventilating buildings to remove smoke.",
+      "Inspect buildings for fire hazards and compliance with fire prevention ordinances, testing and checking smoke alarms and fire suppression equipment as necessary.",
+      "Observe forest areas from fire lookout towers to spot potential problems.",
+      "Take action to contain any hazardous chemicals that could catch fire, leak, or spill.",
+      "Participate in physical training to maintain high levels of physical fitness.",
+      "Perform forest maintenance and improvement tasks such as cutting brush, planting trees, building trails and marking timber.",
+      "Participate in fire prevention and inspection programs.",
+      "Assess fires and situations and report conditions to superiors to receive instructions, using two-way radios.",
+      "Serve as fully trained lead helicopter crewmember and as helispot manager.",
+      "Clean and maintain fire stations and fire fighting equipment and apparatus.",
+      "Lay hose lines and connect them to water supplies.",
+      "Maintain knowledge of current firefighting practices by participating in drills and by attending seminars, conventions, and conferences.",
+      "Drop weighted paper streamers from aircraft to determine the speed and direction of the wind at fire sites.",
+      "Prepare written reports that detail specifics of fire incidents.",
+      "Spray foam onto runways, extinguish fires, and rescue aircraft crew and passengers in air-crash emergencies.",
+      "Maintain contact with fire dispatchers at all times to notify them of the need for additional firefighters and supplies, or to detail any difficulties encountered.",
+      "Collaborate with other firefighters as a member of a firefighting crew.",
+      "Orient self in relation to fire, using compass and map, and collect supplies and equipment dropped by parachute.",
+      "Organize fire caches, positioning equipment for the most effective response.",
+      "Transport personnel and cargo to and from fire areas.",
+      "Participate in fire drills and demonstrations of fire fighting techniques."
+    ]
+  },
+  {
+    "soc_code": "33-3021.02",
+    "title": "Police Identification and Records Officers",
+    "description": "Collect evidence at crime scene, classify and identify fingerprints, and photograph evidence for use in criminal and civil cases.",
+    "skills_and_abilities": [
+      {
+        "name": "Inductive Reasoning",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 72.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      },
+      {
+        "name": "Category Flexibility",
+        "score": 60.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 56.0
+      }
+    ],
+    "tasks": [
+      "Serve as technical advisor and coordinate with other law enforcement workers or legal personnel to exchange information on crime scene collection activities.",
+      "Identify, compare, classify, and file fingerprints, using systems such as Automated Fingerprint Identification System (AFIS) or the Henry Classification System.",
+      "Coordinate or conduct instructional classes or in-services, such as citizen police academy classes and crime scene training for other officers.",
+      "Submit evidence to supervisors, crime labs, or court officials for legal proceedings.",
+      "Maintain records of evidence and write and review reports.",
+      "Process film and prints from crime or accident scenes.",
+      "Dust selected areas of crime scene and lift latent fingerprints, adhering to proper preservation procedures.",
+      "Interview victims, witnesses, suspects, and other law enforcement personnel.",
+      "Testify in court and present evidence.",
+      "Look for trace evidence, such as fingerprints, hairs, fibers, or shoe impressions, using alternative light sources when necessary.",
+      "Analyze and process evidence at crime scenes and in the laboratory, wearing protective equipment and using powders and chemicals.",
+      "Photograph crime or accident scenes for evidence records.",
+      "Perform emergency work during off-hours.",
+      "Package, store and retrieve evidence."
+    ]
+  },
+  {
+    "soc_code": "35-3023.00",
+    "title": "Fast Food and Counter Workers",
+    "description": "Perform duties such as taking orders and serving food and beverages. Serve customers at counter or from a steam table. May take payment. May prepare food and beverages.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 60.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 56.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 56.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 53.0
+      },
+      {
+        "name": "Coordination",
+        "score": 50.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 47.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 47.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 41.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 41.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 41.0
+      }
+    ],
+    "tasks": [
+      "Cook food or prepare food items, such as sandwiches, salads, and ice cream dishes, using standard formulas or following directions.",
+      "Relay food orders to cooks.",
+      "Select food items from serving or storage areas and place them in dishes, on serving trays, or in take-out bags.",
+      "Deliver orders to kitchens, and pick up and serve food when it is ready.",
+      "Accept payment from customers, and make change as necessary.",
+      "Monitor and order supplies or food items and restock as necessary to maintain inventory.",
+      "Request and record customer orders, and compute bills using cash registers, multi counting machines, or pencil and paper.",
+      "Prepare and serve cold drinks, or frozen milk drinks or desserts, using drink-dispensing, milkshake, or frozen custard machines.",
+      "Take customers' orders and write ordered items on tickets, giving ticket stubs to customers when needed to identify filled orders.",
+      "Distribute food to servers.",
+      "Serve salads, vegetables, meat, breads, and cocktails, ladle soups and sauces, portion desserts, and fill beverage cups and glasses.",
+      "Prepare bills for food, using cash registers, calculators, or adding machines, and accept payment or make change.",
+      "Order items needed to replenish supplies.",
+      "Arrange reservations for patrons of dining establishments.",
+      "Wash dishes, glassware, and silverware after meals.",
+      "Plan, prepare, and deliver meals to individuals with special dietary needs.",
+      "Set up dining areas for meals and clear them following meals.",
+      "Pack food, dishes, utensils, tablecloths, and accessories for transportation from catering or food preparation establishments to locations designated by customers.",
+      "Serve customers in eating places that specialize in fast service and inexpensive carry-out food.",
+      "Brew coffee and tea, and fill containers with requested beverages.",
+      "Add relishes and garnishes to food orders, according to instructions.",
+      "Communicate with customers regarding orders, comments, and complaints.",
+      "Serve food and beverages to guests at banquets or other social functions.",
+      "Arrange tables and decorations according to instructions.",
+      "Provide caterers with assistance in food preparation or service.",
+      "Clean and organize eating, service, and kitchen areas.",
+      "Cook or reheat food items such as french fries.",
+      "Wrap menu item such as sandwiches, hot entrees, and desserts for serving or for takeout.",
+      "Collect and return dirty dishes to the kitchen for washing.",
+      "Prepare daily food items, and cook simple foods and beverages, such as sandwiches, salads, soups, pizza, or coffee, using proper safety precautions and sanitary measures.",
+      "Scrub and polish counters, steam tables, and other equipment, and clean glasses, dishes, and fountain equipment.",
+      "Balance receipts and payments in cash registers.",
+      "Carve meat.",
+      "Perform personnel activities such as supervising and training employees.",
+      "Notify kitchen personnel of shortages or special orders.",
+      "Perform cleaning duties such as sweeping, mopping, and washing dishes, to keep equipment and facilities sanitary.",
+      "Replenish foods at serving stations.",
+      "Serve food, beverages, or desserts to customers in such settings as take-out counters of restaurants or lunchrooms, business or industrial establishments, hotel rooms, and cars."
+    ]
+  },
+  {
+    "soc_code": "37-2011.00",
+    "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+    "description": "Keep buildings in clean and orderly condition. Perform heavy cleaning duties, such as cleaning floors, shampooing rugs, washing walls and glass, and removing rubbish. Duties may include tending furnace and boiler, performing routine maintenance activities, notifying management of need for repairs, and cleaning snow or debris from sidewalk.",
+    "skills_and_abilities": [
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 50.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 50.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 50.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 50.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 50.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 47.0
+      },
+      {
+        "name": "Coordination",
+        "score": 44.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 44.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 44.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 44.0
+      }
+    ],
+    "tasks": [
+      "Notify managers concerning the need for major repairs or additions to building operating systems.",
+      "Service, clean, or supply restrooms.",
+      "Clean and polish furniture and fixtures.",
+      "Make adjustments or minor repairs to heating, cooling, ventilating, plumbing, or electrical systems.",
+      "Mix water and detergents or acids in containers to prepare cleaning solutions, according to specifications.",
+      "Clean and restore building interiors damaged by fire, smoke, or water, using commercial cleaning equipment.",
+      "Strip, seal, finish, and polish floors.",
+      "Requisition supplies or equipment needed for cleaning and maintenance duties.",
+      "Clean building floors by sweeping, mopping, scrubbing, or vacuuming.",
+      "Remove snow from sidewalks, driveways, or parking areas, using snowplows, snow blowers, or snow shovels, or spread snow melting chemicals.",
+      "Drive vans, industrial trucks, or other vehicles required to travel to or to perform cleaning work.",
+      "Gather and empty trash.",
+      "Monitor building security and safety by performing tasks such as locking doors after operating hours or checking electrical appliance use to ensure that hazards are not created.",
+      "Follow procedures for the use of chemical cleaners and power equipment to prevent damage to floors and fixtures.",
+      "Set up, arrange, or remove decorations, tables, chairs, ladders, or scaffolding to prepare facilities for events, such as banquets or meetings.",
+      "Move heavy furniture, equipment, or supplies, either manually or by using hand trucks.",
+      "Clean laboratory equipment, such as glassware or metal instruments, using solvents, brushes, rags, or power cleaning equipment.",
+      "Clean windows, glass partitions, or mirrors, using soapy water or other cleaners, sponges, or squeegees.",
+      "Spray insecticides or fumigants to prevent insect or rodent infestation.",
+      "Steam clean or shampoo carpets.",
+      "Clean chimneys, flues, and connecting pipes, using power or hand tools.",
+      "Dust furniture, walls, machines, or equipment.",
+      "Mow or trim lawns or shrubbery, using mowers or hand or power trimmers, and clear debris from grounds."
+    ]
+  },
+  {
+    "soc_code": "39-6012.00",
+    "title": "Concierges",
+    "description": "Assist patrons at hotel, apartment, or office building with personal services. May take messages; arrange or give advice on transportation, business services, or entertainment; or monitor guest requests for housekeeping and maintenance.",
+    "skills_and_abilities": [
+      {
+        "name": "Service Orientation",
+        "score": 81.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Coordination",
+        "score": 63.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 63.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 63.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 56.0
+      },
+      {
+        "name": "Fluency of Ideas",
+        "score": 53.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 53.0
+      }
+    ],
+    "tasks": [
+      "Arrange for the replacement of items lost by travelers.",
+      "Perform office duties on a temporary basis when needed.",
+      "Provide directions to guests.",
+      "Provide business services for guests, such as sending or receiving faxes or shipping packages.",
+      "Plan special events, parties, or meetings, which may include booking musicians or celebrities.",
+      "Clean and tidy hotel lounge.",
+      "Make reservations for patrons, such as for dinner, spa treatments, or golf tee times, and obtain tickets to special events.",
+      "Provide information about local features, such as shopping, dining, nightlife, or recreational destinations.",
+      "Carry out unusual requests, such as searching for hard-to-find items or arranging for exotic services, such as hot-air balloon rides.",
+      "Receive, store, or deliver luggage or mail.",
+      "Pick up and deliver items or run errands for guests.",
+      "Arrange for interpreters or translators when patrons require such services.",
+      "Arrange childcare services for guests.",
+      "Make travel arrangements for sightseeing or other tours.",
+      "Provide food and beverage services to guests."
+    ]
+  },
+  {
+    "soc_code": "39-9011.00",
+    "title": "Childcare Workers",
+    "description": "Attend to children at schools, businesses, private households, and childcare institutions. Perform a variety of tasks, such as dressing, feeding, bathing, and overseeing play.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 60.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 56.0
+      },
+      {
+        "name": "Coordination",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 53.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 53.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 53.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 53.0
+      }
+    ],
+    "tasks": [
+      "Place or hoist children into baths or pools.",
+      "Communicate with children's parents or guardians about daily activities, behaviors, and related issues.",
+      "Organize and participate in recreational activities and outings, such as games and field trips.",
+      "Support children's emotional and social development, encouraging understanding of others and positive self-concepts.",
+      "Read to children and teach them simple painting, drawing, handicrafts, and songs.",
+      "Care for children in institutional setting, such as group homes, nursery schools, private businesses, or schools for the handicapped.",
+      "Perform housekeeping duties, such as laundry, cleaning, dish washing, and changing of linens.",
+      "Help children with homework and school work.",
+      "Organize and store toys and materials to ensure order in activity areas.",
+      "Instruct children in health and personal habits, such as eating, resting, and toilet habits.",
+      "Sterilize bottles and prepare formulas.",
+      "Discipline children and recommend or initiate other measures to control behavior, such as caring for own clothing and picking up toys and books.",
+      "Observe and monitor children's play activities.",
+      "Create developmentally appropriate lesson plans.",
+      "Identify signs of emotional or developmental problems in children and bring them to parents' or guardians' attention.",
+      "Keep records on individual children, including daily observations and information about activities, meals served, and medications administered.",
+      "Dress children and change diapers.",
+      "Maintain a safe play environment.",
+      "Perform general personnel functions, such as supervision, training, and scheduling.",
+      "Perform general administrative tasks, such as taking attendance, editing internal paperwork, and making phone calls.",
+      "Sanitize toys and play equipment.",
+      "Operate in-house day-care centers within businesses.",
+      "Accompany children to and from school, on outings, and to medical appointments.",
+      "Regulate children's rest periods.",
+      "Assist in preparing food and serving meals and refreshments to children.",
+      "Provide care for mentally disturbed, delinquent, or handicapped children."
+    ]
+  },
+  {
+    "soc_code": "39-9011.01",
+    "title": "Nannies",
+    "description": "Care for children in private households and provide support and expertise to parents in satisfying children's physical, emotional, intellectual, and social needs. Duties may include meal planning and preparation, laundry and clothing care, organization of play activities and outings, discipline, intellectual stimulation, language activities, and transportation.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 72.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 72.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 69.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 66.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 66.0
+      },
+      {
+        "name": "Persuasion",
+        "score": 66.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 66.0
+      },
+      {
+        "name": "Coordination",
+        "score": 63.0
+      }
+    ],
+    "tasks": [
+      "Organize and conduct age-appropriate recreational activities, such as games, arts and crafts, sports, walks, and play dates.",
+      "Help develop or monitor family schedule.",
+      "Remove hazards and develop appropriate boundaries and rules to create a safe environment for children.",
+      "Observe children's behavior for irregularities, take temperature, transport children to doctor, or administer medications, as directed, to maintain children's health.",
+      "Perform first aid or cardiopulmonary resuscitation (CPR) when required.",
+      "Keep records of play, meal schedules, and bill payment.",
+      "Teach and perform age-appropriate activities, such as lap play, reading, and arts and crafts to encourage intellectual development of children.",
+      "Work with parents to develop and implement discipline programs to promote desirable child behavior.",
+      "Meet regularly with parents to discuss children's activities and development.",
+      "Assign appropriate chores and praise targeted behaviors to encourage development of self-control, self-confidence, and responsibility.",
+      "Help prepare and serve nutritionally balanced meals and snacks for children.",
+      "Regulate children's rest periods and nap schedules.",
+      "Instruct and assist children in the development of health and personal habits, such as eating, resting, and toilet behavior.",
+      "Instruct children in safe behavior, such as seeking adult assistance when crossing the street and avoiding contact or play with unsafe objects.",
+      "Transport children to schools, social outings, and medical appointments.",
+      "Supervise and assist with homework.",
+      "Model appropriate social behaviors and encourage concern for others to cultivate development of interpersonal relationships and communication skills.",
+      "Perform housekeeping and cleaning duties related to children's care."
+    ]
+  },
+  {
+    "soc_code": "41-2031.00",
+    "title": "Retail Salespersons",
+    "description": "Sell merchandise, such as furniture, motor vehicles, appliances, or apparel to consumers.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Persuasion",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 69.0
+      },
+      {
+        "name": "Negotiation",
+        "score": 63.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 63.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 53.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 53.0
+      },
+      {
+        "name": "Coordination",
+        "score": 50.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 50.0
+      }
+    ],
+    "tasks": [
+      "Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits.",
+      "Describe merchandise and explain use, operation, and care of merchandise to customers.",
+      "Compute sales prices, total purchases, and receive and process cash or credit payment.",
+      "Bag or package purchases and wrap gifts.",
+      "Sell or arrange for delivery, insurance, financing, or service contracts for merchandise.",
+      "Clean shelves, counters, and tables.",
+      "Answer questions regarding the store and its merchandise.",
+      "Estimate and quote trade-in allowances.",
+      "Place special orders or call other stores to find desired items.",
+      "Prepare sales slips or sales contracts.",
+      "Exchange merchandise for customers and accept returns.",
+      "Greet customers and ascertain what each customer wants or needs.",
+      "Demonstrate use or operation of merchandise.",
+      "Estimate cost of repair or alteration of merchandise.",
+      "Watch for and recognize security risks and thefts and know how to prevent or handle these situations.",
+      "Recommend, select, and help locate or obtain merchandise based on customer needs and desires.",
+      "Help customers try on or fit merchandise.",
+      "Inventory stock and requisition new stock.",
+      "Maintain records related to sales.",
+      "Estimate quantity and cost of merchandise required, such as paint or floor covering.",
+      "Prepare merchandise for purchase or rental.",
+      "Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.",
+      "Ticket, arrange, and display merchandise to promote sales.",
+      "Rent merchandise to customers."
+    ]
+  },
+  {
+    "soc_code": "41-9041.00",
+    "title": "Telemarketers",
+    "description": "Solicit donations or orders for goods or services over the telephone.",
+    "skills_and_abilities": [
+      {
+        "name": "Persuasion",
+        "score": 78.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 63.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 56.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 50.0
+      },
+      {
+        "name": "Negotiation",
+        "score": 50.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 47.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 44.0
+      }
+    ],
+    "tasks": [
+      "Obtain customer information such as name, address, and payment method, and enter orders into computers.",
+      "Maintain records of contacts, accounts, and orders.",
+      "Deliver prepared sales talks, reading from scripts that describe products or services, to persuade potential customers to purchase a product or service or to make a donation.",
+      "Schedule appointments for sales representatives to meet with prospective customers or for customers to attend sales presentations.",
+      "Record names, addresses, purchases, and reactions of prospects contacted.",
+      "Conduct client or market surveys to obtain information about potential customers.",
+      "Explain products or services and prices, and answer questions from customers.",
+      "Contact businesses or private individuals by telephone to solicit sales for goods or services, or to request donations for charitable causes.",
+      "Adjust sales scripts to better target the needs and interests of specific individuals.",
+      "Obtain names and telephone numbers of potential customers from sources such as telephone directories, magazine reply cards, and lists purchased from other organizations.",
+      "Telephone or write letters to respond to correspondence from customers or to follow up initial sales contacts.",
+      "Answer telephone calls from potential customers who have been solicited through advertisements."
+    ]
+  },
+  {
+    "soc_code": "43-3041.00",
+    "title": "Gambling Cage Workers",
+    "description": "In a gambling establishment, conduct financial transactions for patrons. Accept patron's credit application and verify credit references to provide check-cashing authorization or to establish house credit accounts. May reconcile daily summaries of transactions to balance books. May sell gambling chips, tokens, or tickets to patrons, or to other workers for resale to patrons. May convert gambling chips, tokens, or tickets to currency upon patron's request. May use a cash register or computer to record transaction.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 72.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      },
+      {
+        "name": "Mathematics",
+        "score": 56.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 56.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 50.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 50.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 50.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 50.0
+      }
+    ],
+    "tasks": [
+      "Follow all gaming regulations.",
+      "Sell gambling chips, tokens, or tickets to patrons or to other workers for resale to patrons.",
+      "Provide assistance in the training and orientation of new cashiers.",
+      "Supply currency, coins, chips, or gaming checks to other departments as needed.",
+      "Prepare bank deposits, balancing assigned funds as necessary.",
+      "Convert gaming checks, coupons, tokens, or coins to currency for gaming patrons.",
+      "Perform removal and rotation of cash, coin, or chip inventories as necessary.",
+      "Prepare reports, including assignment of company funds or recording of department revenues.",
+      "Maintain cage security.",
+      "Record casino exchange transactions, using cash registers.",
+      "Count funds and reconcile daily summaries of transactions to balance books.",
+      "Cash checks and process credit card advances for patrons.",
+      "Verify accuracy of reports, such as authorization forms, transaction reconciliations, or exchange summary reports.",
+      "Provide customers with information about casino operations.",
+      "Establish new computer accounts.",
+      "Determine cash requirements for windows and order all necessary currency, coins, or chips.",
+      "Maintain confidentiality of customers' transactions."
+    ]
+  },
+  {
+    "soc_code": "43-5011.00",
+    "title": "Cargo and Freight Agents",
+    "description": "Expedite and route movement of incoming and outgoing cargo and freight shipments in airline, train, and trucking terminals and shipping docks. Take orders from customers and arrange pickup of freight and cargo for delivery to loading platform. Prepare and examine bills of lading to determine shipping charges and tariffs.",
+    "skills_and_abilities": [
+      {
+        "name": "Oral Comprehension",
+        "score": 75.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 75.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 72.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 56.0
+      },
+      {
+        "name": "Negotiation",
+        "score": 53.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 53.0
+      },
+      {
+        "name": "Written Expression",
+        "score": 53.0
+      },
+      {
+        "name": "Complex Problem Solving",
+        "score": 50.0
+      },
+      {
+        "name": "Coordination",
+        "score": 50.0
+      },
+      {
+        "name": "Service Orientation",
+        "score": 50.0
+      }
+    ],
+    "tasks": [
+      "Retrieve stored items and trace lost shipments as necessary.",
+      "Advise clients on transportation and payment methods.",
+      "Direct delivery trucks to shipping doors or designated marshaling areas and help load and unload goods safely.",
+      "Prepare manifests showing numbers of airplane passengers and baggage, mail, and freight weights, transmitting data to destinations.",
+      "Estimate freight or postal rates and record shipment costs and weights.",
+      "Arrange insurance coverage for goods.",
+      "Inspect and count items received and check them against invoices or other documents, recording shortages and rejecting damaged goods.",
+      "Open cargo containers and unwrap contents, using steel cutters, crowbars, or other hand tools.",
+      "Pack goods for shipping, using tools such as staplers, strapping machines, and hammers.",
+      "Assemble containers and crates used to transport items such as machines or vehicles.",
+      "Track delivery progress of shipments.",
+      "Direct or participate in cargo loading to ensure completeness of load and even distribution of weight.",
+      "Enter shipping information into a computer by hand or by a hand-held scanner that reads bar codes on goods.",
+      "Maintain a supply of packing materials.",
+      "Check import or export documentation to determine cargo contents and use tariff coding system to classify goods according to fee or tariff group.",
+      "Install straps, braces, and padding to loads to prevent shifting or damage during shipment.",
+      "Keep records of all goods shipped, received, and stored.",
+      "Notify consignees, passengers, or customers of freight or baggage arrival and arrange for delivery.",
+      "Coordinate and supervise activities of workers engaged in packing and shipping merchandise.",
+      "Contact vendors or claims adjustment departments to resolve shipment problems or contact service depots to arrange for repairs.",
+      "Negotiate and arrange transport of goods with shipping or freight companies.",
+      "Route received goods to first available flight or to appropriate storage areas or departments, using forklifts, hand trucks, or other equipment.",
+      "Determine method of shipment and prepare bills of lading, invoices, and other shipping documents.",
+      "Attach address labels, identification codes, and shipping instructions to containers."
+    ]
+  },
+  {
+    "soc_code": "47-2111.00",
+    "title": "Electricians",
+    "description": "Install, maintain, and repair electrical wiring, equipment, and fixtures. Ensure that work is in accordance with relevant codes. May install or service street lights, intercom systems, or electrical control systems.",
+    "skills_and_abilities": [
+      {
+        "name": "Problem Sensitivity",
+        "score": 75.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 69.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 69.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 66.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 60.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 60.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 60.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 56.0
+      }
+    ],
+    "tasks": [
+      "Provide assistance during emergencies by operating floodlights or generators, placing flares, or driving needed vehicles.",
+      "Perform business management duties, such as maintaining records or files, preparing reports, or ordering supplies or equipment.",
+      "Assemble, install, test, or maintain electrical or electronic wiring, equipment, appliances, apparatus, or fixtures, using hand tools or power tools.",
+      "Work from ladders, scaffolds, or roofs to install, maintain, or repair electrical wiring, equipment, or fixtures.",
+      "Fasten small metal or plastic boxes to walls to house electrical switches or outlets.",
+      "Install ground leads and connect power cables to equipment, such as motors.",
+      "Test electrical systems or continuity of circuits in electrical wiring, equipment, or fixtures, using testing devices, such as ohmmeters, voltmeters, or oscilloscopes, to ensure compatibility and safety of system.",
+      "Connect wires to circuit breakers, transformers, or other components.",
+      "Perform physically demanding tasks, such as digging trenches to lay conduit or moving or lifting heavy objects.",
+      "Inspect electrical systems, equipment, or components to identify hazards, defects, or the need for adjustment or repair, and to ensure compliance with codes.",
+      "Diagnose malfunctioning systems, apparatus, or components, using test equipment and hand tools to locate the cause of a breakdown and correct the problem.",
+      "Direct or train workers to install, maintain, or repair electrical wiring, equipment, or fixtures.",
+      "Construct or fabricate parts, using hand tools, according to specifications.",
+      "Prepare sketches or follow blueprints to determine the location of wiring or equipment and to ensure conformance to building and safety codes.",
+      "Provide preliminary sketches or cost estimates for materials or services.",
+      "Plan layout and installation of electrical wiring, equipment, or fixtures, based on job specifications and local codes.",
+      "Use a variety of tools or equipment, such as power construction equipment, measuring devices, power tools, and testing equipment, such as oscilloscopes, ammeters, or test lamps.",
+      "Advise management on whether continued operation of equipment could be hazardous.",
+      "Maintain current electrician's license or identification card to meet governmental regulations.",
+      "Place conduit, pipes, or tubing, inside designated partitions, walls, or other concealed areas, and pull insulated wires or cables through the conduit to complete circuits between boxes.",
+      "Repair or replace wiring, equipment, or fixtures, using hand tools or power tools."
+    ]
+  },
+  {
+    "soc_code": "47-2181.00",
+    "title": "Roofers",
+    "description": "Cover roofs of structures with shingles, slate, asphalt, aluminum, wood, or related materials. May spray roofs, sidings, and walls with material to bind, seal, insulate, or soundproof sections of structures.",
+    "skills_and_abilities": [
+      {
+        "name": "Problem Sensitivity",
+        "score": 69.0
+      },
+      {
+        "name": "Coordination",
+        "score": 66.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 63.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 63.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 63.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 60.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 53.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 53.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 53.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 53.0
+      }
+    ],
+    "tasks": [
+      "Inspect problem roofs to determine the best repair procedures.",
+      "Install solar roofing systems that have energy-collecting photovoltaic panels built into roofing membranes, shingles, or tiles.",
+      "Attach roofing paper to roofs in overlapping strips to form bases for other materials.",
+      "Apply modular soil- and plant-containing grids over existing roof membranes to create green roofs.",
+      "Cover exposed nailheads with roofing cement or caulking to prevent water leakage or rust.",
+      "Apply reflective roof coatings, such as special paints or single-ply roofing sheets, to existing roofs to reduce solar heat absorption.",
+      "Mop or pour hot asphalt or tar onto roof bases.",
+      "Attach solar panels to existing roofs, according to specifications and without damaging roofing materials or the structural integrity of buildings.",
+      "Install skylights on roofs to increase natural light inside structures or to reduce energy costs.",
+      "Smooth rough spots to prepare surfaces for waterproofing, using hammers, chisels, or rubbing bricks.",
+      "Apply plastic coatings, membranes, fiberglass, or felt over sloped roofs before applying shingles.",
+      "Install layers of vegetation-based green roofs, including protective membranes, drainage, aeration, water retention and filter layers, soil substrates, irrigation materials, and plants.",
+      "Spray roofs, sidings, or walls to bind, seal, insulate, or soundproof sections of structures, using spray guns, air compressors, or heaters.",
+      "Apply gravel or pebbles over top layers of roofs, using rakes or stiff-bristled brooms.",
+      "Remove snow, water, or debris from roofs prior to applying roofing materials.",
+      "Punch holes in slate, tile, terra cotta, or wooden shingles, using punches and hammers.",
+      "Waterproof or damp-proof walls, floors, roofs, foundations, or basements by painting or spraying surfaces with waterproof coatings or by attaching waterproofing membranes to surfaces.",
+      "Cement or nail flashing strips of metal or shingle over joints to make them watertight.",
+      "Cut felt, shingles, or strips of flashing to fit angles formed by walls, vents, or intersecting roof surfaces.",
+      "Install partially overlapping layers of material over roof insulation surfaces, using chalk lines, gauges on shingling hatchets, or lines on shingles.",
+      "Estimate materials and labor required to complete roofing jobs.",
+      "Apply alternate layers of hot asphalt or tar and roofing paper to roofs.",
+      "Set up scaffolding to provide safe access to roofs.",
+      "Glaze top layers to make a smooth finish or embed gravel in the bitumen for rough surfaces.",
+      "Cover roofs or exterior walls of structures with slate, asphalt, aluminum, wood, gravel, gypsum, or related materials, using brushes, knives, punches, hammers, or other tools.",
+      "Install, repair, or replace single-ply roofing systems, using waterproof sheet materials such as modified plastics, elastomeric, or other asphaltic compositions.",
+      "Install attic ventilation systems, such as turbine vents, gable or ridge vents, or conventional or solar-powered exhaust fans.",
+      "Install vapor barriers or layers of insulation on flat roofs."
+    ]
+  },
+  {
+    "soc_code": "47-5011.00",
+    "title": "Derrick Operators, Oil and Gas",
+    "description": "Rig derrick equipment and operate pumps to circulate mud or fluid through drill hole.",
+    "skills_and_abilities": [
+      {
+        "name": "Multilimb Coordination",
+        "score": 75.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 72.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 69.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 69.0
+      },
+      {
+        "name": "Reaction Time",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 63.0
+      },
+      {
+        "name": "Depth Perception",
+        "score": 63.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 60.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 60.0
+      }
+    ],
+    "tasks": [
+      "Weigh clay, and mix with water and chemicals to make drilling mud, using portable mixers.",
+      "Repair pumps, mud tanks, and related equipment.",
+      "Inspect derricks, or order their inspection, prior to being raised or lowered.",
+      "String cables through pulleys and blocks.",
+      "Listen to mud pumps and check regularly for vibration and other problems to ensure that rig pumps and drilling mud systems are working properly.",
+      "Supervise crew members, and provide assistance in training them.",
+      "Start pumps that circulate mud through drill pipes and boreholes to cool drill bits and flush out drill cuttings.",
+      "Inspect derricks for flaws, and clean and oil derricks to maintain proper working conditions.",
+      "Guide lengths of pipe into and out of elevators.",
+      "Prepare mud reports, and instruct crews about the handling of any chemical additives.",
+      "Clamp holding fixtures on ends of hoisting cables.",
+      "Position and align derrick elements, using harnesses and platform climbing devices.",
+      "Steady pipes during connection to or disconnection from drill or casing strings.",
+      "Set and bolt crown blocks to posts at tops of derricks.",
+      "Control the viscosity and weight of the drilling fluid."
+    ]
+  },
+  {
+    "soc_code": "47-5022.00",
+    "title": "Excavating and Loading Machine and Dragline Operators, Surface Mining",
+    "description": "Operate or tend machinery at surface mining site, equipped with scoops, shovels, or buckets to excavate and load loose materials.",
+    "skills_and_abilities": [
+      {
+        "name": "Control Precision",
+        "score": 78.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 78.0
+      },
+      {
+        "name": "Depth Perception",
+        "score": 75.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 72.0
+      },
+      {
+        "name": "Reaction Time",
+        "score": 72.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 69.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 69.0
+      },
+      {
+        "name": "Rate Control",
+        "score": 69.0
+      },
+      {
+        "name": "Response Orientation",
+        "score": 69.0
+      },
+      {
+        "name": "Spatial Orientation",
+        "score": 66.0
+      }
+    ],
+    "tasks": [
+      "Measure and verify levels of rock or gravel, bases, or other excavated material.",
+      "Direct workers engaged in placing blocks or outriggers to prevent capsizing of machines when lifting heavy loads.",
+      "Create or maintain inclines or ramps.",
+      "Move levers, depress foot pedals, and turn dials to operate power machinery, such as power shovels, stripping shovels, scraper loaders, or backhoes.",
+      "Become familiar with digging plans, machine capabilities and limitations, and with efficient and safe digging procedures in a given application.",
+      "Handle slides, mud, or pit cleanings or maintenance.",
+      "Perform manual labor to prepare or finish sites, such as shoveling materials by hand.",
+      "Lubricate, adjust, or repair machinery and replace parts, such as gears, bearings, or bucket teeth.",
+      "Move materials over short distances, such as around a construction site, factory, or warehouse.",
+      "Operate machinery to perform activities such as backfilling excavations, vibrating or breaking rock or concrete, or making winter roads.",
+      "Set up or inspect equipment prior to operation.",
+      "Adjust dig face angles for varying overburden depths and set lengths.",
+      "Drive machines to work sites.",
+      "Observe hand signals, grade stakes, or other markings when operating machines so that work can be performed to specifications.",
+      "Direct ground workers engaged in activities such as moving stakes or markers, or changing positions of towers.",
+      "Receive written or oral instructions regarding material movement or excavation."
+    ]
+  },
+  {
+    "soc_code": "49-3023.00",
+    "title": "Automotive Service Technicians and Mechanics",
+    "description": "Diagnose, adjust, repair, or overhaul automotive vehicles.",
+    "skills_and_abilities": [
+      {
+        "name": "Deductive Reasoning",
+        "score": 72.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 72.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 69.0
+      },
+      {
+        "name": "Inductive Reasoning",
+        "score": 69.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 69.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 66.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 66.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 63.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 60.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 56.0
+      }
+    ],
+    "tasks": [
+      "Overhaul or replace carburetors, blowers, generators, distributors, starters, and pumps.",
+      "Install, adjust, or repair hydraulic or electromagnetic automatic lift mechanisms used to raise and lower automobile windows, seats, and tops.",
+      "Follow checklists to ensure all important parts are examined, including belts, hoses, steering systems, spark plugs, brake and fuel systems, wheel bearings, and other potentially troublesome areas.",
+      "Disassemble units and inspect parts for wear, using micrometers, calipers, and gauges.",
+      "Align vehicles' front ends.",
+      "Tune automobile engines to ensure proper and efficient functioning.",
+      "Test and adjust repaired systems to meet manufacturers' performance specifications.",
+      "Repair, overhaul, or adjust automobile brake systems.",
+      "Examine vehicles to determine extent of damage or malfunctions.",
+      "Align wheels, axles, frames, torsion bars, and steering mechanisms of automobiles, using special alignment equipment and wheel-balancing machines.",
+      "Install and repair accessories, such as radios, heaters, mirrors, and windshield wipers.",
+      "Repair, reline, replace, and adjust brakes.",
+      "Replace and adjust headlights.",
+      "Conduct visual inspections of compressed natural gas fuel systems to identify cracks, gouges, abrasions, discoloration, broken fibers, loose brackets, damaged gaskets, or other problems.",
+      "Repair or replace defective ball joint suspensions, brake shoes, or wheel bearings.",
+      "Test drive vehicles and test components and systems, using equipment such as infrared engine analyzers, compression gauges, and computerized diagnostic devices.",
+      "Review work orders and discuss work with supervisors.",
+      "Repair or replace parts such as pistons, rods, gears, valves, and bearings.",
+      "Diagnose and replace or repair engine management systems or related sensors for flexible fuel vehicles (FFVs) with ignition timing, fuel rate, alcohol concentration, or air-to-fuel ratio malfunctions.",
+      "Repair and service air conditioning, heating, engine cooling, and electrical systems.",
+      "Service or repair butane gas, ethanol, methane, or other alternative or biofuel systems.",
+      "Estimate costs of vehicle repair.",
+      "Rewire ignition systems, lights, and instrument panels.",
+      "Repair radiator leaks.",
+      "Service internal combustion engine systems for hybrid electric vehicles.",
+      "Troubleshoot fuel, ignition, and emissions control systems, using electronic testing equipment.",
+      "Repair damaged automobile bodies.",
+      "Test electronic computer components in automobiles to ensure proper operation.",
+      "Plan work procedures, using charts, technical manuals, and experience.",
+      "Repair or rebuild clutch systems.",
+      "Inspect vehicles for damage and record findings so that necessary repairs can be made.",
+      "Service biodiesel fuel tanks for algae or sludge accumulation by cleaning, changing filters, or adding algaecides.",
+      "Inspect propane or natural gas high-pressure tanks, piping, or pressure regulators.",
+      "Repair manual and automatic transmissions.",
+      "Maintain cleanliness of work area.",
+      "Repair or replace shock absorbers.",
+      "Retrofit vehicle fuel systems with aftermarket products, such as vapor transfer devices, evaporation control devices, swirlers, lean burn devices, or friction reduction devices, to enhance combustion and fuel efficiency.",
+      "Install or repair air conditioners and service components, such as compressors, condensers, and controls.",
+      "Replace hydraulically assisted systems with electric-powered systems, such as power steering pumps or air conditioning compressors, to improve fuel economy.",
+      "Replace defective mufflers and tailpipes.",
+      "Perform routine and scheduled maintenance services, such as oil changes, lubrications, and tune-ups.",
+      "Repair, replace, or adjust defective fuel injectors, carburetor parts, and gasoline filters.",
+      "Change spark plugs, fuel filters, air filters, and batteries in hybrid electric vehicles.",
+      "Convert vehicle fuel systems from gasoline to butane gas, ethanol, methane, or other alternative or biofuel systems.",
+      "Rebuild parts, such as crankshafts and cylinder blocks.",
+      "Tear down, repair, and rebuild faulty assemblies, such as power systems, steering systems, and linkages.",
+      "Confer with customers to obtain descriptions of vehicle problems and to discuss work to be performed and future repair requirements.",
+      "Rebuild, repair, or test automotive fuel injection units.",
+      "Diagnose and repair regenerative braking systems or hydraulic systems in hybrid vehicles.",
+      "Repair or replace automobile leaf springs."
+    ]
+  },
+  {
+    "soc_code": "51-3022.00",
+    "title": "Meat, Poultry, and Fish Cutters and Trimmers",
+    "description": "Use hands or hand tools to perform routine cutting and trimming of meat, poultry, and seafood.",
+    "skills_and_abilities": [
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 60.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 56.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 53.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 50.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 50.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 50.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 50.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 50.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 50.0
+      }
+    ],
+    "tasks": [
+      "Use knives, cleavers, meat saws, bandsaws, or other equipment to perform meat cutting and trimming.",
+      "Inspect meat products for defects, bruises or blemishes and remove them along with any excess fat.",
+      "Produce hamburger meat and meat trimmings.",
+      "Prepare ready-to-heat foods by filleting meat or fish or cutting it into bite-sized pieces, preparing and adding vegetables or applying sauces or breading.",
+      "Clean and salt hides.",
+      "Remove parts, such as skin, feathers, scales or bones, from carcass.",
+      "Prepare sausages, luncheon meats, hot dogs, and other fabricated meat products, using meat trimmings and hamburger meat.",
+      "Cut and trim meat to prepare for packing.",
+      "Clean, trim, slice, and section carcasses for future processing.",
+      "Separate meats and byproducts into specified containers and seal containers.",
+      "Weigh meats and tag containers for weight and contents.",
+      "Obtain and distribute specified meat or carcass.",
+      "Process primal parts into cuts that are ready for retail use."
+    ]
+  },
+  {
+    "soc_code": "51-6011.00",
+    "title": "Laundry and Dry Cleaning Workers",
+    "description": "Operate or tend washing or dry-cleaning machines to wash or dry-clean industrial or household articles, such as cloth garments, suede, leather, furs, blankets, draperies, linens, rugs, and carpets. Includes spotters and dyers of these articles.",
+    "skills_and_abilities": [
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 56.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 50.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 50.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 50.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 50.0
+      },
+      {
+        "name": "Social Perceptiveness",
+        "score": 47.0
+      },
+      {
+        "name": "Finger Dexterity",
+        "score": 47.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 47.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 47.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 44.0
+      }
+    ],
+    "tasks": [
+      "Examine and sort into lots articles to be cleaned, according to color, fabric, dirt content, and cleaning technique required.",
+      "Rinse articles in water and acetic acid solutions to remove excess dye and to fix colors.",
+      "Dye articles to change or restore their colors, using knowledge of textile compositions and the properties and effects of bleaches and dyes.",
+      "Sprinkle chemical solvents over stains, and pat areas with brushes or sponges to remove stains.",
+      "Inspect soiled articles to determine sources of stains, to locate color imperfections, and to identify items requiring special treatment.",
+      "Apply bleaching powders to spots and spray them with steam to remove stains from fabrics that do not respond to other cleaning solvents.",
+      "Load articles into washers or dry-cleaning machines, or direct other workers to perform loading.",
+      "Match sample colors, applying knowledge of bleaching agent and dye properties, and types, construction, conditions, and colors of articles.",
+      "Spray steam, water, or air over spots to flush out chemicals, dry material, raise naps, or brighten colors.",
+      "Immerse articles in bleaching baths to strip colors.",
+      "Mix and add detergents, dyes, bleaches, starches, and other solutions and chemicals to clean, color, dry, or stiffen articles.",
+      "Start pumps to operate distilling systems that drain and reclaim dry cleaning solvents.",
+      "Operate extractors and driers, or direct their operation.",
+      "Wash, dry-clean, or glaze delicate articles or fur garment linings by hand, using mild detergents or dry cleaning solutions.",
+      "Clean fabrics, using vacuums or air hoses.",
+      "Identify articles' fabrics and original dyes by sight and touch, or by testing samples with fire or chemical reagents.",
+      "Clean machine filters, and lubricate equipment.",
+      "Apply chemicals to neutralize the effects of solvents.",
+      "Hang curtains, drapes, blankets, pants, and other garments on stretch frames to dry.",
+      "Start washers, dry cleaners, driers, or extractors, and turn valves or levers to regulate machine processes and the volume of soap, detergent, water, bleach, starch, and other additives.",
+      "Mix bleaching agents with hot water in vats, and soak material until it is bleached.",
+      "Sort and count articles removed from dryers, and fold, wrap, or hang them.",
+      "Determine spotting procedures and proper solvents, based on fabric and stain types.",
+      "Test fabrics in inconspicuous places to determine whether solvents will damage dyes or fabrics.",
+      "Iron or press articles, fabrics, and furs, using hand irons or pressing machines.",
+      "Remove items from washers or dry-cleaning machines, or direct other workers to do so.",
+      "Operate dry-cleaning machines to clean soiled articles.",
+      "Pre-soak, sterilize, scrub, spot-clean, and dry contaminated or stained articles, using neutralizer solutions and portable machines.",
+      "Mend and sew articles, using hand stitching, adhesive patches, or sewing machines.",
+      "Spread soiled articles on work tables, and position stained portions over vacuum heads or on marble slabs.",
+      "Receive and mark articles for laundry or dry cleaning with identifying code numbers or names, using hand or machine markers.",
+      "Operate machines that comb, dry and polish furs, clean, sterilize and fluff feathers and blankets, or roll and package towels."
+    ]
+  },
+  {
+    "soc_code": "51-9071.00",
+    "title": "Jewelers and Precious Stone and Metal Workers",
+    "description": "Design, fabricate, adjust, repair, or appraise jewelry, gold, silver, other precious metals, or gems.",
+    "skills_and_abilities": [
+      {
+        "name": "Finger Dexterity",
+        "score": 69.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 66.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 60.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 60.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 56.0
+      },
+      {
+        "name": "Oral Expression",
+        "score": 53.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 50.0
+      },
+      {
+        "name": "Category Flexibility",
+        "score": 50.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 50.0
+      },
+      {
+        "name": "Written Comprehension",
+        "score": 50.0
+      }
+    ],
+    "tasks": [
+      "Form concavities in bottoms of articles to improve stability, using tracing punches and hammers.",
+      "Trim gates and sharp points from cast parts, using band saws.",
+      "Fabricate, modify, or repair jigs, fixtures, and hand tools such as scrapers, cutters, gougers, and shapers.",
+      "Glue plastic separators to handles of coffeepots and teapots.",
+      "Cut and file pieces of jewelry such as rings, brooches, bracelets, and lockets.",
+      "Polish articles by hand or by using a polishing wheel.",
+      "Position stones and metal pieces, and set, mount, and secure items in place, using setting and hand tools.",
+      "Cut, shape, and smooth gemstones, pearls, and metal pieces, using abrasives, grinding stones, and power and hand tools.",
+      "Weigh, mix, and melt metal alloys or materials needed for jewelry models.",
+      "Place metal samples in frames, pack raw rubber around samples, and clamp samples, frames, and rubber into vulcanizing machines.",
+      "Verify that bottom edges of articles are level, using straightedges or by rocking them back and forth on flat surfaces.",
+      "Clean and polish metal items and jewelry pieces, using jewelers' tools, polishing wheels, and chemical baths.",
+      "Weigh completed items to determine weights and record any deviations.",
+      "Remove mold castings from metal or jewelry workpieces, and place workpieces in water or on trays to cool.",
+      "Hammer out dents and bulges, selecting and using hammers and dollies with heads that correspond in curvature to article surfaces.",
+      "Assemble and secure mold sections used to cast metal articles and pieces.",
+      "Determine placement of auxiliary parts, such as handles and spouts, and mark locations of parts.",
+      "Determine appraised values of diamonds and other gemstones based on price guides, market fluctuations, and stone grades and rarity.",
+      "Weigh and mix alloy ingredients, using formulas and knowledge of ingredients' chemical properties.",
+      "Shape and straighten damaged or twisted articles by hand or using pliers.",
+      "Position articles over snarling tools and raise design areas, using foot-powered hammers.",
+      "Create jewelry from materials such as gold, silver, platinum, and precious or semiprecious stones.",
+      "Design and fabricate models of new casting molds, and chipping and turning tools used to finish product surfaces.",
+      "Heat ingots or alloy mixtures to specified temperatures, stir mixtures, skim off impurities, and fill molds to form ingots from which parts are cast.",
+      "Rotate molds in order to distribute molten material and prevent formation of air pockets.",
+      "Write or modify design specifications such as the metal contents and weights of items.",
+      "Mark and drill holes in jewelry mountings in order to center stones according to design specifications.",
+      "Chase decorative designs on silver blanks that are to be used as models for steel production dies.",
+      "Wire parts such as legs, spouts, and handles to article bodies in preparation for soldering.",
+      "Peen edges of scratches or holes to repair defects, using peening hammers.",
+      "Position and align auxiliary parts in jigs and join parts, using solder and blowtorches.",
+      "Build sand molds in flasks, following patterns and heat flasks to dry and harden molds, using furnaces or torches.",
+      "Lay out designs on metal stock, and cut along markings to fabricate pieces used to cast metal molds.",
+      "Melt and roll out metal into sheets or bars, and stamp out jewelry such as gold and silver chains, using presses or dies.",
+      "Pour molten metal alloys or other materials into molds in order to cast models of jewelry.",
+      "Burn grooves or crevices in molds in order to correct defects, using soldering guns.",
+      "Alter existing jewelry mountings in order to reposition jewels or to adjust mountings.",
+      "Strike molds to separate dried castings from molds.",
+      "Plate articles such as jewelry pieces and watch dials, using silver, gold, nickel, or other metals.",
+      "Make repairs, such as enlarging or reducing ring sizes, soldering pieces of jewelry together, and replacing broken clasps and mountings.",
+      "Strike articles with small tools, or punch them with hammers, to indent them or restore embossing.",
+      "Press models into clay, and build up clay around exposed parts of models to retain plaster.",
+      "Research reference materials, analyze production data, and consult with interested parties to develop ideas for new products.",
+      "Cut designs in molds or other materials to be used as models in the fabrication of metal and jewelry products.",
+      "Select and acquire metals and gems for designs.",
+      "Rout out locations where parts are to be joined to items, using routing machines.",
+      "Research and analyze reference materials, and consult with interested parties in order to develop new products or modify existing designs.",
+      "Examine assembled or finished products to ensure conformance to specifications, using magnifying glasses or precision measuring instruments.",
+      "Design silver articles, such as jewelry and serving pieces.",
+      "Anneal precious metal objects such as coffeepots, tea sets, and trays in gas ovens for prescribed times to soften metal for reworking.",
+      "Create new jewelry designs and modify existing designs, using computers as necessary.",
+      "Secure molded items in chucks of lathes, and activate lathes to finish inner and outer surfaces of items.",
+      "Rotate molds to distribute alloys and to prevent formation of air pockets.",
+      "Compute costs of labor and materials in order to determine production costs of products and articles.",
+      "Smooth soldered joints and rough spots, using hand files and emery paper, and polish smoothed areas with polishing wheels or buffing wire.",
+      "Assemble molds, wrap molds in heat-resistant cloth, and ladle molten alloy into mold openings, repeating casting processes as necessary to produce specified numbers of parts.",
+      "Examine articles to determine the nature of defects requiring repair, such as dents, uneven bottoms, scratches, or holes.",
+      "Carry castings or finished items to storage areas or to different work stations.",
+      "Design and fabricate molds, models, and machine accessories, and modify hand tools used to cast metal and jewelry pieces.",
+      "Record the weights and processing times of finished pieces.",
+      "Engrave decorative lines on items, using engraving tools.",
+      "Examine gemstone surfaces and internal structures to evaluate genuineness, quality, and value, using polariscopes, refractometers, and other optical instruments.",
+      "Mark, engrave, or emboss designs on metal pieces such as castings, wire, or jewelry, following specifications.",
+      "Construct preliminary models of wax, metal, clay, or plaster, and form sample castings in molds.",
+      "Solder parts together or fill holes and cracks with metal solder, using gas torches.",
+      "Pierce and cut open designs in ornamentation, using hand drills and scroll saws.",
+      "Soften metal to be used in designs by heating it with a gas torch and shape it, using hammers and dies.",
+      "Sand interior mold parts to remove glaze residue, apply new glaze to molds, and allow it to dry for mold assembly.",
+      "Grade stones based on their color, perfection, and quality of cut.",
+      "Remove molds from cast articles, clean them, and apply shellac and powder to preserve them for reuse.",
+      "Immerse gemstones in chemical solutions to determine specific gravity and other key properties necessary for identification and appraisal.",
+      "Buy and sell jewelry, or serve as agents between buyers and sellers."
+    ]
+  },
+  {
+    "soc_code": "53-2011.00",
+    "title": "Airline Pilots, Copilots, and Flight Engineers",
+    "description": "Pilot and navigate the flight of fixed-wing aircraft, usually on scheduled air carrier routes, for the transport of passengers and cargo. Requires Federal Air Transport certificate and rating for specific aircraft type used. Includes regional, national, and international airline pilots and flight instructors of airline pilots.",
+    "skills_and_abilities": [
+      {
+        "name": "Response Orientation",
+        "score": 97.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 94.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 91.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 81.0
+      },
+      {
+        "name": "Reaction Time",
+        "score": 81.0
+      },
+      {
+        "name": "Critical Thinking",
+        "score": 78.0
+      },
+      {
+        "name": "Deductive Reasoning",
+        "score": 78.0
+      },
+      {
+        "name": "Depth Perception",
+        "score": 78.0
+      },
+      {
+        "name": "Rate Control",
+        "score": 78.0
+      },
+      {
+        "name": "Judgment and Decision Making",
+        "score": 75.0
+      }
+    ],
+    "tasks": [
+      "Coordinate flight activities with ground crews and air traffic control and inform crew members of flight and test procedures.",
+      "File instrument flight plans with air traffic control to ensure that flights are coordinated with other air traffic.",
+      "Perform minor maintenance work, or arrange for major maintenance.",
+      "Monitor gauges, warning devices, and control panels to verify aircraft performance and to regulate engine speed.",
+      "Order changes in fuel supplies, loads, routes, or schedules to ensure safety of flights.",
+      "Respond to and report in-flight emergencies and malfunctions.",
+      "Contact control towers for takeoff clearances, arrival instructions, and other information, using radio equipment.",
+      "Test and evaluate the performance of new aircraft.",
+      "Record in log books information such as flight times, distances flown, and fuel consumption.",
+      "Direct activities of aircraft crews during flights.",
+      "Evaluate other pilots or pilot-license applicants for proficiency.",
+      "Monitor engine operation, fuel consumption, and functioning of aircraft systems during flights.",
+      "Instruct other pilots and student pilots in aircraft operations and the principles of flight.",
+      "Load smaller aircraft, handling passenger luggage and supervising refueling.",
+      "Conduct in-flight tests and evaluations at specified altitudes and in all types of weather to determine the receptivity and other characteristics of equipment and systems.",
+      "Confer with flight dispatchers and weather forecasters to keep abreast of flight conditions.",
+      "Make announcements regarding flights, using public address systems.",
+      "Inspect aircraft for defects and malfunctions, according to pre-flight checklists.",
+      "Work as part of a flight team with other crew members, especially during takeoffs and landings.",
+      "Start engines, operate controls, and pilot airplanes to transport passengers, mail, or freight, adhering to flight plans, regulations, and procedures.",
+      "Check passenger and cargo distributions and fuel amounts to ensure that weight and balance specifications are met.",
+      "Plan and formulate flight activities and test schedules and prepare flight evaluation reports.",
+      "Brief crews about flight details, such as destinations, duties, and responsibilities.",
+      "Choose routes, altitudes, and speeds that will provide the fastest, safest, and smoothest flights.",
+      "Use instrumentation to guide flights when visibility is poor.",
+      "Steer aircraft along planned routes, using autopilot and flight management computers."
+    ]
+  },
+  {
+    "soc_code": "53-3052.00",
+    "title": "Bus Drivers, Transit and Intercity",
+    "description": "Drive bus or motor coach, including regular route operations, charters, and private carriage. May assist passengers with baggage. May collect fares or tickets.",
+    "skills_and_abilities": [
+      {
+        "name": "Far Vision",
+        "score": 78.0
+      },
+      {
+        "name": "Control Precision",
+        "score": 72.0
+      },
+      {
+        "name": "Depth Perception",
+        "score": 69.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 69.0
+      },
+      {
+        "name": "Reaction Time",
+        "score": 66.0
+      },
+      {
+        "name": "Response Orientation",
+        "score": 66.0
+      },
+      {
+        "name": "Spatial Orientation",
+        "score": 66.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 63.0
+      },
+      {
+        "name": "Rate Control",
+        "score": 63.0
+      },
+      {
+        "name": "Oral Comprehension",
+        "score": 56.0
+      }
+    ],
+    "tasks": [
+      "Park vehicles at loading areas so that passengers can board.",
+      "Advise passengers to be seated and orderly while on vehicles.",
+      "Regulate heating, lighting, and ventilating systems for passenger comfort.",
+      "Handle passenger emergencies or disruptions.",
+      "Make minor repairs to vehicle and change tires.",
+      "Collect tickets or cash fares from passengers.",
+      "Report delays or accidents.",
+      "Assist passengers, such as elderly or disabled individuals, on and off bus, ensure they are seated properly, help carry baggage, and answer questions about bus schedules or routes.",
+      "Maintain cleanliness of bus or motor coach.",
+      "Load and unload baggage in baggage compartments.",
+      "Drive vehicles over specified routes or to specified destinations according to time schedules, complying with traffic regulations to ensure that passengers have a smooth and safe ride.",
+      "Record information, such as cash receipts and ticket fares, and maintain log book.",
+      "Inspect vehicles and check gas, oil, and water levels prior to departure."
+    ]
+  },
+  {
+    "soc_code": "53-7021.00",
+    "title": "Crane and Tower Operators",
+    "description": "Operate mechanical boom and cable or tower and cable equipment to lift and move materials, machines, or products in many directions.",
+    "skills_and_abilities": [
+      {
+        "name": "Control Precision",
+        "score": 78.0
+      },
+      {
+        "name": "Multilimb Coordination",
+        "score": 75.0
+      },
+      {
+        "name": "Depth Perception",
+        "score": 72.0
+      },
+      {
+        "name": "Far Vision",
+        "score": 72.0
+      },
+      {
+        "name": "Rate Control",
+        "score": 69.0
+      },
+      {
+        "name": "Reaction Time",
+        "score": 69.0
+      },
+      {
+        "name": "Arm-Hand Steadiness",
+        "score": 66.0
+      },
+      {
+        "name": "Problem Sensitivity",
+        "score": 66.0
+      },
+      {
+        "name": "Manual Dexterity",
+        "score": 63.0
+      },
+      {
+        "name": "Response Orientation",
+        "score": 63.0
+      }
+    ],
+    "tasks": [
+      "Clean, lubricate, and maintain mechanisms such as cables, pulleys, or grappling devices, making repairs as necessary.",
+      "Determine load weights and check them against lifting capacities to prevent overload.",
+      "Move levers, depress foot pedals, or turn dials to operate cranes, cherry pickers, electromagnets, or other moving equipment for lifting, moving, or placing loads.",
+      "Review daily work or delivery schedules to determine orders, sequences of deliveries, or special loading instructions.",
+      "Load or unload bundles from trucks or move containers to storage bins, using moving equipment.",
+      "Inspect cables or grappling devices for wear and install or replace cables, as needed.",
+      "Direct truck drivers backing vehicles into loading bays and cover, uncover, or secure loads for delivery.",
+      "Weigh bundles, using floor scales, and record weights for company records.",
+      "Direct helpers engaged in placing blocking or outrigging under cranes.",
+      "Inspect and adjust crane mechanisms or lifting accessories to prevent malfunctions or damage.",
+      "Inspect bundle packaging for conformance to regulations or customer requirements and remove and batch packaging tickets."
+    ]
+  }
+]

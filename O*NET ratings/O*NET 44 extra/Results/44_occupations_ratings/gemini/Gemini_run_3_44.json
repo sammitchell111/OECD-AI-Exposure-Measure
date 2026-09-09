@@ -1,0 +1,2026 @@
+[
+  {
+    "onet_soc_code": "11-1031.00",
+    "occupation_title": "Legislators",
+    "description": "Develop, introduce, or enact laws and statutes at the local, tribal, state, or federal level. Includes only workers in elected positions.",
+    "num_tasks": 30,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Legislators require highly nuanced discourse, integrating critical thinking, real-time knowledge, and tone to debate the merits of proposals, negotiate with colleagues, and represent their parties in the media."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "The occupation demands continuous inference of group behavior and political intent. Legislators must engage in complex social interactions to negotiate with other parties, reconcile differing interests, and build coalitions."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Legislators must solve highly unstructured, real-world, and multidisciplinary problems. They balance the perspectives of private citizens and public officials, integrating social, economic, and technical knowledge to assess the local and national implications of proposed legislation."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Legislators create policies, laws, and agreements that adapt to evolving societal domains. They balance innovation with contextual relevance and historical precedent while drafting amendments and regulations."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The role involves managing complex trade-offs between competing goals, resources, and perspectives. Legislators must evaluate long-term societal impacts, determine if governmental action is necessary, and formulate complex political strategies."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "The occupation requires open-ended cognitive flexibility to make public policy decisions. Legislators must integrate diverse forms of knowledge, develop expertise on various committee subjects, and apply this to real-time negotiations and legislative drafting."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this occupation. Legislators rely on cognitive analysis, social interaction, and communication, and can use assistive technologies to read documents or assess situations."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not an essential requirement for a legislator. The core tasks involve reasoning, speaking, and deciding, which can all be performed without manual dexterity."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic intelligence, which focuses on physical capabilities in dynamic environments, is not required. The role is inherently cognitive and interpersonal, not physical."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:54:49.865557"
+  },
+  {
+    "onet_soc_code": "11-2032.00",
+    "occupation_title": "Public Relations Managers",
+    "description": "Plan, direct, or coordinate activities designed to create or maintain a favorable public image or raise issue awareness for their organization or client.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Requires Level 5 to handle highly nuanced discourse, integrate precise tone, and apply real-time knowledge and critical thinking when drafting speeches (Task 10), managing complex crisis communications (Task 4), and writing press releases (Task 5)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "Requires Level 5 to establish and maintain strategic relationships with clients, government officials, and media (Task 1). The role involves continuously inferring group behavior and intent to anticipate public reaction and resolve challenges instantly during crises."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Requires Level 5 to solve unstructured, real-world, and multidisciplinary problems, such as integrating social, political, and economic trend analysis (Task 9) to navigate ethical challenges and manage complex crisis communication plans (Task 4)."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Requires Level 4 for process-oriented creativity to adapt communication outputs to evolving domains. This is evident when drafting tailored speeches for executives (Task 10) and developing corporate image and identity (Task 7), balancing innovation with contextual relevance."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Requires Level 5 to manage complex trade-offs between organizational goals, resources, and required skills, handling long-term strategies like maintaining corporate identity while making critical decisions about delegating to PR staff (Task 2) and external agencies (Task 12)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Requires Level 5 to achieve open-ended cognitive flexibility, integrating diverse and evolving knowledge types to observe, synthesize, and report on complex social, economic, and political trends that affect the employer (Task 9) and formulate related policies (Task 11)."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this occupation. The core tasks rely on strategic communication, relationship building, and mental analysis. Any evaluation of logos or advertising can be managed conceptually or with assistive technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not required. The occupation focuses entirely on cognitive, strategic, and social tasks, with no essential need for physical manual dexterity or object handling."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic Intelligence is not essential. The occupation entails knowledge work and social interaction in office or virtual settings, not physical execution or navigation in physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:54:37.381986"
+  },
+  {
+    "onet_soc_code": "11-2033.00",
+    "occupation_title": "Fundraising Managers",
+    "description": "Plan, direct, or coordinate activities to solicit and maintain funds for special projects or nonprofit organizations.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Fundraising Managers must write effective press releases, develop complex grant proposals, and communicate persuasively with officials, media, and corporate representatives. This requires interpreting language contextually and applying complex reasoning in nuanced communications."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "The occupation involves establishing and maintaining working relationships with donors and community leaders, inferring donor motives, and managing staff. This requires handling nuanced communication, managing structured social memory across interactions, and versatile social problem-solving."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Fundraising Managers develop strategies to maximize contributions and minimize costs, requiring them to address unstructured professional problems and interpret complex interactions in social and business environments to formulate effective solutions."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Tasks such as designing promotional publications, planning unique special events (e.g., silent auctions), and writing tailored press releases demand process-oriented creativity that adapts to evolving contexts and audiences."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The role requires managing complex trade-offs between fundraising goals and budgets, handling long-term strategic plans, directing external agencies, and making critical decisions about task delegation and resource allocation."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Managers must continuously learn through interactions with donors and the community, updating their strategies based on research into charitable histories and market trends while navigating the uncertain environment of fundraising."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Visual capabilities are not strictly essential for the core duties of a Fundraising Manager, such as developing strategies, managing budgets, and cultivating relationships. Tasks involving publication design can be delegated or managed using assistive technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation of objects is not an essential requirement for this primarily cognitive, strategic, and socially-oriented occupation."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation does not rely on navigating physical spaces or interacting with environments in a robotic or physically autonomous capacity."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:54:21.069795"
+  },
+  {
+    "onet_soc_code": "11-3013.01",
+    "occupation_title": "Security Managers",
+    "description": "Direct an organization's security functions, including physical security and safety of employees and facilities.",
+    "num_tasks": 28,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The role involves interpreting complex regulations, drafting comprehensive security policies, and conducting nuanced interviews or interrogations to investigate security breaches, which requires contextual understanding and complex reasoning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Investigating security breaches and managing emergency situations require inferring motives, handling ambiguity, and demonstrating versatile social problem-solving skills to manage staff and interact with individuals under stress."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Security managers must solve highly unstructured, multidisciplinary, real-world problems, such as responding to bomb threats or complex security breaches, requiring the integration of social, technical, and operational knowledge."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Creating contingency plans and designing security for high-risk, special events involve anticipating novel threats and integrating strategies across different domains to develop unexpected or highly tailored security solutions."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The occupation demands managing complex trade-offs between security goals, operational efficiency, and budgets, as well as continuously evaluating and adapting long-term organizational security strategies."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Security managers operate in constantly evolving threat landscapes, requiring them to learn incrementally, identify new vulnerabilities, and adapt their strategies in real-time to mitigate emerging risks."
+      },
+      "Scale 7: Vision": {
+        "level": 3,
+        "reasoning": "Conducting physical examinations of property to ensure compliance and identify vulnerabilities requires the ability to visually analyze environments, understand spatial relationships, and handle variations in lighting and scene."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The core responsibilities of this occupation are managerial, analytical, and communicative. Physical manipulation of objects is not an essential requirement for performing these duties."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The role primarily relies on cognitive capabilities such as planning, directing, and evaluating. Any physical navigation required for property examinations can be adapted or delegated, making advanced robotic intelligence unnecessary."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:54:41.732069"
+  },
+  {
+    "onet_soc_code": "11-9072.00",
+    "occupation_title": "Entertainment and Recreation Managers, Except Gambling",
+    "description": "Plan, direct, or coordinate entertainment and recreational activities and operations of a recreational facility, including cruise ships and parks.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as interviewing candidates, resolving customer complaints, and presenting strategic plans require processing complex reasoning, interpreting context, and handling nuanced communication across varied situations."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Resolving customer complaints, interviewing associates, and leading group activities necessitate interpreting motives, managing group dynamics, and understanding emotional intensity."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Managing recreation operations involves interpreting complex social interactions, identifying unstructured problems (such as staff issues or customer complaints), and developing strategic approaches to resolve them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Planning programs of events and writing strategies require creating novel, valuable scheduling and programming solutions within the clear constraints of budgets and facility policies."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Writing budgets, assigning tasks, and formulating strategies using customer data require critically evaluating complex information, making educated judgments, and engaging in strategic problem solving."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Coordinating diverse recreational activities and leading operations in dynamic environments (like cruise ships or parks) require real-time adaptation, incremental learning, and navigating shifting situational variables."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Inspecting diverse equipment, rides, and vehicles to detect subtle wear and damage requires coping with significant variations in object appearance and adapting to changing lighting in dynamic indoor or outdoor settings."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Administering first aid in emergencies and handling diverse physical equipment require manipulating both rigid and non-rigid objects, adapting to different geometries, and executing precise force-based operations."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Operating across dynamic, less structured, and natural environments (parks, cruise ships) while ensuring physical safety, inspecting rides, and administering first aid involves navigating high uncertainty and managing complex contextual dependencies."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:01.309358"
+  },
+  {
+    "onet_soc_code": "13-1082.00",
+    "occupation_title": "Project Management Specialists",
+    "description": "Analyze and coordinate the schedule, timeline, procurement, staffing, and budget of a product or service on a per project basis. Lead and guide the work of technical staff. May serve as a point of contact for the client or customer.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Project managers engage in extensive, complex communication, including negotiating with stakeholders, interpreting project requirements, and delivering nuanced performance feedback, requiring deep contextual understanding and complex reasoning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks such as conferring with personnel to resolve problems, recruiting staff, and negotiating with suppliers require the ability to infer motives, manage structured social memory, and resolve versatile social issues while maintaining a clear leadership role."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The occupation involves identifying and resolving complex, intersecting professional problems (e.g., budget overruns, scheduling conflicts) without needing fully structured descriptions, often navigating complex social and organizational environments."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Project managers must develop novel and effective solutions, such as adapting schedules or formulating project plans, but these creative outputs are generated within the clearly defined constraints of project scope, time, and budget."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The core of this occupation involves managing complex trade-offs between goals, resources, and required skills. Project managers handle long-term, intersecting tasks and make critical decisions regarding delegation, task prioritization, and resource allocation."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Projects are inherently dynamic and uncertain. Project managers must incrementally learn from project updates, track ongoing milestones, and adapt plans in real time to shifting organizational environments and constraints."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not strictly essential for this occupation. Project management relies on cognitive analysis, reasoning, and communication, which can be effectively accomplished using accessible assistive technologies for those without vision."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation of objects is not an essential requirement for this occupation, which is primarily focused on intellectual, administrative, and communicative tasks."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The role does not require physical mobility, spatial navigation, or robotic interaction within unstructured physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:28.947990"
+  },
+  {
+    "onet_soc_code": "13-1199.07",
+    "occupation_title": "Security Management Specialists",
+    "description": "Conduct security assessments for organizations, and design security systems and processes. May specialize in areas such as physical security or the safety of employees and facilities.",
+    "num_tasks": 23,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Tasks such as preparing documentation for case reports, designing security policies, and training personnel require advanced logical reasoning, understanding of semantic meaning across domain-specific contexts, and effective communication skills."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Training personnel in security procedures and responding to emergencies require the ability to interpret behavioral cues, manage group dynamics, and adapt responses to resolve potentially complex social challenges."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Assessing physical security threats and performing risk analyses require interpreting interactions in complex social and physical environments to identify ambiguous problems that need attention and developing unprompted approaches to solve them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing conceptual designs of security systems and programs involves creating valuable and customized solutions within clearly defined constraints such as building layouts, budgets, and compliance standards."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Conducting risk analyses and audits requires critically evaluating complex, nuanced information, identifying subtle connections in security vulnerabilities, and applying strategic problem-solving to unfamiliar facility setups."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Responding to emergency situations and inspecting various organizational facilities requires real-time adaptability and the ability to operate effectively in unknown, uncertain, or rapidly changing physical and social environments."
+      },
+      "Scale 7: Vision": {
+        "level": 3,
+        "reasoning": "Visually inspecting physical security installations, identifying blind spots for cameras, and evaluating design features require scene understanding, environment mapping, and the ability to handle variations in lighting and object appearance."
+      },
+      "Scale 8: Manipulation": {
+        "level": 1,
+        "reasoning": "While fine manipulation is not a core requirement, testing security measures (such as testing alarm triggers, badge readers, or physical locks) may require basic pick-and-place or simple pushing actions with rigid objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Conducting physical security audits requires navigating partially known, semi-structured environments (e.g., office buildings, external facilities) while interacting with humans and maintaining minimum requirements for social compliance and safety."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:28.267668"
+  },
+  {
+    "onet_soc_code": "13-2022.00",
+    "occupation_title": "Appraisers of Personal and Business Property",
+    "description": "Appraise and estimate the fair value of tangible personal or business property, such as jewelry, art, antiques, collectibles, and equipment. May also appraise land.",
+    "num_tasks": 14,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Writing detailed appraisal reports and testifying in court as an expert witness requires contextually interpreting language, employing complex reasoning, and handling nuanced discourse in high-stakes environments."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Determining the needs of property owners and testifying in court involves maintaining a clear professional role, handling ambiguity, and interpreting the motives and nuances of adversarial lawyers or diverse clients."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Calculating and forecasting property values based on comps and income streams requires translating qualitative physical characteristics and informal descriptions into structured valuation models and professional judgments."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Appraisers create novel, property-specific valuation reports and synthesize disparate data sources within clearly defined legal and professional constraints (e.g., appraisal standards)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Valuing unique items like art or antiques requires critically evaluating incomplete information, making educated judgments about authenticity or market trends, and synthesizing nuanced qualitative factors."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "The role involves searching diverse datasets to locate comparable sales, learning the specific historical or market context of unique items, and summarizing this context-sensitive information into cohesive reports."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Inspecting art, antiques, and jewelry requires making very subtle visual distinctions between similar object classes (e.g., detecting forgeries, assessing brushstrokes, or evaluating gem quality) under varying lighting conditions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Physical inspection of tangible property often requires carefully handling, reorienting, and photographing delicate materials or irregularly shaped items, such as antiques and fine jewelry."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Traveling to and navigating within clients' homes, businesses, or land sites to inspect property requires operating safely in partially known, semi-structured environments while conducting multi-step tasks."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:30.108844"
+  },
+  {
+    "onet_soc_code": "13-2051.00",
+    "occupation_title": "Financial and Investment Analysts",
+    "description": "Conduct quantitative analyses of information involving investment programs or financial data of public or private institutions, including valuation of businesses.",
+    "num_tasks": 26,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Financial analysts must engage in highly nuanced communication and contextual reasoning when advising clients on capitalization, collaborating with lawyers and accountants, and conferring with clients to negotiate and restructure debt."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Developing and maintaining high-stakes client relationships, as well as collaborating with investment bankers to attract new corporate clients, requires versatile social problem-solving, inferring motives, and handling nuanced professional interactions."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The occupation involves analyzing the operational and financial performance of companies facing difficulties to identify problems and recommend remedies, which requires developing approaches to address complex, unstructured professional challenges."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Analysts design customized solutions, such as structuring financial packages or restructuring debt, which requires creating novel and valuable financial solutions within the clearly defined constraints of markets and regulations."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Forecasting business, industry, and economic conditions involves tackling complex and ambiguous problems. Analysts must actively evaluate their knowledge, weigh market uncertainties, and carefully calibrate their confidence when making investment recommendations."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Analysts must continuously learn and adapt in real time to fluctuating economic environments and market conditions, integrating varied financial data to forecast trends and inform investment decisions."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not essential for this occupation. While tasks mention examining company facilities, the core work relies on mental analysis of financial information and data, which can be accomplished using digital tools and accessible assistive technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this occupation. The role is heavily focused on cognitive and analytical reasoning rather than the physical handling of objects or materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic intelligence is not required, as the occupation does not involve navigating physical environments or performing physical tasks; it focuses entirely on cognitive and analytical financial work."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:31.902457"
+  },
+  {
+    "onet_soc_code": "13-2054.00",
+    "occupation_title": "Financial Risk Specialists",
+    "description": "Analyze and measure exposure to credit and market risk threatening the assets, earning capacity, or economic state of an organization. May make recommendations to limit risk.",
+    "num_tasks": 30,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires contextual interpretation of language using complex reasoning to analyze new legislation, consult highly technical financial literature, and document or communicate nuanced risk assessments effectively."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Conferring with traders to identify and communicate risks requires inferring social intent, managing professional relationships, and navigating moderately complex interactions to understand motives and trading strategies."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Financial risk specialists must translate complex, real-world business environments and informal descriptions of potential risks into structured statistical or econometric models to quantify exposure."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing contingency plans, scenario analyses for severe market events, and customized risk-assessment models require creating novel and valuable solutions within clearly defined economic and regulatory constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Specialists must actively monitor the validity of risk assessments, tackling ambiguous market problems while critically evaluating the boundaries of their models and continually calibrating their confidence in market predictions."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The role requires incremental, real-time learning and adaptation to shifting financial markets, new environmental impacts, and legislative changes, continuously updating knowledge to manage dynamic risk factors."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this occupation; the core tasks involve mental analysis of financial data, which can be accomplished using digital tools and assistive technologies without relying on physical visual processing."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not required. The occupation relies entirely on cognitive analysis, statistical modeling, and communication, with no essential physical handling of materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic intelligence is not applicable, as the role operates strictly in cognitive, digital, and social environments rather than dynamic physical spaces."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:30.108844"
+  },
+  {
+    "onet_soc_code": "15-1252.00",
+    "occupation_title": "Software Developers",
+    "description": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Software developers must interpret highly contextual and often ambiguous user needs, converting them into complex technical requirements and preparing detailed reports or correspondence (Tasks 1, 5, 10)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "The role involves consulting with customers, coordinating with engineers and project managers, and supervising programmers (Tasks 3, 10, 14, 15). This requires maintaining a clear role in groups, inferring motives, and demonstrating versatile social problem-solving to manage project dynamics."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Developers solve complex professional problems that are often not clearly described initially. They must identify software bugs, analyze system bottlenecks, and develop approaches to address them, learning from past deployments to improve performance (Tasks 4, 8, 12)."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Designing and developing software systems (Task 8) requires generalizing programming skills to new tasks, integrating ideas across different domains, and devising novel architectural solutions that challenge standard paradigms."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Developers manage complex trade-offs involving design feasibility, time, and cost constraints (Task 1). They also handle long-term collaborative tasks, making high-level decisions regarding delegation and work assignment to technicians and programmers (Tasks 14, 15)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "The occupation demands processing massive amounts of context-sensitive information and writing complex code. The scale description explicitly maps tasks like generating content and 'computer programming' to this level."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not strictly essential for software developers. The occupation relies on mental analysis, logical structuring, and code writing, which can be fully performed using assistive technologies like screen readers."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for this role, as the work is primarily cognitive and relies on digital tools that can be operated through various accessible interfaces."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation is based in the digital and conceptual realm; it does not require physical navigation, environmental interaction, or robotic intelligence."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:55:56.204729"
+  },
+  {
+    "onet_soc_code": "15-1255.00",
+    "occupation_title": "Web and Digital Interface Designers",
+    "description": "Design digital user interfaces or websites. Develop and test layouts, interfaces, functionality, and navigation menus to ensure compatibility and usability across browsers or devices. May use web framework applications as well as client-side code and processes. May evaluate web design following web and accessibility standards, and may analyze web use metrics and optimize websites for marketability and search engine ranking. May design and test interfaces that facilitate the human-computer interaction and maximize the usability of digital devices, websites, and software with a focus on aesthetics and design. May create graphics used in websites and manage website content and links.",
+    "num_tasks": 30,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Level 3 is required to communicate effectively with stakeholders, collaborate with network personnel, respond to user email inquiries, and document style guidelines, which involves translating everyday language into technical requirements and understanding semantic meaning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Level 3 is necessary to conduct user research and usability testing, which involves interacting with users, inferring social intent, and interpreting behavioral cues to improve design quality and user experience."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Level 3 is appropriate because web and interface designers must translate informal stakeholder feedback and customer issues into structured technical models, resolving complex UI/UX and coding challenges."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Level 2 is required to develop novel visual design concepts, graphics, and moodboards that are highly creative but must adhere to clearly defined constraints, such as accessibility standards, brand guidelines, and device compatibility."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Level 3 is necessary to critically evaluate web use metrics, assess designs against accessibility standards, and make strategic judgments to optimize layouts, marketability, and search engine rankings."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Level 3 is essential for this role, as it heavily involves generating content, such as computer programming (writing client-side code and scripts), creating digital illustrations, and continuously learning new web technologies."
+      },
+      "Scale 7: Vision": {
+        "level": 2,
+        "reasoning": "Level 2 is required for the visual inspection of digital interfaces, evaluating aesthetics, layouts, and graphics across various browsers and devices to ensure functional and visual consistency within the controlled environment of a screen."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this occupation, as the work is entirely digital and physical input (like typing or clicking) can be fully assisted or adapted."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic Intelligence is not required, as the occupation does not involve navigating or operating within physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:56:15.215091"
+  },
+  {
+    "onet_soc_code": "15-1299.04",
+    "occupation_title": "Penetration Testers",
+    "description": "Evaluate network system security by conducting simulated internal and external cyberattacks using adversary tools and techniques. Attempt to breach and exploit critical systems and gain access to sensitive information to assess system security.",
+    "num_tasks": 22,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Penetration testers must write detailed technical audit reports and discuss security solutions with management or IT teams (Tasks 1, 3, 14). This requires reliable semantic understanding, advanced logical reasoning, and the ability to adapt complex technical language for diverse professional audiences."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Discussing security solutions with management and collecting stakeholder data (Tasks 14, 15) require navigating professional dynamics, inferring stakeholders' risk tolerance, and effectively communicating security threats and mitigation strategies within group settings."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The core of penetration testing involves identifying security weaknesses without a clear prior description (Tasks 2, 10). They must analyze complex networks, identify vulnerabilities that require attention, and develop specific approaches (exploits) to address and test those unknown flaws."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Attempting to breach systems and developing testing processes (Tasks 9, 10, 13) require devising unexpected strategies. Much like finding a novel way to win a complex game, testers must think outside the box to bypass security mechanisms and challenge traditional boundaries."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "When attacking unfamiliar networks, penetration testers must tackle complex and ambiguous environments. They actively regulate their methodology on the fly, carefully evaluating what they know about the target system and calibrating their approach to find exploits while avoiding detection."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Penetration testing requires real-time learning through active interaction with a target system. Testers must constantly balance 'exploration' (reconnaissance and scanning) with 'exploitation' (attacking vulnerabilities) while keeping up-to-date with rapidly changing hacking trends (Tasks 5, 6, 7)."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not an essential requirement for this occupation. The work relies on digital analysis, code evaluation, and mental reasoning, which can be entirely managed using assistive technologies like screen readers."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "This occupation is strictly digital and cognitive. It does not require physical manipulation of objects or environments; digital interfaces can be interacted with via various accessible input methods."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The role does not require physical navigation or operating in dynamic physical environments, as the tasks are performed within digital and cyber domains."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:56:36.988932"
+  },
+  {
+    "onet_soc_code": "15-1299.05",
+    "occupation_title": "Information Security Engineers",
+    "description": "Develop and oversee the implementation of information security procedures and policies. Build, maintain and upgrade security technology, such as firewalls, for the safe use of computer networks and the transmission and retrieval of information. Design and implement appropriate security controls to identify vulnerabilities and protect digital files and electronic infrastructures. Monitor and respond to computer security breaches, viruses, and intrusions, and perform forensic investigation. May oversee the assessment of information security systems.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Information Security Engineers must effectively communicate complex technical concepts to non-technical audiences, such as training staff on security standards (Task 4) and recommending enhancements to management (Task 12). This requires reliable semantic understanding and advanced logical reasoning to explain policies clearly."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Training staff (Task 4) and coordinating with management or IT teams (Tasks 2, 12) require the ability to interpret behavioral cues, infer social intent, and manage basic group dynamics to ensure compliance with security policies and best practices."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The occupation involves identifying security weaknesses, investigating intrusions, and developing response strategies (Tasks 1, 6, 7). These are highly unstructured professional problems where the engineer must actively identify issues that require attention without clear initial descriptions, adapting to complex and covert adversarial actions."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Conducting penetration tests (Task 1) and developing customized response strategies to novel security breaches (Task 6) require devising unexpected strategies that challenge traditional boundaries and anticipating an attacker's next moves, which deviates significantly from routine protocols."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Investigating unknown security breaches (Task 7) and managing complex risk assessments (Task 13) require tackling ambiguous problems in unfamiliar domains (such as dealing with novel malware or zero-day exploits), carefully evaluating existing knowledge, and continuously calibrating investigative approaches based on incoming evidence."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Information Security Engineers operate in a highly dynamic and changing digital environment. They must learn incrementally and in real time about rapidly evolving cyber threats, incorporating metacognitive awareness to identify gaps in their network's defenses and adapting their knowledge to mitigate new vulnerabilities."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not strictly essential, as the role is centered around digital architecture, data analysis, and code manipulation. These tasks can be performed using assistive technologies like screen readers, making visual processing non-essential."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not an essential requirement for this occupation, as the work primarily involves cognitive problem solving and interaction with digital interfaces rather than physical materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The core responsibilities do not require physical embodiment or operation within a physical environment. All essential tasks revolve around software, network systems, and logical reasoning, rendering robotic intelligence unnecessary."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:56:10.196890"
+  },
+  {
+    "onet_soc_code": "15-1299.06",
+    "occupation_title": "Digital Forensics Analysts",
+    "description": "Conduct investigations on computer-based crimes establishing documentary or physical evidence, such as digital media and logs associated with cyber intrusion incidents. Analyze digital evidence and investigate computer security incidents to derive information in support of system and network vulnerability mitigation. Preserve and present computer-related evidence in support of criminal, fraud, counterintelligence, or law enforcement investigations.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Writing technical summaries, comprehensive legal reports, and giving depositions (Task 4, 8) requires contextual interpretation of language, complex reasoning, and handling highly nuanced legal and technical terminology."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Giving depositions and signing affidavits for legal proceedings (Task 4) involves acting as an expert witness, which requires maintaining a clear role, handling ambiguous or tricky questioning from opposing counsel, and managing nuanced professional communication."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Analyzing complex cyber intrusion incidents, identifying perpetrators from fragmented digital evidence, and developing comprehensive investigation plans (Tasks 11, 12) require solving highly complex, unstructured professional problems."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing investigation plans and recovering hidden or encrypted data (Tasks 10, 11) require devising valuable, novel technical solutions, but this must be done strictly within clearly defined legal and procedural constraints (Task 3)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Analyzing incomplete digital evidence, determining the significance of anomalies, and preparing findings for court require actively evaluating knowledge, calibrating confidence levels carefully, and tackling ambiguous problems in unfamiliar domains."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "The occupation involves processing massive datasets, such as extensive log files and system images (Tasks 6, 12), to achieve context-sensitive understanding and identify anomalies, which aligns with the capability to manage large-scale distributed information."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The core tasks revolve around the mental and digital analysis of log files, file signatures, and network traffic. These tasks do not inherently require physical vision and can be performed using assistive digital technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this occupation, as the primary work relies on cognitive analysis of digital information within digital environments rather than the physical manipulation of objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation takes place entirely in cognitive and digital realms, relying on logical reasoning and software-based tools. It does not require embodied robotic intelligence or navigation in physical spaces."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:56:21.422075"
+  },
+  {
+    "onet_soc_code": "15-1299.07",
+    "occupation_title": "Blockchain Engineers",
+    "description": "Maintain and support distributed and decentralized blockchain-based networks or block-chain applications such as cryptocurrency exchange, payment processing, document sharing, and digital voting. Design and deploy secure block-chain design patterns and solutions over geographically distributed networks using advanced technologies. May assist with infrastructure setup and testing for application transparency and security.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation involves discussing and planning complex systems with cross-functional teams (solution architects, engineers, data scientists) to meet customer requirements, demanding advanced logical reasoning and the ability to accurately translate informal descriptions into technical language."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Blockchain engineers must collaborate effectively with other experts, product managers, and cybersecurity professionals. This requires managing group dynamics, inferring intent during technical discussions, and evaluating various solutions collectively."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Engineers need to translate everyday customer requirements into structured technical models, design secure distributed architectures, and solve complex professional engineering problems related to cryptography and cybersecurity."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "The role requires designing novel blockchain design patterns, repositories, and cryptographic protocols to ensure secure transactions. These tasks involve generating valuable, novel solutions that must function within clearly defined security, mathematical, and topological constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "The occupation involves critically assessing blockchain threats, evaluating untested code, evaluating new technologies, and determining security risks. This requires making educated judgments and integrating nuanced technical information to prevent security breaches."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Tasks involve developing maintainable code bases, designing data repositories, and automating software updates. This capability level is essential as it specifically involves generating technical content like computer programming and adapting to novel architectural scenarios."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this role, as the work is primarily mental analysis and software engineering, which can be performed using accessible assistive technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not required. The work focuses on digital assets, code bases, and cloud or network infrastructures, utilizing standard computer hardware rather than requiring physical handling of materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic Intelligence is not necessary for this role, as the occupation operates entirely in a digital space rather than navigating or acting within complex physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:15.196401"
+  },
+  {
+    "onet_soc_code": "15-2051.00",
+    "occupation_title": "Data Scientists",
+    "description": "Develop and implement a set of techniques or analytics applications to transform raw data into meaningful information using data-oriented programming languages and visualization software. Apply data mining, data modeling, natural language processing, and machine learning to extract and analyze information from large structured and unstructured datasets. Visualize, interpret, and report data findings. May create dynamic data reports.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Tasks such as reading scientific articles and conference papers (13) and delivering oral or written presentations of complex data analysis (4) require understanding multi-corpus knowledge and applying advanced logical reasoning to effectively communicate semantic meaning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Recommending data-driven solutions to stakeholders (5) and delivering presentations to management (4) requires interpreting group dynamics, inferring social intent, and adapting communication to effectively persuade and engage professional audiences."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Identifying business problems or management objectives (6) and determining data-driven solutions (9) requires translating informal, everyday business descriptions into highly structured mathematical and predictive models."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Proposing solutions in diverse fields like engineering and the sciences (14) by applying mathematical theories involves generalizing skills to new tasks and integrating ideas across distinct domains to formulate novel models."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Testing, validating, and reformulating models to ensure accurate predictions (3) and comparing models using statistical metrics (7) require tackling ambiguous data, rigorously evaluating model assumptions, and continuously calibrating the confidence of analytic predictions."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Analyzing, manipulating, or processing large sets of structured and unstructured data (1) and writing new functions in programming languages (12) directly rely on the ability to process massive datasets and perform computer programming tasks."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The core responsibilities involve mental and computational analysis of data. While visualizations are created, the tasks can be performed using digital tools and screen readers, making biological or physical computer vision capabilities non-essential."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "This occupation is centered on digital data processing, programming, and mathematical modeling. It does not require the physical handling, grasping, or manipulation of objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The role consists of cognitive, software-based tasks typically performed at a workstation. It does not involve physical movement through dynamic environments or operating robotic hardware."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:27.112261"
+  },
+  {
+    "onet_soc_code": "17-3028.00",
+    "occupation_title": "Calibration Technologists and Technicians",
+    "description": "Execute or adapt procedures and techniques for calibrating measurement devices, by applying knowledge of measurement science, mathematics, physics, chemistry, and electronics, sometimes under the direction of engineering staff. Determine measurement standard suitability for calibrating measurement devices. May perform preventive maintenance on equipment. May perform corrective actions to address identified calibration problems.",
+    "num_tasks": 14,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation involves reading complex blueprints, schematics, and technical orders, as well as writing and submitting detailed reports about calibration test results, requiring the processing of text and images and understanding semantic meaning in a technical context."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 2,
+        "reasoning": "Interaction is mostly professional and task-focused, such as working under the direction of engineering staff and attending conferences or training sessions to learn about new tools, requiring basic social interactions and applying past experiences to encounters."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 2,
+        "reasoning": "Technologists solve complex professional problems using conventional domain abstractions in mathematics, physics, and electronics. They analyze test data to identify defects and determine measurement standard suitability, requiring qualitative reasoning alongside quantitative analysis."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "The role requires creating valuable, novel solutions within clearly defined scientific and physical constraints, such as developing new calibration methods or drawing plans for new jigs, fixtures, and instruments."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Workers must critically evaluate test data to identify subtle defects, make educated judgments regarding calibration requirements, and engage in strategic problem-solving to plan sequences of calibration tests and develop new techniques."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "The occupation requires generalizing deep knowledge of measurement science, chemistry, and physics to novel situations, continuously learning about new tools at workshops, and processing complex technical data to determine equipment reliability."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "High-level visual capabilities are required to visually inspect equipment to detect tiny surface defects, read fine precision measuring instruments, and interpret complex schematics, which aligns with performing intricate quality control."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Tasks require precise manipulation, such as disassembling and reassembling equipment with moving parts, handling precision measuring instruments, and executing tasks in specific object orientations within potentially tight or cluttered equipment spaces."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Calibration and repair involve medium-horizon, composite, multi-step physical tasks performed in semi-structured environments (like laboratories or manufacturing floors), requiring safe operation alongside humans and adaptation to various types of equipment."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:08.148894"
+  },
+  {
+    "onet_soc_code": "19-4044.00",
+    "occupation_title": "Hydrologic Technicians",
+    "description": "Collect and organize data concerning the distribution and circulation of ground and surface water, and data on its physical, chemical, and biological properties. Measure and report on flow rates and ground water levels, maintain field equipment, collect water samples, install and collect sampling equipment, and process samples for shipment to testing laboratories. May collect data on behalf of hydrologists, engineers, developers, government agencies, or agriculture.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Tasks such as answering technical questions from policymakers, writing groundwater contamination reports, and preparing legal documents require the ability to reliably understand and generate semantic meaning, as well as apply domain-specific terminology and logical reasoning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Investigating complaints or conflicts related to public waters requires the ability to infer social intent, interpret behavioral cues, and evaluate multiple solutions to resolve interpersonal or community challenges."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 2,
+        "reasoning": "Developing computer models for hydrologic predictions, analyzing ecological data, and measuring water flow rates involve integrating qualitative reasoning and quantitative analysis to solve complex professional problems framed using conventional domain abstractions."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Assisting in designing programs to seal abandoned wells and developing computer models for hydrologic predictions require creating valuable, novel solutions that operate within clearly defined environmental and scientific constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Performing quality control checks on data, recommending alternatives for public water disputes, and applying research findings to minimize environmental impacts require critically evaluating information, making educated judgments, and integrating nuanced information."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Processing ecological data, generalizing research to mitigate pollution, and developing computer models require processing massive datasets for context-sensitive understanding and generalizing technical knowledge to novel situations."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Installing and repairing equipment such as water analyzers in outdoor, natural environments (like rivers or glaciers) requires coping with significant variations in lighting, making subtle distinctions between object classes, and performing complex visual analysis in dynamic settings."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Repairing stream flow gauges and installing sampling equipment in the field require navigating tight or obscured spaces, handling objects with moving parts, and performing precise force-based operations in cluttered, natural environments."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Investigating the properties of glaciers, ice, and permafrost, and providing real-time data during flood events require operating in unseen, dynamic, less structured, and natural environments with high levels of uncertainty."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:14.956303"
+  },
+  {
+    "onet_soc_code": "25-2055.00",
+    "occupation_title": "Special Education Teachers, Kindergarten",
+    "description": "Teach academic, social, and life skills to kindergarten students with learning, emotional, or physical disabilities. Includes teachers who specialize and work with students who are blind or have visual impairments; students who are deaf or have hearing impairments; and students with intellectual disabilities.",
+    "num_tasks": 29,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Special education kindergarten teachers must communicate dynamically and multimodally with children who have diverse needs (such as those using sign language or assistive devices), while also integrating tone, emotional intelligence, and highly nuanced discourse to collaborate with parents, administrators, and professionals in noisy, real-life classroom environments."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "The role involves constant, deep social interaction, including managing complex group dynamics, teaching socially acceptable behavior, and instantly adapting to students' emotional or behavioral outbursts. The teacher must continuously infer motives and anticipate social challenges to resolve problems effectively."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Developing Individualized Education Programs (IEPs) and resolving academic or behavioral problems require solving highly unstructured, multidisciplinary problems. The teacher must integrate educational theory, social understanding, and tacit knowledge to adapt solutions for each child's unique combination of disabilities."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Teachers exhibit process-oriented creativity by modifying general curricula and designing customized strategies, materials, and learning activities to suit specific disabilities, balancing innovation with strict educational guidelines and contextual relevance."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Teachers must constantly self-assess and manage complex trade-offs between long-term developmental goals (IEPs) and immediate classroom realities. They critically evaluate whether their teaching methodologies are working for individual students and adapt or abandon strategies as necessary."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The role requires incremental learning through continuous interaction with students. Teachers must identify knowledge gaps in their students and adapt their instructional methods in real time, constantly updating their understanding of a child's evolving capabilities and needs."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Teachers must visually monitor dynamic and cluttered classroom environments to observe and evaluate students' physical health, behavioral cues, and social development, coping with significant variations and moving subjects."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Preparing the classroom requires handling a wide variety of educational materials, toys, and resources. Teachers must place items in moderately challenging setups for imaginative play or exploration, managing a cluttered environment."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Operating safely and effectively in a kindergarten classroom with disabled children involves highly dynamic, unstructured physical and social contexts. It requires real-time planning, profound human-level social skills, and the capacity to ensure safety under significant uncertainty."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:27.306106"
+  },
+  {
+    "onet_soc_code": "25-2056.00",
+    "occupation_title": "Special Education Teachers, Elementary School",
+    "description": "Teach academic, social, and life skills to elementary school students with learning, emotional, or physical disabilities. Includes teachers who specialize and work with students who are blind or have visual impairments; students who are deaf or have hearing impairments; and students with intellectual disabilities.",
+    "num_tasks": 30,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Special education teachers operate in dynamic, noisy, real-life classroom environments. They must use nuanced discourse, integrate tone, and apply critical thinking in real-time to instruct students with varying disabilities, teach personal development skills, and confer with parents and other professionals (Tasks 1, 12, 13, 15)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "The occupation demands a deep emotional understanding of students with emotional or physical disabilities. Teachers continuously infer group behavior and intent to anticipate and instantly adapt to behavioral challenges, enforcing rules and teaching socially acceptable behavior (Tasks 3, 7, 10, 11)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Teachers address highly unstructured, real-world problems by integrating tacit, social, and pedagogical knowledge. They navigate emotional complexities and collaborate with multiple professionals to develop tailored strategies and Individualized Education Programs (IEPs) for complex cases (Tasks 2, 4, 12)."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Teachers must exhibit process-oriented creativity to modify and adapt the general elementary curriculum to meet the unique learning needs and capabilities of students with varying disabilities, maintaining educational value across different contexts (Tasks 1, 2, 4)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Teachers manage complex trade-offs involving long-term tasks that intersect with various stakeholders, such as developing and executing long-term IEPs. They also make decisions about delegating tasks to teacher assistants and adapt their teaching methodologies based on ongoing evaluations (Tasks 10, 12, 14)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The role requires real-time, incremental learning through continuous interaction with students. Teachers use episodic memory to recall student progress, identify knowledge gaps, and balance different instructional strategies in a dynamic classroom environment (Tasks 1, 10)."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Teachers must visually monitor dynamic classroom environments to observe and evaluate subtle changes in students' physical health, behavior, and social interactions, making nuanced distinctions to maintain order and ensure safety (Tasks 7, 10)."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "The occupation involves physically setting up classrooms with diverse materials, helping maneuver assistive devices, and providing physical assistance to students (such as in restrooms), which requires handling both rigid and non-rigid objects and adapting to force-based operations (Tasks 6, 8)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Operating in a highly dynamic, unstructured physical and social environment (a special education classroom), the teacher handles long-horizon complex tasks with significant constraints. They must physically assist students with disabilities, adapt to highly uncertain situations, and ensure the safety of all individuals present (Tasks 7, 8, 10)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:58:05.937839"
+  },
+  {
+    "onet_soc_code": "25-3031.00",
+    "occupation_title": "Substitute Teachers, Short-Term",
+    "description": "Teach students on a short-term basis as a temporary replacement for a regular classroom teacher, typically using the regular teacher's lesson plan.",
+    "num_tasks": 18,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Substitute teachers operate in highly dynamic, noisy environments (classrooms) and must engage in nuanced discourse to teach various subjects, explain complex concepts, answer student questions, and counsel students with adjustment problems."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks such as enforcing rules, teaching social skills, and determining student disengagement require recognizing group roles, handling nuanced communication, inferring motives, and versatile social problem-solving."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Counseling students and maintaining classroom order involve interpreting interactions in complex social environments, identifying behavioral or academic problems that require attention, and developing approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Substitute teachers primarily follow lesson plans designed by absent teachers, meaning they must create valuable and engaging educational experiences within clearly defined constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Teaching a variety of subjects on a short-term basis requires active regulation of thought processes to tackle potentially ambiguous problems in unfamiliar domains (subjects they may not be experts in) while calibrating their knowledge and confidence."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Substitute teachers work in constantly changing environments (different classrooms, schools, and student groups), requiring real-time, incremental learning of student names, dynamics, and lesson requirements."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Supervising students during dynamic activities like recess, field trips, and games requires complex visual analysis, dynamic tracking, and coping with significant variations in active environments."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Tasks involve distributing materials like textbooks and papers, operating audio-visual equipment, and providing physical assistance or handling assistive devices, requiring adaptation to various moderately challenging object geometries."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Navigating schools, classrooms, and field trips involves operating in less structured, dynamic, and natural environments while managing multiple dynamic variables, ensuring the safety of children, and adapting in real-time."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:58:05.486086"
+  },
+  {
+    "onet_soc_code": "25-9043.00",
+    "occupation_title": "Teaching Assistants, Special Education",
+    "description": "Assist a preschool, elementary, middle, or secondary school teacher to provide academic, social, or life skills to students who have learning, emotional, or physical disabilities. Serve in a position for which a teacher has primary responsibility for the design and implementation of educational programs and services.",
+    "num_tasks": 30,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Teaching assistants must present subject matter, read aloud, and discuss duties with teachers, which requires interpreting language contextually and handling complex communication in real-world educational settings."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Teaching socially acceptable behavior, employing behavior modification, and identifying student disengagement require adapting to nuanced emotional cues, interpreting motives, and managing a structured social memory within group dynamics."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Carrying out therapeutic regimens and addressing individual student needs involves interpreting interactions in complex social environments, identifying behavioral or learning problems, and developing appropriate approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Preparing classrooms with materials for imaginative play and tutoring students require generating valuable and novel educational interactions within the clearly defined constraints of the teacher's lesson plans and curriculum."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Observing student performance and assessing progress requires the assistant to make educated judgments, integrate nuanced behavioral information, and adjust instructional strategies accordingly."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Working closely with special needs children requires incremental, real-time learning through daily interaction to continuously adapt to each student's evolving emotional, behavioral, and academic needs."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Supervising students across varied and dynamic environments—such as crowded school yards, cafeterias, and gymnasiums—requires complex scene analysis and the ability to visually track multiple children to prevent injuries."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Providing assistive devices, helping students access facilities like restrooms, and instructing in daily hygiene and food preparation require the manipulation of both rigid and non-rigid objects, as well as safe, force-based physical assistance."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Assisting on field trips and supervising unstructured areas like playgrounds involve operating in unseen, dynamic environments with many variables, requiring real-time adaptability to ensure student safety."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:58:04.782322"
+  },
+  {
+    "onet_soc_code": "27-2091.00",
+    "occupation_title": "Disc Jockeys, Except Radio",
+    "description": "Play prerecorded music for live audiences at venues or events such as clubs, parties, or wedding receptions. May use techniques such as mixing, cutting, or sampling to manipulate recordings. May also perform as emcee (master of ceremonies).",
+    "num_tasks": 19,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as serving as an emcee (Task 15), communicating with clients to determine nuanced event preferences (Task 2), and developing written contracts (Task 5) require the ability to interpret language contextually, handle nuance, and adapt communication for live audiences."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Incorporating crowd preferences and mood (Task 7) and encouraging guests to participate in games or dancing (Task 15) require inferring group dynamics, determining audience engagement, and adapting social cues to maintain energy and a clear role in the group."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "DJs must interpret interactions in complex social environments to identify problems (e.g., an unresponsive or bored crowd) and immediately develop approaches to solve them, such as shifting music genres or interacting with the audience (Task 7, Task 15)."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Mixing, cutting, or sampling recorded music (Task 14) and creating tailored playlists (Task 9) require generating novel, valuable outputs that integrate diverse musical ideas and seamlessly blend them to challenge traditional boundaries of individual tracks."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "DJs must critically evaluate their setlists, make educated judgments about music appropriateness (Task 10), and strategically adjust their performance by synthesizing real-time feedback from unfamiliar audiences (Task 7)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Selecting music based on real-time crowd reactions (Task 7) requires incremental learning through interaction with the environment, adapting the performance dynamically to balance exploring new tracks with exploiting known crowd-pleasers."
+      },
+      "Scale 7: Vision": {
+        "level": 2,
+        "reasoning": "While much of the work relies on auditory skills, basic visual capabilities are required to assemble equipment (Task 6), conduct sound checks, and observe the dance floor to gauge audience participation in controlled, albeit often dimly lit, environments."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Operating DJ controllers, mixers, and CDJs (Task 14) requires precise, sometimes force-based manual adjustments (e.g., moving sliders, scratching), as does assembling and reorienting audio/video equipment and cables in moderately challenging positions (Task 6)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Performing at different venues, parties, and clubs requires operating in partially known, dynamic, and semi-structured environments, sharing space safely with crowds, and executing multi-step equipment setup and teardown under moderate uncertainty (Tasks 6, 8)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:00:35.414164"
+  },
+  {
+    "onet_soc_code": "27-4015.00",
+    "occupation_title": "Lighting Technicians",
+    "description": "Set up, maintain, and dismantle light fixtures, lighting control devices, and the associated lighting electrical and rigging equipment used for photography, television, film, video, and live productions. May focus or operate light fixtures, or attach color filters or other lighting accessories.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation involves consulting with lighting directors and production staff to determine requirements, which demands the ability to understand nuanced instructions, discuss technical details, and generate appropriate semantic meaning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 2,
+        "reasoning": "Interactions primarily consist of practical, standard workplace communications, such as notifying supervisors of repairs and coordinating with staff, requiring the interpretation of basic signals and professional context."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 2,
+        "reasoning": "Tasks involve assessing electrical safety, testing equipment, and programming consoles, which requires integrating qualitative reasoning (safety, visual effects) with quantitative analysis (electrical loads) using domain-specific abstractions."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "While executing the lighting director's vision, technicians must find novel ways to set up, focus, and match light fixtures to design plans within the physical and technical constraints of a specific venue."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Technicians must monitor their work, assess safety risks of setups, test equipment for desired effects, and troubleshoot ambiguous issues, identifying when to perform minor repairs or notify supervisors."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Technicians operate in constantly changing, uncertain environments (different stages, sets, and outdoor locations) requiring them to adapt their technical knowledge of wiring, rigging, and equipment functionality to each unique physical setting."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Requires high visual acuity to navigate dynamic environments, make subtle distinctions in colors and brightness to match design plans, and adjust to extreme variations in lighting while focusing fixtures."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Involves physically demanding manipulation of both rigid and non-rigid objects (heavy fixtures, scaffolding, cables, color filters), often navigating tight or obscured spaces on catwalks or trusses under time constraints."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Tasks require physical operation in semi-structured, dynamic environments (sets and stages shared with human crew), executing multi-step physical tasks like assembling scaffolding and lighting rigs safely."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T14:57:58.509667"
+  },
+  {
+    "onet_soc_code": "29-1212.00",
+    "occupation_title": "Cardiologists",
+    "description": "Diagnose, treat, manage, and prevent diseases or conditions of the cardiovascular system. May further subspecialize in interventional procedures (e.g., balloon angioplasty and stent placement), echocardiography, or electrophysiology.",
+    "num_tasks": 25,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Cardiologists require complex reasoning and contextual understanding to interpret medical jargon, explain intricate treatment plans, and compassionately discuss procedures and test results with patients (Tasks 10, 13)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Advising patients, discussing life-threatening health issues, and explaining procedures (Tasks 2, 3, 13) demand nuanced communication, the ability to handle emotional intensity, and versatile social problem-solving to ensure patient comprehension and compliance."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Diagnosing complex cardiovascular conditions and administering emergency care (Tasks 1, 11, 12) require identifying critical medical problems from informal and formal inputs, evaluating complex variables, and formulating effective treatment approaches."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Designing customized treatment plans based on comprehensive patient histories and conducting research to develop or test new medications and procedures (Tasks 8, 10) require integrating ideas across domains and generating valuable, novel outputs."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Monitoring patient conditions, reevaluating treatments (Task 15), and diagnosing complex cases require actively regulating thought processes, carefully evaluating clinical knowledge, and handling ambiguous symptoms while calibrating confidence."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Performing scientific research to develop new treatments (Task 8) and making life-saving decisions in emergency cardiac care (Task 1) demand integrating diverse medical knowledge with real-time adaptation and robust open-ended cognitive flexibility."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Comparing measurements of heart wall thickness, identifying abnormalities via echocardiograms (Task 5), and navigating catheters via fluoroscopy demand making subtle visual distinctions in dynamic, complex environments."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Performing cardiac catheterizations and injecting contrast media (Tasks 11, 14) involve navigating tight, obscured spaces (blood vessels) and handling flexible objects (wires, catheters) with high precision and force adaptation."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Administering emergency cardiac care and performing interventional procedures require operating within a highly dynamic, less structured physical environment (the human body), adapting in real time to shifting vital signs while ensuring absolute patient safety."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:03:00.129440"
+  },
+  {
+    "onet_soc_code": "29-1214.00",
+    "occupation_title": "Emergency Medicine Physicians",
+    "description": "Make immediate medical decisions and act to prevent death or further disability. Provide immediate recognition, evaluation, care, stabilization, and disposition of patients. May direct emergency medical staff in an emergency department.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Emergency Medicine Physicians operate in highly stressful, noisy, and dynamic environments where they must communicate nuanced and sensitive information, such as likely outcomes of traumatic conditions, to patients and their representatives (Tasks 9, 15), while integrating critical thinking and tone."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "This occupation requires deep emotional understanding when delivering difficult news, as well as the ability to instantly adapt roles and infer group behavior when directing and coordinating emergency medical staff during high-stakes resuscitations (Tasks 9, 11)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "ER physicians face unstructured, real-world, and interacting problems. They must integrate tacit, social, and technical knowledge to evaluate vital signs, stabilize critical patients, and navigate ethical and medical challenges under immense pressure (Tasks 2, 4, 6)."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "While they do not fundamentally reinvent medicine on the spot, ER physicians create valuable, patient-specific solutions—such as individualized treatment and stabilization plans—within strict biological and clinical constraints (Tasks 4, 12)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "ER doctors continuously manage complex trade-offs involving limited resources, urgent goals, and varying staff skills (triage). They must make rapid decisions about delegation to nurses and residents, and constantly reevaluate their treatment methodologies based on evolving patient statuses (Tasks 2, 10, 11)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "The occupation demands open-ended cognitive flexibility and robust real-time adaptation to correctly diagnose and treat an incredibly broad spectrum of acute conditions without error or 'hallucination' (Tasks 1, 6, 8)."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Interpreting emergency ultrasounds, radiographs, and physically navigating complex anatomical structures during procedures like intubation require coping with significant variations in shape, appearance, and lighting in dynamic biological environments (Tasks 1, 5)."
+      },
+      "Scale 8: Manipulation": {
+        "level": 5,
+        "reasoning": "Performing procedures such as emergent cricothyrotomy, endotracheal intubation, and emergency thoracotomy requires exceptional physical precision on non-rigid, dynamic human tissue, conducted under strict, life-or-death time constraints (Tasks 3, 5)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "The ER is a highly dynamic, unstructured, and uncertain environment. Performing invasive medical procedures and resuscitations requires managing out-of-distribution scenarios and dynamic variables in complex physical contexts, requiring real-time problem-solving and ensuring extreme safety (Tasks 3, 4, 5)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:01:17.062831"
+  },
+  {
+    "onet_soc_code": "29-1242.00",
+    "occupation_title": "Orthopedic Surgeons, Except Pediatric",
+    "description": "Diagnose and perform surgery to treat and prevent rheumatic and other diseases in the musculoskeletal system.",
+    "num_tasks": 15,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Orthopedic surgeons require nuanced discourse to explain complex diagnoses to patients with empathy and tone. They also need to integrate real-time knowledge and communicate effectively while directing teams in high-stress, noisy environments like operating rooms (Tasks 1, 5, 7, 10)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Surgeons must maintain a clear leadership role in multidisciplinary teams, handle ambiguous medical situations, and manage nuanced communication with both patients and medical staff, adjusting their approach based on the scenario (Tasks 5, 14, 15)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Diagnosing and treating complex bodily disorders involves solving unstructured, real-world problems. The surgeon must integrate technical medical knowledge, tacit surgical skills, and real-time patient conditions to develop effective solutions (Tasks 1, 3, 10)."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Conducting research to develop and test new surgical techniques requires process-oriented creativity, balancing medical innovation with contextual relevance and biological constraints to improve patient outcomes (Task 2)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The occupation requires managing complex trade-offs regarding surgical risks, resources, and patient goals. Surgeons must constantly self-assess, adapt their intraoperative methodologies in real time, and make critical decisions on delegating tasks to staff (Tasks 1, 5, 9, 10)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Orthopedic surgeons must integrate a vast, diverse body of medical knowledge, continuously update their understanding through research, and apply cognitive flexibility to adapt in real time to unexpected anatomical or physiological findings during surgery (Tasks 1, 2, 10)."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Surgical procedures require exceptional visual acuity to handle variations in human anatomy, dynamically track tissues and instruments in real time, and make subtle distinctions under varying lighting and fluid conditions within the body (Tasks 8, 10)."
+      },
+      "Scale 8: Manipulation": {
+        "level": 5,
+        "reasoning": "Orthopedic surgery demands exceptional manual precision and force-based adaptability to manipulate both rigid (bone) and non-rigid (muscle, nerves) structures, as well as complex tools, often under strict time constraints in constrained physical spaces (Tasks 8, 10)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Performing surgical operations inside the highly dynamic, natural, and unstructured environment of the human body requires human-level physical adaptation, managing out-of-distribution anatomical anomalies, and ensuring absolute safety during complex, long-horizon tasks (Tasks 8, 10)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:01:09.205990"
+  },
+  {
+    "onet_soc_code": "29-1243.00",
+    "occupation_title": "Pediatric Surgeons",
+    "description": "Diagnose and perform surgery to treat fetal abnormalities and birth defects, diseases, and injuries in fetuses, premature and newborn infants, children, and adolescents. Includes all pediatric surgical specialties and subspecialties.",
+    "num_tasks": 18,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Pediatric surgeons must interpret complex medical and scientific language and communicate nuanced, context-sensitive information to parents, guardians, and other medical specialists, often using complex reasoning to describe intricate preoperative and postoperative treatments."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "They must demonstrate deep emotional understanding and extreme empathy when informing parents about their child's severe health problems or surgical risks, while simultaneously adopting a strong leadership role to instantly direct and coordinate medical staff during high-stress operations."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Diagnosing and operating on fetal abnormalities or premature infants involves unstructured, real-world problems that intersect multiple domains (e.g., maternal health, pediatric development) and require navigating significant ethical challenges and tacit medical knowledge."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Surgeons are tasked with conducting research to develop and test novel surgical techniques, which requires generalizing skills to new medical anomalies and challenging traditional boundaries to improve patient outcomes."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Performing complex pediatric surgeries requires managing extreme trade-offs between goals (e.g., risks vs. benefits of intervention). Surgeons must continuously assess their methodology in real-time, deciding whether to pivot approaches, delegate tasks to specialists, or even abandon a procedure if it becomes too risky for the patient."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "They must integrate vast amounts of specialized medical knowledge, applying cognitive flexibility and real-time reasoning to adapt to unexpected surgical findings, as well as conducting open-ended scientific research on surgical techniques."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Surgery requires coping with obscured, dynamic environments inside the human body, adapting to internal lighting, and making highly subtle visual distinctions between similar object classes, such as tiny nerves, blood vessels, and tissues in premature infants."
+      },
+      "Scale 8: Manipulation": {
+        "level": 5,
+        "reasoning": "Operating on fetuses and premature infants demands exceptional precision and adaptability. Surgeons must handle highly delicate, non-rigid tissues and organs in extremely tight, obscured spaces under strict time constraints."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Navigating the highly dynamic, unstructured internal anatomy during pediatric and fetal surgery involves managing out-of-distribution scenarios (like unexpected congenital anomalies or sudden hemorrhages). It requires real-time physical problem-solving and immediate adaptation to ensure the patient's survival."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:01:16.269465"
+  },
+  {
+    "onet_soc_code": "29-2012.01",
+    "occupation_title": "Histology Technicians",
+    "description": "Prepare histological slides from tissue sections for microscopic examination and diagnosis by pathologists. May assist with research studies.",
+    "num_tasks": 8,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 1,
+        "reasoning": "Language requirements are minimal and strictly functional, focusing on reading labels, operating computerized laboratory equipment, and basic record keeping for archiving diagnostic material, which aligns with basic pattern matching and information retrieval."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 0,
+        "reasoning": "The key tasks focus entirely on laboratory procedures, equipment operation, and sample preparation. There is no essential requirement for social interaction in this occupation."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 1,
+        "reasoning": "Problem-solving in this role involves structured tasks within a strictly defined domain (medicine/laboratory science), such as troubleshooting well-documented equipment malfunctions or addressing discrepancies in staining protocols."
+      },
+      "Scale 4: Creativity": {
+        "level": 0,
+        "reasoning": "The occupation demands strict adherence to medical protocols and standardization to ensure accurate diagnoses. Creativity or deviation from standard procedures is not required and could compromise diagnostic integrity."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 1,
+        "reasoning": "Requires basic critical thinking to filter information and understand logical connections, such as verifying that tissues are correctly sectioned, stained, and mounted before passing them to a pathologist."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 1,
+        "reasoning": "The role relies on procedural knowledge and formal structures, such as archiving diagnostic slides and blocks, recording sample data, and using standardized protocols for tissue preparation."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "High visual capability is required to handle significant variations in the shape and appearance of diverse tissue specimens, align them precisely during embedding, and conduct intricate quality control visually to ensure cellular details are clearly visible after staining."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Tasks such as cutting micro-thin tissue sections on microtomes, orienting tissues precisely for embedding, and mounting delicate, non-rigid tissue specimens onto glass slides require precise, adaptable force-based manipulation and complex handling of non-rigid objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "The occupation involves executing multi-step, composite predefined tasks (e.g., dehydrating, embedding, sectioning, and staining) within a semi-structured and partially dynamic laboratory environment, allowing for different specimen requirements."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:01:00.918909"
+  },
+  {
+    "onet_soc_code": "29-2042.00",
+    "occupation_title": "Emergency Medical Technicians",
+    "description": "Assess injuries and illnesses and administer basic emergency medical care. May transport injured or sick persons to medical facilities.",
+    "num_tasks": 12,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "EMTs must communicate critical medical information and comfort patients in highly stressful, noisy, real-life, and multimodal environments, requiring dynamic integration of tone and real-time knowledge."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "EMTs must comfort and reassure highly distressed patients and coordinate seamlessly with other emergency personnel, requiring deep emotional understanding and instant adaptation to rapidly changing group dynamics and extreme situations."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Assessing injuries and prioritizing life-saving procedures in chaotic prehospital settings involves solving unstructured, real-world multidisciplinary problems that integrate medical knowledge with live social interactions and physical constraints."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "While EMTs primarily follow strict medical protocols, they must routinely devise novel ways to apply these protocols and physical solutions (e.g., patient extrication or improvised splinting) within the clearly defined constraints of a given emergency scene."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "EMTs actively regulate their thought processes to tackle complex, ambiguous medical problems in unfamiliar domains (such as unpredictable accident scenes), continuously evaluating the patient's condition and calibrating their treatment approach."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "EMTs must apply medical knowledge in highly uncertain, unknown, and changing environments, drawing on experiential memory to balance immediate stabilization with the need to transport."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "EMTs must drive mobile intensive care units through dynamic traffic and assess subtle visual medical cues (such as pupil dilation or skin pallor) across a wide variety of novel and dynamically changing environments and lighting conditions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 5,
+        "reasoning": "Tasks such as immobilizing patients, performing airway management, or administering IVs require exceptional precision and adaptability, often performed under strict time constraints in extremely cluttered or awkward spaces (like a wrecked vehicle) or a moving ambulance."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "The occupation demands operating in completely unstructured, unseen natural environments, executing high-stakes physical interventions, and performing high-performance driving, all while managing severe uncertainty and ensuring human safety."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:04:15.053519"
+  },
+  {
+    "onet_soc_code": "29-2043.00",
+    "occupation_title": "Paramedics",
+    "description": "Administer basic or advanced emergency medical care and assess injuries and illnesses. May administer medication intravenously, use equipment such as EKGs, or administer advanced life support to sick or injured individuals.",
+    "num_tasks": 13,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Paramedics must communicate effectively in highly dynamic, multimodal, and often noisy emergency environments, coordinating in real time with team members and hospital staff while comforting patients."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "They must instantly adapt to extreme social and emotional situations, providing deep emotional understanding to comfort severely injured or distressed patients, as well as managing panicked family members or bystanders."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "The role requires solving highly unstructured, real-world medical emergencies by integrating tacit technical medical knowledge with live social interactions and emotional management at the scene."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "While following strict emergency medical protocols, paramedics must adapt their life-saving solutions to the specific, sometimes novel constraints of the physical environment they encounter."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Paramedics must actively regulate their thought processes to quickly assess injuries, prioritize medical procedures (triage), and tackle ambiguous, high-stakes medical issues in unfamiliar domains."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "They require real-time knowledge retrieval and adaptation to continuously operate and apply medical knowledge in unknown, uncertain, and rapidly changing emergency settings."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Visual assessment of patient conditions and accident scenes must be done under extreme variations in lighting, perspective, and environmental conditions, requiring real-time scene understanding across novel environments."
+      },
+      "Scale 8: Manipulation": {
+        "level": 5,
+        "reasoning": "Performing invasive procedures like IV administration or intubation requires exceptional precision under strict time constraints, frequently operating in extremely cluttered spaces such as wrecked vehicles."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Paramedics operate in completely unstructured, unseen, and unpredictable physical environments, managing highly uncertain and out-of-distribution emergency scenarios that require diverse skills and complex physical-social integration."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:03:32.019976"
+  },
+  {
+    "onet_soc_code": "29-2072.00",
+    "occupation_title": "Medical Records Specialists",
+    "description": "Compile, process, and maintain medical records of hospital and clinic patients in a manner consistent with medical, administrative, ethical, legal, and regulatory requirements of the healthcare system. Classify medical and healthcare concepts, including diagnosis, procedures, medical services, and equipment, into the healthcare industry's numerical coding system. Includes medical coders.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Medical records specialists must transcribe medical reports and read through complex, unstructured physicians' notes. This requires reliably understanding semantic meaning across diverse medical texts and speech modalities to identify relevant patient data."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 2,
+        "reasoning": "The role involves participating in coding team meetings and consulting with doctors or other personnel to clarify missing or conflicting information. This requires managing basic professional interactions, recognizing context, and adapting to recurring communication challenges."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Specialists regularly perform tasks that involve identifying, abstracting, and translating informal or unstructured descriptions from patient medical notes into structured models, such as the healthcare industry's numerical coding systems and DRGs."
+      },
+      "Scale 4: Creativity": {
+        "level": 0,
+        "reasoning": "This occupation is heavily rules-based and compliance-focused. It relies on strict adherence to established medical classification systems, legal regulations, and factual accuracy rather than generative or novel creativity."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Specialists must review records that often contain ambiguities or incomplete information. They must discern what is clear and what is missing, halting their process when necessary to consult with doctors to resolve conflicting or unclear information."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "The job involves processing massive amounts of unstructured patient data, requiring context-sensitive semantic understanding of disease processes and treatments to accurately abstract and summarize the information into specific codes."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The core tasks of analyzing text, entering data, and assigning codes rely on mental analysis of information. Digital systems and records can be effectively accessed and managed via assistive technologies like screen readers, making vision non-essential."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The occupation relies almost entirely on cognitive reasoning, data entry, and digital information processing. Any minor physical handling of paperwork can be easily assisted or adapted for, making manipulation capabilities non-essential."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "This is a purely cognitive, administrative role typically performed in a stationary digital environment. It does not require spatial navigation, dynamic physical adaptation, or embodied robotic intelligence."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:03:43.748217"
+  },
+  {
+    "onet_soc_code": "29-9021.00",
+    "occupation_title": "Health Information Technologists and Medical Registrars",
+    "description": "Apply knowledge of healthcare and information systems to assist in the design, development, and continued modification and analysis of computerized healthcare systems. Abstract, collect, and analyze treatment and followup information of patients. May educate staff and assist in problem solving to promote the implementation of the healthcare information system. May design, develop, test, and implement databases with complete history, diagnosis, treatment, and health status to help monitor diseases.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The role requires interpreting complex and highly contextual clinical documentation, understanding legislative texts, and communicating nuanced reasoning when resolving ambiguous diagnoses with medical professionals."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks such as supervising clerical workers, training medical records staff, and facilitating educational seminars require maintaining clear group roles, handling nuanced communication, and recognizing trainee engagement."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "The occupation routinely involves translating unstructured and informal clinical notes from everyday medical language into highly structured diagnostic classification models (e.g., DRGs)."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Designing healthcare databases and developing in-service educational materials requires creating novel, valuable solutions that must adhere to strict, well-defined constraints like HIPAA regulations and coding standards."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Workers must constantly evaluate their own understanding of clinical data to identify missing, conflicting, or unclear information, and then determine whether they need to consult with doctors to resolve the ambiguity."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Abstracting and coding patient data requires understanding the deeper semantics of medical information, processing large amounts of contextual data, and summarizing clinical histories accurately."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The occupation relies on cognitive analysis of information systems, coding, and medical data, which can be performed using assistive technologies (such as screen readers) without relying on visual processing."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "This is primarily a cognitive and digital role. Interacting with computerized healthcare systems and managing databases does not require physical manipulation capabilities, as adaptive tools can be used."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation centers on data management, systems design, and human interaction in office settings, requiring no physical navigation or autonomous robotic interactions in physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:03:52.885442"
+  },
+  {
+    "onet_soc_code": "33-1091.00",
+    "occupation_title": "First-Line Supervisors of Security Workers",
+    "description": "Directly supervise and coordinate activities of security workers and security guards.",
+    "num_tasks": 21,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation requires understanding and generating semantic meaning, as well as applying logical and social reasoning, to write incident reports, interview candidates, and advise employees on handling disputes."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Workers must handle high emotional intensity, infer motives, and resolve complex social conflicts, such as altercations, evicting trespassers, and advising employees on dealing with complaints from customers or detainees."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The role involves interpreting interactions in complex social environments, identifying unstructured problems that require immediate attention (like suspicious activities or security alarms), and developing approaches to resolve them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "While not inherently an artistic role, supervisors must create valuable, novel solutions within defined constraints, such as formulating appropriate security schedules, assigning patrol routes, and devising specific situational training."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Supervisors critically evaluate information to make educated judgments, particularly when investigating subtle signs of intrusion or suspicious behavior, requiring the synthesis of nuanced and sometimes incomplete information."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The occupation requires operating in uncertain and changing environments, drawing on real-time learning and memory to adapt to ongoing dynamic situations like bomb threats, fires, or unfolding altercations."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Workers must make subtle visual distinctions between similar objects and handle significant variations in environments to effectively monitor CCTV, screen bags for prohibited items, and inspect security equipment."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "The job involves force-based physical operations and handling both rigid and non-rigid objects with moving parts, which is necessary for screening belongings, inspecting tampered equipment, and physically apprehending or evicting trespassers."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Workers operate in dynamic, unstructured physical environments under high levels of uncertainty, executing long-horizon tasks with contextual dependencies, such as responding to emergencies and securing premises while ensuring the safety of others."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:03:27.200695"
+  },
+  {
+    "onet_soc_code": "33-9094.00",
+    "occupation_title": "School Bus Monitors",
+    "description": "Maintain order among students on a school bus. Duties include helping students safely board and exit and communicating behavioral problems. May perform pretrip and posttrip inspections and prepare for and assist in emergency evacuations.",
+    "num_tasks": 18,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Tasks involve talking to parents or guardians about complex topics such as problematic behaviors and emotional or developmental problems (task 13), as well as communicating delays to dispatchers and responding to student inquiries. This requires advanced logical and social reasoning in language."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Monitoring student conduct (task 4), defusing altercations (task 10), and assisting children with behavioral issues (task 3) require interpreting complex group dynamics, understanding emotional intensity, and deciding when and how to intervene to manage social environments."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The occupation involves interpreting interactions in complex social environments to identify problems that need attention (such as preventing fights or addressing behavioral issues) and developing approaches to resolve them to maintain discipline and safety on the bus."
+      },
+      "Scale 4: Creativity": {
+        "level": 1,
+        "reasoning": "While the role is largely governed by strict safety protocols and procedures, some baseline adaptability to produce typical, relevant on-the-spot responses when managing student behavior or responding to complaints is required."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "The worker must monitor unfolding situations on the bus with familiar but sometimes ambiguous information (e.g., emerging student behavioral issues or traffic complications) and adjust their approaches critically to ensure safety and discipline."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Assisting children with disabilities or emotional issues and managing safety in the dynamic, changing environment of a moving school bus requires real-time adaptation and incrementally learning how to support individual students effectively, similar to supporting vulnerable individuals in everyday contexts."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Escorting children across roads or highways (task 2) and guiding the driver while reversing (task 12) require real-time scene understanding, dynamic tracking, and processing of varied environments, interacting safely with dynamic traffic."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Tasks such as buckling seatbelts and fastening wheelchair tie-down straps (task 1) require force-based operations, handling moving and non-rigid parts, and navigating the tight and obscured spaces of a school bus."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Escorting children, operating wheelchair lifts, and evacuating students during emergencies involve operating in dynamic, physically unstructured environments (like roads and bus aisles), adapting to high levels of uncertainty, and ensuring the physical safety of human collaborators."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:04:44.553076"
+  },
+  {
+    "onet_soc_code": "39-1014.00",
+    "occupation_title": "First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+    "description": "Directly supervise and coordinate activities of entertainment and recreation related workers.",
+    "num_tasks": 19,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The role requires contextual interpretation and complex reasoning to explain policies, resolve customer complaints, and take disciplinary actions, demanding nuanced discourse and clear communication."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Supervisors must maintain a clear leadership role in groups, infer motives, manage nuanced communication, and demonstrate versatile social problem-solving when addressing customer complaints and managing staff performance."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Resolving customer complaints and addressing staff performance problems requires the ability to interpret interactions in complex social environments, identify issues that need attention, and develop strategic approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Planning and developing programs of events or activity schedules involves creating novel, engaging solutions that must remain within the clearly defined constraints of budgets, facilities, and organizational rules."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Taking disciplinary action and assisting staff with difficult duties requires evaluating complex or nuanced information, making educated judgments, and applying strategic problem-solving to balance operational goals with worker capabilities."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Operating in dynamic recreational environments requires real-time incremental learning to adapt to changing situations, recognize the special needs of specific groups, and stay informed of operational changes."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Inspecting work areas and operating equipment (such as safety harnesses) to ensure conformance to cleanliness and maintenance standards requires making subtle visual distinctions and conducting intricate quality control."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for this occupation, as the core duties focus on supervision, communication, planning, and visual inspection rather than physically handling objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation revolves around cognitive, social, and administrative supervision. It does not require complex physical mobility, autonomous navigation, or physical robotic intervention."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:05:04.899555"
+  },
+  {
+    "onet_soc_code": "39-4012.00",
+    "occupation_title": "Crematory Operators",
+    "description": "Operate crematory equipment to reduce human or animal remains to bone fragments in accordance with state and local regulations. Duties may include preparing the body for cremation and performing general maintenance on crematory equipment. May use traditional flame-based cremation, calcination, or alkaline hydrolysis.",
+    "num_tasks": 12,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Explaining the cremation process and offering counsel to bereaved families requires reliably understanding and generating semantic meaning, along with advanced social reasoning to communicate sensitively."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Offering counsel and comfort to grieving friends and family demands the ability to understand high emotional intensity, manage nuanced communication, and handle the ambiguity inherent in grief counseling."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Handling social and ethical issues, particularly when interacting with bereaved families, requires the ability to identify complex emotions, engage in theory of mind reasoning, and adjust responses contextually."
+      },
+      "Scale 4: Creativity": {
+        "level": 1,
+        "reasoning": "Tasks such as embalming, dressing, and preparing the deceased for viewing require producing valuable and relevant aesthetic results that replicate standard human practices, without the need for novel or boundary-pushing creativity."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Operators must monitor their understanding and adapt their approach when reading documentation to confirm identities, ensuring remains are not misplaced, and handling any ambiguities in family requests or standard procedures."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 2,
+        "reasoning": "The role requires accessing and applying practical, loosely organized information related to state regulations, operating equipment, and using natural language to comfort clients and coordinate with funeral homes."
+      },
+      "Scale 7: Vision": {
+        "level": 3,
+        "reasoning": "Visual capabilities are required for autonomous vehicle navigation when transporting the deceased, handling variations in target object appearance when removing specific jewelry, and ensuring the cremation chamber is properly swept."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Picking up, handling, and dressing heavy, non-rigid human remains involves complex force-based operations, specific object orientations, and adapting to bodies with moving limbs and varying properties."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Operating within the semi-structured, dynamic environment of a crematorium requires executing medium-horizon, multi-step tasks such as preparing bodies, operating complex machinery, and cleaning, while sharing the environment with humans."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:04:55.388828"
+  },
+  {
+    "onet_soc_code": "41-3091.00",
+    "occupation_title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+    "description": "Sell services to individuals or businesses. May describe options or resolve client problems.",
+    "num_tasks": 15,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Requires reliably understanding and generating semantic meaning with advanced logical and social reasoning to answer customer questions, negotiate terms, and develop detailed proposals (Tasks 2, 3, 6)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Demands inferring client motives, managing nuanced communication, and utilizing versatile social problem solving during negotiations and customer consultations (Tasks 5, 6)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 3,
+        "reasoning": "Involves engaging in theory of mind reasoning to interpret informal client descriptions and resolve complex professional problems described in everyday language to provide ongoing support (Tasks 1, 11)."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Creates novel and valuable sales presentations and proposals tailored to individual clients, operating within the clearly defined constraints of the available services and vendor capabilities (Tasks 3, 11)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Requires engaging in strategic problem solving and integrating nuanced information to monitor market conditions, analyze competitor services, and identify prospective customers (Tasks 9, 13)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Learns incrementally in real time through dynamic interactions with customers and the market, balancing exploration of new leads with managing existing relationships (Tasks 13, 15)."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not essential; the core functions of consulting, negotiating, and selling rely on cognitive analysis and communication, which can be effectively performed using assistive technologies (Tasks 1, 2, 6)."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation is not essential; the primary tasks involve reasoning, verbal or written communication, and digital record keeping rather than the physical handling of materials (Tasks 4, 6, 8)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic Intelligence is not essential, as the occupation centers entirely on cognitive, communicative, and social tasks rather than operating or navigating physically in unstructured environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:04:53.239673"
+  },
+  {
+    "onet_soc_code": "53-1044.00",
+    "occupation_title": "First-Line Supervisors of Passenger Attendants",
+    "description": "Supervise and coordinate activities of passenger attendants.",
+    "num_tasks": 19,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation requires advanced logical and social reasoning to communicate safety rules, resolve customer complaints, train new workers, and write operational activity reports."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks involve resolving customer complaints, evaluating worker motivation, and taking disciplinary action. This requires handling nuanced communication, understanding interpersonal dynamics, and versatile social problem-solving."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Supervisors must identify operational and personnel problems without clear structured descriptions, interpret complex social interactions when evaluating performance or customer feedback, and develop approaches to improve services."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "The role requires generating novel solutions within specific constraints, such as recommending and implementing practical measures to improve worker motivation, work methods, and customer service."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 3,
+        "reasoning": "Supervisors critically evaluate information to make educated judgments, such as analyzing personnel data, assessing whether to take disciplinary action, and determining how to apply customer feedback to service improvements."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 3,
+        "reasoning": "Requires understanding and generalizing company policies and operational procedures to train workers and the ability to process personnel and operational data to write activity reports."
+      },
+      "Scale 7: Vision": {
+        "level": 3,
+        "reasoning": "Visual capabilities are essential for inspecting materials, work areas, and equipment for defects or cleanliness, as well as observing and evaluating workers' physical appearance to ensure compliance with standards."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for this occupation. The core duties involve supervision, observation, communication, and administration, which do not inherently rely on fine or gross manual dexterity."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "The occupation requires physical presence and navigation within partially known, dynamic, and semi-structured environments (such as transit terminals or vehicles) to inspect facilities and observe workers amidst moving passengers."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:04:42.896783"
+  },
+  {
+    "onet_soc_code": "53-3051.00",
+    "occupation_title": "Bus Drivers, School",
+    "description": "Drive a school bus to transport students. Ensure adherence to safety rules. May assist students in boarding or exiting.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Bus drivers must reliably understand and generate spoken language to maintain order among students, communicate geographical directions, and report delays or accidents via two-way radios. This requires semantic understanding and social reasoning to interact effectively with children and dispatchers."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Maintaining order among students and safely escorting small children across streets requires the ability to interpret behavioral cues, engage in basic emotional exchanges, and manage simple group dynamics in a dynamic environment."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Drivers must use everyday commonsense to solve unstructured problems, such as navigating unexpected traffic or detours, while simultaneously interpreting and managing interactions in a complex social environment (a bus full of students) and identifying situations that need attention."
+      },
+      "Scale 4: Creativity": {
+        "level": 1,
+        "reasoning": "The occupation is highly structured, relying on strict schedules, safety rules, and regular routes. Creativity is mostly limited to making typical, relevant variations, such as finding a standard alternative route if a road is blocked."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Bus drivers work with familiar information (fixed routes) that may contain ambiguities (unexpected traffic, weather conditions). They must make informed guesses, resolve trade-offs, and adjust their driving or route approach accordingly."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Navigating real-world traffic and managing student behavior requires operating in unknown, uncertain, or continuously changing environments, requiring real-time learning and adaptation to new conditions during transit."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Safe operation of a school bus necessitates real-time scene understanding, complex dynamic tracking of moving objects (pedestrians, cars), and coping with constant variations in lighting, weather, and environments across public roads."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Drivers must perform force-based operations and manipulate varied controls (steering, pedals, doors), check the physical condition of the vehicle (tires, oil, brakes), and keep the interior clean, requiring adaptability to different object geometries and physical interactions."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Driving a multi-passenger vehicle safely in highly dynamic, unseen, unstructured, and natural environments (traffic) involves managing high uncertainty, adapting to shifting constraints, and ensuring the absolute safety of human collaborators (students)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:05:56.255205"
+  },
+  {
+    "onet_soc_code": "53-3053.00",
+    "occupation_title": "Shuttle Drivers and Chauffeurs",
+    "description": "Drive a motor vehicle to transport passengers on a planned or scheduled basis. May collect a fare. Includes nonemergency medical transporters and hearse drivers.",
+    "num_tasks": 26,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Drivers must reliably process both speech and text to communicate dynamically with passengers, dispatchers, and mechanics over the radio or telephone, understanding conversational nuances and exchanging clear information."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "The role requires managing passenger dynamics, ensuring courteous service, enforcing safety regulations, and interpreting behavioral cues to coordinate actions such as turn-taking at intersections."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 2,
+        "reasoning": "Tasks rely heavily on integrating qualitative reasoning, particularly spatial and temporal relationships, to navigate routes, estimate travel times, and evaluate vehicle conditions or needed repairs."
+      },
+      "Scale 4: Creativity": {
+        "level": 1,
+        "reasoning": "While the occupation follows strict rules and schedules, drivers must occasionally generate minor, practical variations, such as finding alternative routes to avoid traffic or adapting slightly to passenger requests."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Drivers must monitor their environment, evaluate traffic delays, and adjust their routes or actions based on familiar but incomplete information, making trade-offs to meet strict time schedules."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 2,
+        "reasoning": "The occupation requires utilizing unstructured spatial memory and knowledge of neighborhoods, alongside travel planning and adjusting to varying pickup requests or appointments."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Driving safely in public spaces demands real-time scene understanding, dynamic tracking, and adapting to constant environmental changes, lighting, and unexpected obstacles in complex traffic scenarios."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Physical tasks involve handling luggage of various shapes and weights, operating specialized equipment like wheelchair lifts, and performing routine maintenance like adding gasoline or regulating tire pressure."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Driving a shuttle or company vehicle involves high-performance autonomous navigation in highly dynamic, unstructured, and unpredictable public environments, ensuring passenger and pedestrian safety."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:05:43.950509"
+  },
+  {
+    "onet_soc_code": "53-3054.00",
+    "occupation_title": "Taxi Drivers",
+    "description": "Drive a motor vehicle to transport passengers on an unplanned basis and charge a fare, usually based on a meter.",
+    "num_tasks": 16,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Communication with dispatchers, interacting with diverse passengers, and providing advice about local points of interest or restaurants requires the ability to reliably understand and generate speech in varied contexts."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 3,
+        "reasoning": "Taxi drivers must manage basic group dynamics and interpersonal interactions with passengers, interpret social intent, and coordinate turn-taking with other drivers at intersections."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Navigating city traffic and handling vague passenger requests requires solving everyday commonsense and professional problems without clear descriptions, interpreting dynamic interactions on the road, and anticipating potential hazards."
+      },
+      "Scale 4: Creativity": {
+        "level": 1,
+        "reasoning": "Providing personalized, relevant advice and recommendations to passengers about local restaurants or attractions requires generating typical and relevant outputs based on passenger preferences."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 2,
+        "reasoning": "Drivers must constantly monitor route options, dealing with incomplete or ambiguous traffic information to make informed guesses and trade-offs (e.g., choosing a slightly longer route to avoid an unexpected traffic jam)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Driving safely and efficiently requires operating in an unknown, uncertain, and constantly changing environment, learning incrementally about road closures, traffic patterns, and passenger hotspots."
+      },
+      "Scale 7: Vision": {
+        "level": 5,
+        "reasoning": "Operating a vehicle requires complex object recognition, dynamic tracking, and real-time scene understanding across diverse environments, varying lighting, and dynamic traffic conditions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Providing assistance with luggage requires handling diverse, sometimes heavy, rigid and non-rigid objects in tight spaces (like a vehicle trunk), as well as performing minor vehicle repairs like replacing spark plugs that involve specific object orientations."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 5,
+        "reasoning": "Driving a taxicab involves operating in highly dynamic, unseen, unstructured natural environments, managing complex driving tasks, and ensuring human safety amidst high uncertainty in traffic."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:05:40.407731"
+  },
+  {
+    "onet_soc_code": "53-6032.00",
+    "occupation_title": "Aircraft Service Attendants",
+    "description": "Service aircraft with fuel. May de-ice aircraft, refill water and cooling agents, empty sewage tanks, service air and oxygen systems, or clean and polish exterior.",
+    "num_tasks": 11,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 2,
+        "reasoning": "Communicates via radio with flight dispatchers using standard aviation terminology and completes routine task forms."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 2,
+        "reasoning": "Relies on standardized visual communication, such as hand signals and batons, to interact with pilots and coordinate aircraft movement."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 1,
+        "reasoning": "Solves structured problems within a clearly defined domain, such as identifying physical discrepancies like cracks, leaks, or breaks on aircraft components."
+      },
+      "Scale 4: Creativity": {
+        "level": 0,
+        "reasoning": "Work is strictly governed by rigorous aviation safety protocols and standard operating procedures, requiring no creative output."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 1,
+        "reasoning": "Engages in basic filtering of information, following straightforward checklists and specialized procedures for servicing aircraft."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 1,
+        "reasoning": "Relies on formalized, rule-based knowledge formats (e.g., procedures for de-icing or refueling) and maintains accurate records via forms."
+      },
+      "Scale 7: Vision": {
+        "level": 3,
+        "reasoning": "Requires navigating ground vehicles (like tugs) in dynamic tarmac environments, recognizing specific aircraft parts, and visually identifying surface defects under varying outdoor lighting conditions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Involves maneuvering heavy luggage of various shapes in tight or obscured cargo holds, and executing force-based alignment of heavy refueling hoses under moderate time constraints."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Operates safely in dynamic, semi-structured outdoor environments (airport aprons), performing medium-horizon, multi-step procedures (refueling, towing) amidst human workers, changing weather, and moving vehicles."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-09-01T15:06:39.936752"
+  }
+]

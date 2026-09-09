@@ -1,0 +1,49 @@
+You are an expert in analyzing occupational requirements and AI capabilities. Your task is to rate an Intermediate Work Activity (IWA) across 9 different AI capability scales.
+
+IWA TO ANALYZE:
+Code: {iwa_code}
+Name: {iwa_name}
+Parent Generalized Work Activity (GWA): {gwa_code} — {gwa_name}
+Reference categories: {reference_text}
+
+{linked_dwas_text}
+{linked_tasks_text}
+{linked_occupations_text}
+
+RATING SCALES:
+{scales_text}
+
+GENERAL INSTRUCTIONS:
+1.	For each IWA, determine which capabilities among the nine AI Capability Indicators are required to perform this IWA.
+2.	For each required AI Capability Indicator, determine what level (0-5) of capability would be required to carry out this IWA. If a particular capability is not required for this IWA at all, assign a rating of 0.
+3.	When determining the capability level, focus on the essential capability requirements to carry out this IWA. For instance, Manipulation capabilities are not essential to the IWA "Analyze financial information." (analytical/cognitive in nature); therefore Manipulation = 0 for that IWA.
+4.	An IWA sits at a higher level of abstraction than individual O*NET tasks. It groups together many Detailed Work Activities (DWAs), tasks, and is performed across many occupations. The auxiliary information provided above (linked DWAs, sampled tasks, and the occupations in which this IWA appears) is given so you can ground your judgment in the concrete work that the IWA actually covers in practice. Use it to anchor your reasoning, but rate the IWA as a whole — not any single linked task or occupation.
+5.	Because the IWA spans many occupations and tasks, your rating should reflect the capability level typically required to carry out the IWA across the range of contexts in which it appears. Do NOT mix required level of capability with perceived importance or frequency. If carrying out the IWA in a non-trivial subset of its linked tasks/occupations requires a high level of a certain capability, rate that capability as high along the 1-5 scale.
+6.	Make sure your ratings reflect what the IWA currently looks like (as captured by its linked DWAs, tasks, and occupations) and NOT what a potential transformation scenario could look like. Even if a machine/algorithm can already carry out parts of the IWA, stick to the activity as it is described and as it is performed in the linked contexts.
+7.	For each AI Capability Indicator, focus primarily on the descriptions of the levels (1-5) and treat the example tasks on the scales as secondary. Levels are ordered in an increasing level of complexity for AI systems.
+8.	Reflect in your rating the minimum appropriate level required to carry out the IWA according to the level description on the scale.
+9.	When reading the level descriptions replace AI systems or robots by just Workers.
+
+INSTRUCTIONS SPECIFIC to some AI Capability Indicators:
+1.	Creativity: While IWAs in the Arts and Music Entertainment Industry will naturally receive some of the highest scores on the AI Creativity Capability Indicator, many other IWAs (but not all) will require some level of this capability as well. For instance, an IWA like "Develop treatment plans for patients" may require Level 2 Creativity, because it involves creating patient-specific solutions within biological and clinical limits.
+2.	Knowledge, Learning and Memory: Interpret Levels 1–5 primarily as a progression of increasing complexity in mastering Knowledge, Learning, and Memory capabilities required to perform the IWA, while also taking level descriptions into account to guide your judgment.
+3.	Vision: While Vision is a capability expected from many human workers, it is not essential for many IWAs and it should be assigned a value of 0 in these cases. For instance, Vision capabilities are not essential for an IWA like "Analyze financial data" because the activity relies on mental analysis, not visual processing, and because accessible assistive technologies allow workers without vision to perform such activities effectively.
+4.	Manipulation: While human workers are usually expected to have some manual dexterity at work, many IWAs do not rely on manipulation capabilities. For instance, Manipulation capabilities are not essential for IWAs such as "Prepare financial documents, reports, or budgets" because the activity depends on reasoning capabilities and uses digital tools that can be accessed in a variety of ways; physical handling of materials is minimal and can be assisted or adapted for.
+5.	Robotic Intelligence: This scale primarily reflects physical capabilities. While fundamentally physical, higher levels may incorporate aspects of reasoning and social interaction—such as interpreting gestures, adapting to dynamic environments, or coordinating actions in human-centric settings. The scale thus allows for integrated physical, reasoning, and social capabilities where IWA complexity demands it.
+
+Please provide your response in the following JSON format:
+{{
+    "ratings": {{
+        "Scale 1: Language": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 2: Social Interaction": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 3: Problem Solving": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 4: Creativity": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 5: Metacognition and critical thinking": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 6: Knowledge, learning and memory": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 7: Vision": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 8: Manipulation": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}},
+        "Scale 9: Robotic Intelligence": {{"level": X, "reasoning": "Brief explanation referencing the IWA and its linked DWAs/tasks"}}
+    }}
+}}
+
+Ensure your response is valid JSON that can be parsed.

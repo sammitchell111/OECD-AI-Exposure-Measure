@@ -1,0 +1,922 @@
+[
+  {
+    "onet_soc_code": "11-1011.00",
+    "occupation_title": "Chief Executives",
+    "description": "Determine and formulate policies and provide overall direction of companies or private and public sector organizations within guidelines set up by a board of directors or similar governing body. Plan, direct, or coordinate operational activities at the highest level of management with the help of subordinate executives and staff managers.",
+    "num_tasks": 31,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Chief Executives must represent their organizations at official functions, preside over board meetings, and present complex reports. This requires nuanced discourse, the ability to integrate critical thinking, tone, and real-time knowledge, and effective communication across complex, multi-stakeholder environments."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "Directing human resources, presiding over boards of directors, and representing organizations require the ability to continuously infer group behavior and intent, navigate highly nuanced social dynamics, and adapt solutions instantly to handle deep and complex stakeholder relationships."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Chief Executives solve highly unstructured, real-world, and multidisciplinary problems. Implementing corrective action plans for organizational issues and analyzing public policy involves integrating social, technical, and domain knowledge while navigating significant ethical and operational complexities."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Determining overall organizational direction and formulating policies require process-oriented creativity that adapts to evolving market or public sector domains, balancing innovative strategic decisions with the contextual constraints set by governing bodies."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The core of this occupation involves managing complex trade-offs between goals and resources, coordinating long-term organizational operational activities, and critically making high-level decisions regarding delegation to subordinate executives."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Tasks such as analyzing public policy, determining high-level organizational policy, and directing diverse departments require open-ended cognitive flexibility, robust real-time adaptation, and the integration of highly diverse knowledge types."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this occupation. The role relies almost entirely on mental analysis, reasoning, and social interaction. A person without vision can perform all essential tasks effectively using assistive technologies to review reports or analyze legislation."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not an essential requirement for a Chief Executive, as the occupation relies on cognitive, strategic, and communication skills rather than handling physical objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The tasks of a Chief Executive do not involve physical operation or navigation in unstructured physical environments, making robotic intelligence capabilities irrelevant to the core requirements of the job."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:13:50.165814"
+  },
+  {
+    "onet_soc_code": "11-1011.03",
+    "occupation_title": "Chief Sustainability Officers",
+    "description": "Communicate and coordinate with management, shareholders, customers, and employees to address sustainability issues. Enact or oversee a corporate sustainability strategy.",
+    "num_tasks": 18,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Chief Sustainability Officers must write complex project proposals, grant applications, and sustainability reports, as well as deliver presentations to diverse stakeholders. This requires interpreting language contextually, employing complex reasoning, and generating nuanced communication."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "The role requires communicating and coordinating with management, shareholders, customers, and employees. This involves handling ambiguity, inferring motives, and versatile social problem-solving to successfully negotiate and enact corporate sustainability strategies."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Developing corporate sustainability strategies and conducting risk assessments requires solving unstructured, real-world, and multidisciplinary problems. The officer must integrate environmental, social, business, and technical knowledge while navigating ethical and corporate challenges."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Developing marketing or outreach media and formulating campaign strategies require process-oriented creativity. The officer must adapt their strategic outputs to evolving corporate domains while balancing innovative sustainability initiatives with practical contextual relevance."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Directing sustainability programs involves managing complex trade-offs between long-term corporate goals, available resources, schedules, and budgets. It also requires making decisions about delegation by supervising employees and evaluating the integration of proposals with other initiatives."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "The occupation requires open-ended cognitive flexibility to research complex environmental issues, conduct risk assessments, and establish high-level corporate policies, which demands the integration of diverse, multidisciplinary knowledge types."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this executive role, as the profession relies on mental analysis, strategic planning, and communication rather than visual processing. Assistive technologies can enable individuals without vision to perform all critical job functions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for this occupation. The role is heavily focused on cognitive tasks, reasoning, and digital communication rather than handling or manipulating physical materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation involves high-level strategic, social, and cognitive responsibilities within office or virtual environments, and does not require spatial navigation or physical interaction in dynamic physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:13:58.533578"
+  },
+  {
+    "onet_soc_code": "11-1021.00",
+    "occupation_title": "General and Operations Managers",
+    "description": "Plan, direct, or coordinate the operations of public or private sector organizations, overseeing multiple departments or locations. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources, but are too diverse and general in nature to be classified in any one functional area of management or administration, such as personnel, purchasing, or administrative services. Usually manage through subordinate supervisors. Excludes First-Line Supervisors.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 5,
+        "reasoning": "Tasks such as establishing organizational policies, directing multiple departments, and performing personnel evaluations require high-level, nuanced discourse, incorporating critical thinking and a deep contextual understanding of human dynamics to effectively negotiate and lead."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 5,
+        "reasoning": "Managing subordinate supervisors, handling personnel functions like hiring and evaluations, and coordinating with board members demand a deep emotional understanding, the ability to adopt dynamic roles, and the continuous anticipation of group behavior and social challenges."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "General managers solve unstructured, real-world, and multidisciplinary problems by integrating tacit, social, and technical knowledge to oversee diverse areas like finance, operations, marketing, and human resources simultaneously."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Developing product-marketing strategies, designing store layouts, and establishing new policies require process-oriented creativity that balances business innovation with practical constraints and contextual relevance."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The core of this occupation involves managing complex trade-offs between overarching organizational goals, budget resources, and personnel, heavily relying on high-level decisions regarding delegation to subordinate supervisors."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Formulating overarching policies and coordinating operations across multiple, diverse departments requires integrating varied knowledge types (financial, legal, operational, HR) and applying open-ended cognitive flexibility in constantly changing business environments."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Vision is required for minority tasks such as planning and evaluating store layouts, overseeing the remodeling of facilities, and visually monitoring dynamic production lines or sales floors."
+      },
+      "Scale 8: Manipulation": {
+        "level": 3,
+        "reasoning": "Manipulation capabilities are needed for minority tasks like performing sales floor work, which includes taking inventory and stocking shelves, requiring the ability to grasp, reorient, and place various products."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Minority tasks such as engaging in sales floor work, stocking shelves, and navigating around a store or production facility require operating safely and effectively in semi-structured, dynamic environments shared closely with customers and staff."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:11.275636"
+  },
+  {
+    "onet_soc_code": "11-2011.00",
+    "occupation_title": "Advertising and Promotions Managers",
+    "description": "Plan, direct, or coordinate advertising policies and programs or produce collateral materials, such as posters, contests, coupons, or giveaways, to create extra interest in the purchase of a product or service for a department, an entire organization, or on an account basis.",
+    "num_tasks": 41,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires contextual interpretation of language, complex reasoning, and nuanced communication to explain services to organizations, write communications materials and advertisements, and read trade journals (Tasks 2, 8, 11)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Managing a sales team, evaluating employee performance, and representing the company at trade association meetings demand handling nuanced communication, inferring motives, and adapting to various social roles and group dynamics (Tasks 5, 9)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "Developing advertising strategies, analyzing regional energy markets, and directing product research and development involve solving unstructured, multidisciplinary problems that integrate technical market data with social and tactical knowledge (Tasks 3, 4, 14)."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "Planning advertising campaigns and developing branding initiatives require process-oriented creativity. The manager must adapt campaigns to evolving market trends and balance innovative concepts with contextual appropriateness for the target audience (Tasks 4, 10, 11)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The role involves making complex trade-offs between goals, financial resources, and required skills, managing long-term strategic plans, delegating to sales teams, and adjusting methodologies based on campaign budgets and outcomes (Tasks 4, 5, 15)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Advertising managers must integrate diverse knowledge types—such as industry statistics, consumer trends, and energy market structures—to achieve open-ended cognitive flexibility necessary for high-level business strategy and market adaptation (Tasks 3, 13)."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not strictly essential for the core duties of this occupation. The primary functions rely on mental analysis, strategic planning, and verbal/written communication. Evaluation of visual collateral can be assisted by technology or delegated to other team members."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this occupation. The work is cognitive and communicative, primarily performed using digital and communication tools without the need for specialized physical manipulation."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation is strictly cognitive and administrative, involving office-based or social tasks, and does not require physical mobility or spatial reasoning in unpredictable physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:00.200291"
+  },
+  {
+    "onet_soc_code": "11-2021.00",
+    "occupation_title": "Marketing Managers",
+    "description": "Plan, direct, or coordinate marketing policies and programs, such as determining the demand for products and services offered by a firm and its competitors, and identify potential customers. Develop pricing strategies with the goal of maximizing the firm's profits or share of the market while ensuring the firm's customers are satisfied. Oversee product development or monitor trends that indicate the need for new products and services.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires contextual understanding, complex reasoning, and handling of ambiguity to negotiate contracts with vendors, confer with legal staff on issues like copyright infringement, and coordinate promotional activities."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Marketing managers must infer motives, handle nuanced communication, and engage in versatile social problem solving when negotiating contracts, consulting with product development personnel, and coordinating with advertising or promotion managers."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 5,
+        "reasoning": "This role involves solving highly unstructured, real-world problems that span multiple domains—such as integrating financial aspects, legal constraints, economic surveys, environmental information, and social market characteristics—to develop cohesive marketing strategies."
+      },
+      "Scale 4: Creativity": {
+        "level": 4,
+        "reasoning": "The occupation requires process-oriented creativity to develop novel marketing strategies, recommend product modifications, and adapt campaigns to evolving market domains while balancing innovation with firm objectives and customer relevance."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Marketing managers handle long-term strategic planning and manage complex trade-offs between varying goals and resources, explicitly seen in tasks like developing pricing strategies that balance firm profitability with customer satisfaction, and coordinating interconnected tasks across multiple departments."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "The role demands open-ended cognitive flexibility and the integration of diverse knowledge types (e.g., financial ROI, legal constraints, consumer behavior, and environmental data) to continuously analyze business developments and dynamically adapt market strategies."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The essential functions of the occupation are cognitive, analytical, and strategic. While tasks may mention consulting on design or color, these can be managed conceptually or through assistive technologies and collaborative teamwork, making visual capabilities non-essential."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The tasks required for this occupation are purely cognitive, communicative, and administrative. Physical manipulation of objects is not an essential requirement for performing the job."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The role does not require physical navigation or executing tasks in dynamic physical environments; it is a strategic management occupation performed primarily through mental analysis and communication."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:13:59.633682"
+  },
+  {
+    "onet_soc_code": "11-2022.00",
+    "occupation_title": "Sales Managers",
+    "description": "Plan, direct, or coordinate the actual distribution or movement of a product or service to the customer. Coordinate sales distribution by establishing sales territories, quotas, and goals and establish training programs for sales representatives. Analyze sales statistics gathered by staff to determine sales potential and inventory requirements and monitor the preferences of customers.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires complex, contextual language skills to represent the company at trade meetings, negotiate with clients, and advise dealers on policies."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Sales managers must resolve nuanced customer complaints, handle ambiguity during negotiations, and interpret motives while evaluating and directing sales staff."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Involves solving unstructured professional problems, such as assessing the marketing potential of new locations and interpreting interactions to address changing customer preferences."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Requires generating novel sales strategies, developing training programs, and tailoring promotional pitches to persuade clients, adapting to specific market challenges."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The role involves managing complex trade-offs between sales goals, budgets, and required skills, as well as making critical long-term decisions regarding delegation to regional managers."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Sales managers must incrementally learn from market trends and continuously adapt to shifting customer preferences and dynamic business environments."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not an essential capability for this occupation; the critical functions of sales management, data analysis, and strategy can be performed using assistive technologies if necessary."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The role focuses on cognitive, analytical, and interpersonal tasks. Physical manipulation of objects is not essential to perform the core duties."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Physical mobility and spatial navigation are not essential for this predominantly office- and communication-based management role."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:39.244301"
+  },
+  {
+    "onet_soc_code": "11-3012.00",
+    "occupation_title": "Administrative Services Managers",
+    "description": "Plan, direct, or coordinate one or more administrative services of an organization, such as records and information management, mail distribution, and other office support services.",
+    "num_tasks": 1,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Administrative Services Managers must interpret complex organizational policies, communicate directives contextually, and manage nuanced communication across different departments and support services, requiring advanced language interpretation and reasoning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Directing and coordinating a department requires managing team dynamics, handling ambiguity in employee relations, inferring motives, and adapting communication to resolve conflicts and maintain a clear leadership role in groups."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Managers must identify unstructured administrative or personnel problems that require attention, interpret interactions within the organizational environment, and develop approaches to solve complex everyday and professional issues without needing a clear description."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Coordinating multiple support services requires developing novel administrative workflows, generalizing management skills to new tasks, and integrating process improvement ideas across various domains like records management and facility support."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The core of a manager's role is making complex trade-offs between organizational goals, available resources, and staff skills, handling long-term departmental planning, and making critical decisions regarding delegation and task prioritization."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "To effectively manage changing administrative needs, they must learn incrementally from ongoing operations and interactions with staff, identifying knowledge gaps and adapting to shifting organizational environments in real time."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not strictly essential for this occupation. The primary responsibilities revolve around cognitive tasks, communication, and strategic planning, all of which can be performed using assistive technologies if visual processing is impaired."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for an administrative services manager, as the role is focused on conceptual coordination, personnel management, and administrative strategy rather than the physical handling of objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic intelligence, which pertains to physical interaction in environments, is not required since the essential tasks of this occupation involve mental reasoning, social interaction, and digital coordination."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:33.474560"
+  },
+  {
+    "onet_soc_code": "11-3013.00",
+    "occupation_title": "Facilities Managers",
+    "description": "Plan, direct, or coordinate operations and functionalities of facilities and buildings. May include surrounding grounds or multiple facilities of an organization's campus.",
+    "num_tasks": 13,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as writing operational reports, managing leasing contracts, and conducting staff classes require complex reasoning, contextual interpretation, and nuanced communication."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Hiring and terminating personnel, directing staff, and managing leases require handling nuanced communication, inferring motives, and maintaining clear managerial roles within groups."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Analyzing internal processes to recommend changes and identifying safety or maintenance issues require identifying problems that need attention without clear descriptions and developing practical approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Participating in architectural planning, design, and space management involves generating valuable, novel layouts and solutions within clearly defined physical, regulatory, and budgetary constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Planning and controlling budgets, setting department goals, and overseeing long-term construction projects require managing complex trade-offs between goals and resources, as well as making critical decisions about task delegation."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Managing diverse domains such as engineering operations, HR, and leasing in a dynamic facility environment requires real-time learning and adapting to uncertain or changing operational challenges."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not inherently essential as the occupation primarily relies on cognitive analysis, management, and coordination; visual monitoring of facilities and construction can be delegated to staff or assisted by technology."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this managerial role; tasks involving physical handling (like storing and distributing supplies) are secondary and can be fully delegated or assisted."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "This is fundamentally a cognitive and managerial occupation; autonomous physical navigation and physical robotic interaction in unstructured environments are not essential requirements for coordinating facility operations."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:48.308775"
+  },
+  {
+    "onet_soc_code": "11-3021.00",
+    "occupation_title": "Computer and Information Systems Managers",
+    "description": "Plan, direct, or coordinate activities in such fields as electronic data processing, information systems, systems analysis, and computer programming.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The role involves interpreting complex context, reading proposals, and engaging in nuanced communication to consult with management, vendors, and technicians, requiring advanced reasoning and contextual understanding of technical and business languages."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks such as meeting with department heads to solicit cooperation, resolving problems, and managing staff require anticipating and resolving outcomes, maintaining a clear role in groups, and inferring motives to effectively navigate nuanced interpersonal dynamics."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Managers must evaluate technology needs, assess project feasibility, and develop approaches to address workflow priorities without needing a clear description of the problem, interpreting complex organizational environments to solve technical and operational challenges."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Developing organizational goals, policies, and strategic computing resources requires the ability to generalize skills and integrate ideas across business and technological domains to generate valuable, innovative strategic plans."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The occupation demands managing complex trade-offs between strategic goals, budgets, resources, and personnel skills. Activities like analyzing workflow, assigning work, and coordinating long-term intersecting project activities align with making high-level decisions on delegation and task management."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Staying abreast of technological advances and continuously evaluating an organization's technology needs require incremental, real-time learning and the ability to identify knowledge gaps in a rapidly evolving, uncertain environment."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The core responsibilities of this occupation rely on mental analysis, strategic planning, and interpersonal communication rather than visual processing. Assistive technologies can enable individuals without vision to perform all critical job functions effectively."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "This is a white-collar management role focused on coordination, budgeting, and planning. Physical manipulation of objects is not an essential requirement for performing the tasks of this occupation."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation is purely cognitive and communicative. It does not require physical embodiment or navigating unseen, unstructured physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:34.568129"
+  },
+  {
+    "onet_soc_code": "11-3031.00",
+    "occupation_title": "Financial Managers",
+    "description": "Plan, direct, or coordinate accounting, investing, banking, insurance, securities, and other financial activities of a branch, office, or department of an establishment.",
+    "num_tasks": 21,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as directing insurance negotiations, communicating with investors to raise capital, and networking require interpreting contextual language and employing complex reasoning in nuanced professional discourse."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Networking for new business, recruiting staff, and negotiating require inferring motives, managing group roles, and demonstrating versatile social problem-solving to persuade and reach optimal outcomes."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Evaluating financial reporting systems and developing risk control programs involves identifying complex professional problems that require attention and developing strategic approaches to address them without predefined structures."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Recommending changes to budgets, financial procedures, or risk programs requires generating novel and valuable financial solutions within the clearly defined constraints of resources, laws, and market regulations."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Planning and directing the financial activities of a branch requires managing complex trade-offs between financial goals, capital resources, and risk, as well as making critical long-term decisions regarding staff delegation and overarching strategy."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Analyzing investments, evaluating financial risks, and forecasting future financial status require operating in uncertain, changing market environments, learning incrementally, and identifying potential knowledge gaps."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not essential as the occupation relies heavily on mental and data analysis of financial reports, which can be accomplished using accessible assistive technologies like screen readers."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for this role, as the core tasks involve cognitive reasoning, communication, and digital interactions that do not depend on physical dexterity or object handling."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "This occupation is entirely knowledge-based and socially driven, requiring no robotic intelligence, spatial navigation, or physical interaction with dynamic, unstructured physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:14:53.974657"
+  },
+  {
+    "onet_soc_code": "11-3031.01",
+    "occupation_title": "Treasurers and Controllers",
+    "description": "Direct financial activities, such as planning, procurement, and investments for all or part of an organization.",
+    "num_tasks": 22,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as advising management, developing external relationships, and directing training require nuanced contextual communication, interpretation of complex regulatory language, and complex reasoning in professional discourse."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Requires versatile social problem solving and managing nuanced communication to evaluate staff performance, recommend personnel actions like dismissals, lead training, and build relationships with banking and insurance personnel."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Treasurers must identify unstructured financial problems, evaluate complex details to find development opportunities, and develop strategic approaches to address broad organizational needs and ensure compliance."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Generating strategic financial plans, optimizing investments, and identifying business development opportunities require integrating ideas across domains and developing valuable, non-obvious corporate strategies."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Coordinating organizational budgets and directing financial planning requires managing complex, long-term trade-offs between goals and resources, and making high-level decisions on task delegation and strategy."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Financial leadership involves operating in a changing environment of regulations and market conditions, requiring continuous incremental learning and the ability to identify knowledge gaps to manage risks."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision is not essential as the occupation relies on the mental analysis of financial data, which can be processed and interacted with via assistive technologies like screen readers."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation is not essential because the work consists of cognitive, strategic, and interpersonal tasks, utilizing digital tools that can be accessed via adaptive or alternative input interfaces."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation is fundamentally an intellectual and strategic role, requiring no physical navigation, manipulation, or operation within dynamic physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:22.708687"
+  },
+  {
+    "onet_soc_code": "11-3031.03",
+    "occupation_title": "Investment Fund Managers",
+    "description": "Plan, direct, or coordinate investment strategy or operations for a large pool of liquid assets supplied by institutional investors or individual investors.",
+    "num_tasks": 20,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires interpreting highly contextual language and using complex reasoning to analyze regulatory or tax law changes, craft offering documents, and effectively present nuanced financial information and risks to investors."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Tasks such as identifying and pitching to target investors, presenting investment information, and hiring or evaluating staff demand the ability to infer motives, handle ambiguity, and manage nuanced communication in professional group settings."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Investment fund managers must identify and solve complex professional problems without fully structured parameters, such as analyzing acquisitions, evaluating financial performance, and developing approaches to meet portfolios' risk and return goals in dynamic markets."
+      },
+      "Scale 4: Creativity": {
+        "level": 3,
+        "reasoning": "Developing and implementing unique fund investment policies, strategies, and marketing materials requires generating valuable solutions that adapt to evolving market conditions and integrate ideas across financial domains."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Managing a large pool of liquid assets involves handling long-term, highly complex tasks that require constantly balancing critical trade-offs between risk, return, and regulatory compliance, and continuously self-assessing and adapting methodologies."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 5,
+        "reasoning": "Performing detailed company or industry research and informing financial forecasting require open-ended cognitive flexibility, robust real-time adaptation to market changes, and the integration of diverse economic, legal, and operational knowledge."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Vision capabilities are not essential for this occupation, as the core tasks involve mental analysis of financial data, strategic planning, and relationship management, which can be performed using accessible assistive technologies if needed."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Physical manipulation is not essential for investment fund managers; the role is cognitively focused, utilizing digital tools, analytical models, and verbal communication rather than the physical handling of objects."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The occupation does not require physical embodiment or operation within physical, unstructured environments. The tasks are entirely cognitive, analytical, and communicative."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:16.275964"
+  },
+  {
+    "onet_soc_code": "11-3051.00",
+    "occupation_title": "Industrial Production Managers",
+    "description": "Plan, direct, or coordinate the work activities and resources necessary for manufacturing products in accordance with cost, quality, and quantity specifications.",
+    "num_tasks": 35,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "Tasks such as preparing soil reports, negotiating materials prices, and conferring with research staff require advanced logical and social reasoning, as well as the ability to reliably understand and generate semantic meaning in a professional context."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Negotiating materials prices with suppliers and directing human resources require the ability to handle ambiguity, engage in nuanced communication, infer motives, and maintain a clear leadership role to resolve complex social and business challenges."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Analyzing operational reports to detect production problems and diagnosing or troubleshooting gas collection equipment involve identifying complex everyday and professional issues without clear initial descriptions and developing approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing new processes, creating procedures for normal or emergency operations, and designing production tracking systems require creating valuable, novel solutions within the clearly defined constraints of manufacturing and regulatory standards."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Developing budgets and ensuring that materials, labor, and equipment are used efficiently to meet production targets demand the ability to manage complex trade-offs between goals, resources, and required skills while making high-level decisions on delegation."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Overseeing complex gas collection landfill operations and evaluating service requirements involve continuously operating and adapting in a changing, open-floor industrial setting, which requires incremental learning and metacognitive awareness."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Examining samples of raw products to ensure finished goods are of prescribed quality directly aligns with conducting intricate quality control and monitoring dynamic processes in a manufacturing environment."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The essential functions of this occupation revolve around planning, directing, coordinating, and observing. Physical manipulation of objects is not critical to these managerial duties and can be fully assisted or delegated."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "As a management role, the core requirements are primarily cognitive and communicative rather than physical. Autonomous physical navigation and multi-step physical task execution are not essential capabilities for overseeing and planning production."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:31.567957"
+  },
+  {
+    "onet_soc_code": "11-3051.01",
+    "occupation_title": "Quality Control Systems Managers",
+    "description": "Plan, direct, or coordinate quality assurance programs. Formulate quality control policies and control quality of laboratory and production efforts.",
+    "num_tasks": 27,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The occupation requires generating clear semantic meaning and utilizing advanced logical reasoning to produce detailed reports, formulate quality control policies, and instruct vendors or staff."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Overseeing workers, instructing vendors, and enforcing strict quality standards—such as stopping production—requires maintaining a clear managerial role, managing nuanced communication, and resolving complex group dynamics and potential conflicts."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Tasks such as identifying complex quality problems, performing root cause analyses, and recommending solutions involve identifying operational issues that require attention and developing targeted approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Managers create valuable solutions within defined constraints, such as developing new product specifications, inspection criteria, and standard operating procedures tailored to specific regulatory and manufacturing limits."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 4,
+        "reasoning": "Evaluating new testing methodologies, analyzing statistical studies, and making critical decisions like halting production require actively regulating thought processes and tackling complex, ambiguous problems while carefully evaluating trade-offs."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The role demands operating in dynamic, changing industrial environments where the manager must learn incrementally from daily production trends, defect tracking, and shifting regulatory standards to update quality systems."
+      },
+      "Scale 7: Vision": {
+        "level": 2,
+        "reasoning": "Although highly analytical and managerial, tasks such as collecting and analyzing production samples to evaluate quality may require specialized visual inspections within manufacturing environments to accurately identify product defects."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "Manipulation capabilities are not essential for this occupation. The role relies primarily on cognitive analysis, system management, and communication. Any physical collection or handling of samples is minimal and can be assisted or delegated."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "Robotic physical capabilities are not required. The essential functions of planning, directing, and coordinating quality assurance programs are cognitive and communicative, not requiring autonomous physical mobility or environmental navigation."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:25.362981"
+  },
+  {
+    "onet_soc_code": "11-3051.02",
+    "occupation_title": "Geothermal Production Managers",
+    "description": "Manage operations at geothermal power generation facilities. Maintain and monitor geothermal plant equipment for efficient and safe plant operations.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as preparing environmental permit applications, negotiating interconnection agreements with other utilities, and communicating complex plant conditions to employees require advanced contextual understanding, nuanced professional reasoning, and the ability to process multi-domain knowledge."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Supervising employees and negotiating agreements require interpreting motives, handling ambiguity, managing structured social roles, and using versatile problem-solving skills to navigate complex social interactions successfully."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Troubleshooting electrical systems and identifying opportunities to improve plant controls involve assessing complex, unstructured professional environments to actively identify problems that require attention and independently developing effective approaches to address them."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Tasks like developing operating plans and selecting corrosion control systems demand the creation of valuable, novel solutions that must fit within clearly defined engineering, budgetary, and physical constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Managing operations, developing budgets, and supervising employees involve managing complex trade-offs between goals and resources, making strategic decisions regarding delegation, and handling long-term intersecting tasks."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Monitoring geothermal operations and responding to plant conditions require real-time learning and metacognitive awareness to operate effectively in an uncertain, open-floor industrial environment with constantly changing variables."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Conducting site assessments and inspecting geothermal plant machinery or well fields require coping with significant variations in shape, appearance, and lighting while conducting intricate visual analyses in complex, dynamic indoor and outdoor environments."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Troubleshooting and making minor repairs to geothermal plant instrumentation or electrical systems often involve handling intricate parts, working in tight or obscured spaces, and performing delicate force-based manipulations on varied materials."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "Inspecting injection well fields, navigating expansive industrial power plants, and making site assessments involve operating in dynamic, less structured, and natural environments while adapting to physical uncertainties and contextual dependencies."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:21.139857"
+  },
+  {
+    "onet_soc_code": "11-3051.03",
+    "occupation_title": "Biofuels Production Managers",
+    "description": "Manage biofuels production and plant operations. Collect and process information on plant production and performance, diagnose problems, and design corrective procedures.",
+    "num_tasks": 14,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The role requires advanced communication skills to provide training, confer with technical and supervisory personnel, and generate reports on plant safety, efficiency, and product quality."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Supervising employees, providing direction to ensure compliance, and resolving complex operational issues require maintaining a clear leadership role, inferring motives, and demonstrating versatile social problem-solving."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Managers must continuously identify operational abnormalities from real-time data, diagnose unstructured plant performance issues, and proactively develop and implement corrective procedures."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "The occupation involves designing corrective procedures and implementing new production processes, which requires creating novel operational solutions within the strict constraints of safety, budget, and physical plant limitations."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Managing operations, preparing budgets, and making decisions regarding emergency shutdowns involve managing complex trade-offs between production goals, resources, and safety, as well as actively delegating tasks to employees."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Operating in an industrial plant environment requires real-time adaptation, learning from changing plant conditions, and applying extensive process engineering and management knowledge to handle emergencies and uncertain dynamic scenarios."
+      },
+      "Scale 7: Vision": {
+        "level": 2,
+        "reasoning": "Visual capabilities are required to conduct specialized inspections in a manufacturing environment, such as monitoring meters, flow gauges, log data, and observing equipment for proper operation."
+      },
+      "Scale 8: Manipulation": {
+        "level": 2,
+        "reasoning": "Physical tasks involve interacting with plant equipment in a controlled industrial setting, such as adjusting dials and valves, restarting equipment, and drawing samples of biofuels products."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "To effectively manage plant operations, a system must navigate a dynamic, semi-structured factory environment, safely share the space with human workers, and perform multi-step supervisory and operational tasks."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:16:04.297780"
+  },
+  {
+    "onet_soc_code": "11-3051.04",
+    "occupation_title": "Biomass Power Plant Managers",
+    "description": "Manage operations at biomass power generation facilities. Direct work activities at plant, including supervision of operations and maintenance staff.",
+    "num_tasks": 18,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 3,
+        "reasoning": "The manager must prepare formal reports, review complex performance specifications and regulatory requirements, and communicate effectively with staff across multiple modalities (Tasks 1, 3, 5, 8)."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "The role involves supervising operations and maintenance staff, requiring the manager to maintain a clear leadership role in groups, infer motives, and use versatile social problem solving to handle group dynamics and direct work activities (Tasks 2, 10)."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The manager must proactively review logs and datasheets to identify abnormalities with complex power production equipment, and develop approaches to address emergencies and safely shut down or restart the plant (Tasks 5, 13)."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "The occupation involves generating novel but constrained solutions, such as developing maintenance schedules, planning fuel deliveries, and managing budgets within clear operational and financial boundaries (Tasks 7, 9, 12)."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The manager routinely manages complex trade-offs between production goals, safety requirements, and budgets, handling long-term tasks that intersect with others by making critical decisions regarding task delegation and resource allocation (Tasks 2, 7, 10, 12)."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "The role requires the ability to operate in an open-floor industrial setting, dynamically adapting in real time to uncertain or changing environmental conditions, such as equipment failures or emergencies (Tasks 13, 14, 15)."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Requires conducting intricate visual field inspections of plant equipment, reading dials and gauges, and performing visual analysis of machinery in a dynamic, varied industrial environment (Tasks 4, 11, 15)."
+      },
+      "Scale 8: Manipulation": {
+        "level": 4,
+        "reasoning": "Involves using hand and power tools to test, maintain, or repair electrical machinery, requiring force-based manipulation and handling objects with moving parts, potentially in tight or obscured spaces (Tasks 6, 15)."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 4,
+        "reasoning": "The manager must physically navigate a dynamic, less structured plant environment to conduct inspections and perform tasks with many dynamic variables, operating under uncertainty while ensuring the safety of human collaborators (Tasks 4, 10, 13, 15)."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:16:00.437447"
+  },
+  {
+    "onet_soc_code": "11-3051.06",
+    "occupation_title": "Hydroelectric Production Managers",
+    "description": "Manage operations at hydroelectric power generation facilities. Maintain and monitor hydroelectric plant equipment for efficient and safe plant operations.",
+    "num_tasks": 19,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires interpreting complex legal, technical, and regulatory language to negotiate power generation contracts, develop policy evaluation procedures, and review engineering studies and budgets."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Managing personnel, providing technical direction, and negotiating power contracts with other utilities require handling ambiguity, inferring motives, and demonstrating versatile social problem-solving to coordinate group operations effectively."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Managers must identify problems that require attention during facility inspections and develop approaches to solve complex, unstructured professional issues, such as environmental cleanup and operational compliance, without needing a prior clear description of the problem."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Creating hydrostation voltage schedules, operating procedures, and budgets involves generating valuable and novel solutions within the clearly defined constraints of engineering, safety, and financial regulations."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "The role involves managing complex trade-offs between production goals, safety, and resources. Managers handle long-term tasks like plant upgrades and annual plans by making high-level decisions about delegation, supervision, and adapting operational methodologies."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Managing operations at a hydroelectric facility requires operating in an often changing and uncertain industrial environment, balancing real-time operational needs with long-term goals while integrating technical, financial, and regulatory knowledge."
+      },
+      "Scale 7: Vision": {
+        "level": 4,
+        "reasoning": "Visually inspecting switchyards, control houses, and equipment for normal operation or safety adherence requires coping with significant variations in object appearances, making subtle distinctions to spot wear or faults, and conducting intricate visual quality control."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The essential requirements of this managerial occupation are cognitive, focusing on reasoning, directing, and planning. Any physical operation of substations or equipment controls is minimal and can be adapted through digital interfaces or delegated to subordinates."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 3,
+        "reasoning": "Conducting physical inspections and supervising installations requires the capability to safely navigate and operate within the partially known, dynamic, and semi-structured environment of a hydroelectric industrial facility."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:16:11.714446"
+  },
+  {
+    "onet_soc_code": "11-3061.00",
+    "occupation_title": "Purchasing Managers",
+    "description": "Plan, direct, or coordinate the activities of buyers, purchasing officers, and related workers involved in purchasing materials, products, and services. Includes wholesale or retail trade merchandising managers and procurement managers.",
+    "num_tasks": 17,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "Tasks such as negotiating contracts, resolving vendor grievances, and formulating policies require interpreting complex language contextually, handling ambiguity, and applying complex reasoning."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Interviewing staff, directing personnel, and negotiating with suppliers involve maintaining a clear professional role, inferring motives, and demonstrating versatile social problem-solving in nuanced situations."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "Resolving vendor claims and analyzing market and delivery systems require solving complex professional problems and handling social interactions without clearly predefined, structured descriptions."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing purchasing policies, preparing bid awards, and participating in the development of specifications for substitute materials require creating valuable, novel solutions within clearly defined business and budgetary constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "Controlling purchasing department budgets and directing the activities of buyers involve managing complex trade-offs between strategic goals, financial resources, and required skills, alongside making high-level decisions regarding delegation."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Assessing present and future material availability and market conditions requires continuously learning and adapting knowledge to operate effectively within uncertain and constantly changing economic environments."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "The occupation's core tasks, such as reviewing specifications, managing budgets, and negotiating contracts, rely on cognitive analysis rather than visual processing. Assistive technologies can enable individuals without vision to perform these functions."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The occupation is managerial and administrative in nature. Arranging the disposal of surplus materials or processing purchase orders does not require physical manipulation capabilities."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "The essential tasks do not require physical mobility or spatial navigation in dynamic, physical environments, as the role focuses exclusively on cognitive and social work."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:15:58.890543"
+  },
+  {
+    "onet_soc_code": "11-3071.00",
+    "occupation_title": "Transportation, Storage, and Distribution Managers",
+    "description": "Plan, direct, or coordinate transportation, storage, or distribution activities in accordance with organizational policies and applicable government laws or regulations. Includes logistics managers.",
+    "num_tasks": 88,
+    "ratings": {
+      "Scale 1: Language": {
+        "level": 4,
+        "reasoning": "The occupation requires advanced contextual communication, complex reasoning, and handling ambiguity when interpreting government regulations, writing operational policies, and negotiating complex service agreements with carriers and insurance representatives."
+      },
+      "Scale 2: Social Interaction": {
+        "level": 4,
+        "reasoning": "Managers must supervise diverse teams, handle nuanced communication, infer motives, and demonstrate versatile social problem-solving skills when enforcing compliance, resolving staff issues, and negotiating with external partners and union representatives."
+      },
+      "Scale 3: Problem Solving": {
+        "level": 4,
+        "reasoning": "The role involves analyzing corporate logistics to proactively identify operational inefficiencies and developing strategic approaches to address them, such as improving internal logistics systems without needing clear, predefined problem descriptions."
+      },
+      "Scale 4: Creativity": {
+        "level": 2,
+        "reasoning": "Developing standard and emergency operating procedures, as well as storage and distribution models, requires creating valuable, novel solutions within clearly defined financial, environmental, and regulatory constraints."
+      },
+      "Scale 5: Metacognition and critical thinking": {
+        "level": 5,
+        "reasoning": "This role demands managing complex trade-offs between conflicting goals (e.g., minimizing costs while improving sustainability), making strategic decisions for long-term planning, and delegating tasks to supervised clerks and warehouse workers."
+      },
+      "Scale 6: Knowledge, learning and memory": {
+        "level": 4,
+        "reasoning": "Logistics managers operate in highly dynamic, uncertain supply chain environments where they must adapt to changing market conditions, mitigate risks through emergency procedures, and continuously learn from interacting with global networks."
+      },
+      "Scale 7: Vision": {
+        "level": 0,
+        "reasoning": "Visual processing is not essential for this occupation. The critical tasks rely on mental analysis, strategic planning, financial modeling, and communication, all of which can be performed using digital tools and accessible assistive technologies."
+      },
+      "Scale 8: Manipulation": {
+        "level": 0,
+        "reasoning": "The occupation is strictly managerial and analytical. Physical manipulation of objects is not required to carry out the core planning, analytical, and supervisory tasks."
+      },
+      "Scale 9: Robotic Intelligence": {
+        "level": 0,
+        "reasoning": "This is a cognitive and managerial role. It does not require physical mobility or robotic intelligence capabilities to execute tasks in natural or unstructured physical environments."
+      }
+    },
+    "model_used": "gemini-3.1-pro-preview",
+    "timestamp": "2026-04-03T00:16:06.323373"
+  }
+]

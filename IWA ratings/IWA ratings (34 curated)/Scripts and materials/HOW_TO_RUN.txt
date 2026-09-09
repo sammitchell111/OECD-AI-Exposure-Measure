@@ -1,0 +1,134 @@
+HOW TO RUN THE IWA RATING SCRIPT
+=================================
+
+PREREQUISITES
+-------------
+You need Python 3.9+ already installed. Verify with:
+
+    python --version          (or python3 --version on Mac/Linux)
+
+
+STEP 1 — INSTALL PACKAGES
+--------------------------
+Open a terminal, cd into the folder containing run_ratings_IWA.py, and run:
+
+    pip install pandas openpyxl anthropic openai google-generativeai mistralai
+
+(On Mac/Linux you may need "pip3" instead of "pip".)
+(If you only plan to use one provider you technically only need that SDK,
+ but installing all four is small and avoids import errors.)
+
+
+STEP 2 — CHECK YOUR API KEY FILES
+----------------------------------
+The script looks for these text files in the same folder:
+
+    ANTHROPIC_API_KEY.txt
+    OPENAI_API_KEY.txt
+    GOOGLE_API_KEY.txt
+    MISTRAL_API_KEY.txt
+
+Each should contain only the raw API key (no quotes, no newline issues).
+If a file is missing or empty the script will ask you to paste the key
+at runtime.
+
+
+STEP 3 — CHECK YOUR DATA FILES
+-------------------------------
+These must be in the same folder as run_ratings_IWA.py:
+
+    iwas_dict.json               (34 IWAs with linked DWAs / tasks / occupations)
+    scales_long.txt              (9 AI capability scales)
+    rating_instructions_iwa.txt  (IWA prompt template)
+
+
+STEP 4 — RUN
+-------------
+    cd /path/to/your/folder
+    python run_ratings_IWA.py
+
+The script will:
+  1. Ask you to pick an LLM (1-4).
+  2. Load all 34 IWAs from the JSON.
+  3. Send requests in parallel (5 at a time by default).
+  4. Save to Excel + JSON after every batch of 5 completions.
+
+Output files are named by model, e.g.:
+    claude/run_1.xlsx
+    claude/run_1.json
+
+
+WHAT'S IN THE INPUT JSON
+------------------------
+Each entry in iwas_dict.json is one Intermediate Work Activity (IWA).
+For each IWA you get:
+
+    iwa_code             O*NET IWA element ID (e.g. 4.A.4.a.5.c)
+    iwa_name             Short description of the IWA
+    gwa_code / gwa_name  Parent Generalized Work Activity
+    reference            Reference category codes (AUG / KB / AM / PIM, etc.)
+    linked_dwas          List of {code, name} for every DWA under this IWA
+    linked_tasks         List of {task_id, task} for every O*NET task under it
+    linked_occupations   List of {code, title} for every O*NET-SOC occupation
+                         in which this IWA appears
+
+All of this is passed into the prompt so the LLM has the full context of
+what the IWA looks like in practice across the labour market.
+
+
+ADJUSTING CONCURRENCY
+---------------------
+At the top of run_ratings_IWA.py you'll find:
+
+    MAX_CONCURRENT = 5
+
+Raise this to 10-15 if your API plan allows higher rate limits.
+Lower it to 2-3 if you hit rate-limit errors frequently.
+
+NOTE: Some IWAs have hundreds of linked tasks / occupations, so individual
+prompts can be large. If you see context-length errors with a particular
+provider you may need to lower MAX_CONCURRENT (to reduce parallel load) or
+adjust the model selection in run_ratings_IWA.py.
+
+
+RESUMING AFTER A CRASH / INTERRUPTION
+--------------------------------------
+Just run the script again with the same LLM choice.
+
+It detects the existing JSON checkpoint file (e.g. claude/run_1.json) and
+skips any IWAs that were already successfully processed. Only the remaining
+ones are sent to the API.
+
+
+RUNNING MULTIPLE LLMS
+---------------------
+Each LLM gets its own output folder (claude/, chatgpt/, gemini/, mistral/),
+so you can run the script multiple times picking different providers
+without overwriting results.
+
+
+NOTES
+-----
+- The "Level Description" columns are intentionally omitted from the Excel
+  output (same as the original occupation-level pipeline).
+- The Excel is saved incrementally — if the script is interrupted you
+  will still have all results up to the last completed batch.
+- Estimated runtime for 34 IWAs at concurrency=5:
+    ~ 2-6 minutes  (depends on provider latency and prompt size — some
+    IWAs have hundreds of linked tasks so prompts are larger than in the
+    occupation-level pipeline).
+
+
+DIFFERENCES VS. THE OCCUPATION-LEVEL PIPELINE
+----------------------------------------------
+- Input is iwas_dict.json (built from "Final IWAs selection for LLM.xls")
+  instead of occupations_dict_mar17.json.
+- The unit of analysis is an IWA, not an occupation. Each IWA aggregates
+  multiple DWAs, tasks, and occupations.
+- Prompt template (rating_instructions_iwa.txt) is adapted for the higher
+  level of abstraction and explicitly tells the LLM how to use the
+  auxiliary linked information.
+- Output rows are keyed by IWA Code / IWA Name (with GWA + reference
+  columns) instead of O*NET-SOC Code / Occupation Title.
+- Output is 34 rows × 9 scales (much smaller than the 878-occupation
+  pipeline).

@@ -1,0 +1,54 @@
+HOW TO RUN THE 44 EXTRA OCCUPATIONS RATING SCRIPT
+==================================================
+
+This folder is a self-contained copy of the occupation-rating pipeline
+(same prompt, same scales, same code as run_ratings_10.py in
+"Occupation ratings"), pointed at the 44 extra occupations.
+
+
+PREREQUISITES
+-------------
+Python 3.9+ and the same packages as before:
+
+    pip install pandas openpyxl anthropic openai google-generativeai mistralai
+
+
+FILES IN THIS FOLDER
+--------------------
+    run_ratings_44.py             the script
+    44_extra_occupations.json     the 44 occupations (code -> title, description, tasks)
+                                  built from "Copy of 44 new occupations to rate.xls"
+    scales_long.txt               9 AI capability scales (identical copy)
+    rating_instructions_mar17.txt prompt template (identical copy)
+    ANTHROPIC_API_KEY.txt / OPENAI_API_KEY.txt / GOOGLE_API_KEY.txt / MISTRAL_API_KEY.txt
+                                  API keys (identical copies)
+
+
+MODELS
+------
+Only the largest model from each company, exactly the versions used in the
+previous occupation runs:
+
+    1. Anthropic  claude-opus-4-6
+    2. OpenAI     gpt-5.2-2025-12-11
+    3. Google     gemini-3.1-pro-preview
+    4. Mistral    mistral-large-2512
+
+
+RUN
+---
+    cd "44 extra occupations"
+    python run_ratings_44.py
+
+Pick a provider (1-4). The script sends the 44 occupations in parallel
+(MAX_CONCURRENT = 5), saves after every batch, and writes to:
+
+    44_occupations_ratings/<claude|chatgpt|gemini|mistral>/<Model>_run_N_44.json
+    44_occupations_ratings/<claude|chatgpt|gemini|mistral>/<Model>_run_N_44.xlsx
+
+Each new invocation with the same provider starts a new run number
+(run_1, run_2, ...). If a run is interrupted, re-running the same provider
+resumes the incomplete run instead of starting a new one.
+
+To get 5 runs per model (as with the 10-occupation set), run the script
+5 times per provider.

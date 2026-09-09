@@ -1,0 +1,119 @@
+HOW TO RUN THE FULL O*NET IWA RATING SCRIPT
+============================================
+
+PREREQUISITES
+-------------
+You need Python 3.9+ already installed. Verify with:
+
+    python --version          (or python3 --version on Mac/Linux)
+
+
+STEP 1 - INSTALL PACKAGES
+--------------------------
+Open a terminal, cd into the folder containing run_ratings_IWA.py, and run:
+
+    pip install pandas openpyxl anthropic openai google-generativeai mistralai
+
+(On Mac/Linux you may need "pip3" instead of "pip".)
+
+
+STEP 2 - CHECK YOUR API KEY FILES
+----------------------------------
+The script looks for these text files in the same folder:
+
+    ANTHROPIC_API_KEY.txt
+    OPENAI_API_KEY.txt
+    GOOGLE_API_KEY.txt
+    MISTRAL_API_KEY.txt
+
+
+STEP 3 - CHECK YOUR DATA FILES
+-------------------------------
+These must be in the same folder as run_ratings_IWA.py:
+
+    iwas_dict.json              (332 IWAs - full O*NET 30.3 set)
+    scales_long.txt             (9 AI capability scales)
+    rating_instructions_iwa.txt (IWA prompt template)
+
+
+STEP 4 - RUN
+-------------
+    cd /path/to/your/folder
+    python run_ratings_IWA.py
+
+
+WHERE THE INPUT JSON CAME FROM
+------------------------------
+iwas_dict.json was built directly from the public O*NET database
+(version 30.3, downloaded from https://www.onetcenter.org/database.html),
+specifically from these tab-separated text files in the official ZIP:
+
+  - GWAs to IWAs.txt             (IWA -> parent GWA + IWA name)
+  - GWAs to IWAs to DWAs.txt     (IWA -> child DWAs)
+  - Tasks to DWAs.txt            (Task -> DWA)
+  - Task Statements.txt          (Task text + owning O*NET-SOC code)
+  - Occupation Data.txt          (O*NET-SOC code -> occupation title)
+  - Content Model Reference.txt  (GWA names)
+
+For each of the 332 IWAs the JSON contains:
+
+    iwa_code             O*NET IWA element ID (e.g. 4.A.4.a.5.c)
+    iwa_name             Short description of the IWA
+    gwa_code / gwa_name  Parent Generalized Work Activity
+    reference            AUG/KB/AM/PIM codes carried over from the
+                         original curated 34-IWA Excel where available
+                         (empty list for the other 298 IWAs)
+    linked_dwas          List of {code, name} for every DWA under it
+    linked_tasks         List of {task_id, task} for every O*NET task
+                         that maps to one of those DWAs
+    linked_occupations   List of {code, title} for every O*NET-SOC
+                         occupation in which any of those tasks appear
+
+
+SIZE / SCALE
+------------
+- 332 IWAs total
+- Largest IWA: ~533 linked tasks, 31 DWAs, 409 occupations
+  ("Maintain operational records.")
+- Smallest: ~3 linked tasks
+- Median IWA prompt size is roughly 25-40 KB; the largest is around 130 KB.
+  All comfortably fit in modern long-context models (Opus 4.6, GPT-5.2,
+  Gemini 3.1 Pro), but if you ever use a small-context model you'd need
+  to truncate inside create_rating_prompt().
+
+
+ADJUSTING CONCURRENCY
+---------------------
+At the top of run_ratings_IWA.py:
+
+    MAX_CONCURRENT = 5
+
+Raise to 10-15 if your API plan allows. Lower to 2-3 if you hit rate
+limits.
+
+NOTE: Compared to the 34-IWA curated run, this is roughly 10x the work.
+At MAX_CONCURRENT=5, expect ~30-60 minutes wall-clock depending on
+provider latency. Raise concurrency to cut this proportionally.
+
+
+RESUMING AFTER A CRASH
+-----------------------
+Re-run the script with the same LLM choice. It detects the existing
+JSON checkpoint and skips already-rated IWAs.
+
+
+CHECKING PROGRESS
+-----------------
+    python check_progress.py
+
+Scans claude/, chatgpt/, gemini/, mistral/ and reports how many of the
+332 IWAs have been rated successfully.
+
+
+DIFFERENCES VS. 'IWA ratings/' (CURATED 34-IWA PIPELINE)
+---------------------------------------------------------
+- Input is the FULL O*NET IWA set (332 IWAs), not the curated 34.
+- Reference codes are only populated for the 34 IWAs that were in your
+  curated Excel; the remaining 298 have reference=[].
+- Same prompt template, same scales, same Excel/JSON output schema.
+- Same per-provider output folders (claude/, chatgpt/, gemini/, mistral/).

@@ -1,0 +1,20 @@
+# API keys — never commit these. Each "Scripts and materials" folder expects
+# them as plain text files; create your own locally (see README).
+*_API_KEY.txt
+.env
+
+# Internal pilots — not for publication.
+Experiments/PIMCO ratings/
+Experiments/Nora's ratings (PIMCO format)/
+
+# Excel exports of results are derived from the JSON next to them; only the
+# JSON is tracked for now.
+Results/**/*.xlsx
+**/Results/**/*.xlsx
+
+# macOS / editor / Python noise
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+_to_delete/

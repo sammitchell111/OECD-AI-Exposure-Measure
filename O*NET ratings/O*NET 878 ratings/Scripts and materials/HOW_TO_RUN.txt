@@ -1,0 +1,95 @@
+HOW TO RUN THE OCCUPATIONAL RATING SCRIPT
+==========================================
+
+PREREQUISITES
+-------------
+You need Python 3.9+ already installed. Verify with:
+
+    python --version          (or python3 --version on Mac/Linux)
+
+
+STEP 1 — INSTALL PACKAGES
+--------------------------
+Open a terminal, cd into the folder containing run_ratings.py, and run:
+
+    pip install pandas openpyxl anthropic openai google-generativeai mistralai
+
+(On Mac/Linux you may need "pip3" instead of "pip".)
+(If you only plan to use one provider you technically only need that SDK,
+ but installing all four is small and avoids import errors.)
+
+
+STEP 2 — CHECK YOUR API KEY FILES
+----------------------------------
+The script looks for these text files in the same folder:
+
+    ANTHROPIC_API_KEY.txt
+    OPENAI_API_KEY.txt
+    GOOGLE_API_KEY.txt
+    MISTRAL_API_KEY.txt
+
+Each should contain only the raw API key (no quotes, no newline issues).
+If a file is missing or empty the script will ask you to paste the key
+at runtime.
+
+
+STEP 3 — CHECK YOUR DATA FILES
+-------------------------------
+These must be in the same folder as run_ratings.py:
+
+    occupations_dict_mar17.json   (878 occupations)
+    scales_long.txt               (9 AI capability scales)
+    rating_instructions_mar17.txt (prompt template)
+
+
+STEP 4 — RUN
+-------------
+    cd /path/to/your/folder
+    python run_ratings.py
+
+The script will:
+  1. Ask you to pick an LLM (1-4).
+  2. Load all 878 occupations from the JSON.
+  3. Send requests in parallel (5 at a time by default).
+  4. Save to Excel + JSON after every batch of 5 completions.
+
+Output files are named by model, e.g.:
+    occupational_ratings_claude-opus-4-6.xlsx
+    occupational_ratings_claude-opus-4-6.json
+
+
+ADJUSTING CONCURRENCY
+---------------------
+At the top of run_ratings.py you'll find:
+
+    MAX_CONCURRENT = 5
+
+Raise this to 10-15 if your API plan allows higher rate limits.
+Lower it to 2-3 if you hit rate-limit errors frequently.
+
+
+RESUMING AFTER A CRASH / INTERRUPTION
+--------------------------------------
+Just run the script again with the same LLM choice.
+
+It detects the existing JSON checkpoint file (e.g.
+occupational_ratings_claude-opus-4-6.json) and skips any occupations
+that were already successfully processed. Only the remaining ones are
+sent to the API.
+
+
+RUNNING MULTIPLE LLMS
+---------------------
+Each LLM gets its own output file pair, so you can run the script
+multiple times picking different providers without overwriting results.
+
+
+NOTES
+-----
+- The "Level Description" columns from the notebook have been removed
+  from the Excel output as requested.
+- The Excel is saved incrementally — if the script is interrupted you
+  will still have all results up to the last completed batch.
+- Estimated runtime for 878 occupations at concurrency=5:
+    ~ 20-40 minutes  (depends on provider latency and rate limits)
+  vs the original sequential approach which would take 3+ hours.

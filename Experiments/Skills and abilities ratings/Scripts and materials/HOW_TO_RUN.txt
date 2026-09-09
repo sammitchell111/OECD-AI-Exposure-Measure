@@ -1,0 +1,131 @@
+HOW TO RUN THE SKILLS & ABILITIES RATING SCRIPTS
+=================================================
+
+WHAT THIS PIPELINE IS
+---------------------
+An experiment on the main 878-occupation O*NET pipeline. It is identical to
+run_ratings.py except that each occupation's prompt also includes its top 10
+O*NET skills and abilities, each with an importance score out of 100, and the
+prompt template tells the LLM to use those scores as an additional input when
+setting the nine AI capability ratings.
+
+There are two scripts:
+
+    run_ratings_skills_abilities.py      all 879 occupations
+    run_ratings_skills_abilities_40.py   the 40 selected occupations only
+
+They are the same code; only the input JSON differs.
+
+
+PREREQUISITES
+-------------
+You need Python 3.9+ already installed. Verify with:
+
+    python --version          (or python3 --version on Mac/Linux)
+
+
+STEP 1 - INSTALL PACKAGES
+--------------------------
+Open a terminal, cd into the "Scripts and materials" folder, and run:
+
+    pip install pandas openpyxl anthropic openai google-generativeai mistralai
+
+(On Mac/Linux you may need "pip3" instead of "pip".)
+
+
+STEP 2 - CHECK YOUR API KEY FILES
+----------------------------------
+The scripts look for these text files in the same folder:
+
+    ANTHROPIC_API_KEY.txt
+    OPENAI_API_KEY.txt
+    GOOGLE_API_KEY.txt
+    MISTRAL_API_KEY.txt
+
+Each should contain only the raw API key. If a file is missing or empty the
+script will ask you to paste the key at runtime.
+
+
+STEP 3 - CHECK YOUR DATA FILES
+-------------------------------
+These must be in the same folder as the scripts:
+
+    occupation_data_skills_abilities_ranked.json      (879 occupations)
+    occupation_data_skills_abilities_ranked_40.json   (40-occupation subset)
+    scales_long.txt                                   (9 AI capability scales)
+    rating_instructions_skills_abilities.txt          (prompt template, with
+                                                       the skills/abilities
+                                                       instructions)
+
+Each JSON entry has: soc_code, title, description, tasks, and
+skills_and_abilities (a list of {name, score} - top 10, ranked by score).
+
+
+STEP 4 - RUN
+-------------
+    cd "/path/to/Skills and abilities ratings/Scripts and materials"
+    python run_ratings_skills_abilities.py        # full 879
+    python run_ratings_skills_abilities_40.py     # 40 subset
+
+The script will:
+  1. Ask you to pick an LLM (1-4).
+  2. Load the occupations from the JSON.
+  3. Send requests in parallel (5 at a time by default).
+  4. Save to Excel + JSON after every batch of completions.
+
+
+WHERE RESULTS GO
+----------------
+Results are written to the sibling "Results" folder, one sub-folder per
+provider:
+
+    ../Results/claude/run_N.json  + run_N.xlsx
+    ../Results/chatgpt/
+    ../Results/gemini/
+    ../Results/mistral/
+
+The run number is chosen automatically (next free number in that folder).
+
+IMPORTANT: both scripts write into the SAME provider folders and share the
+same run numbering. That is why the existing results look like this:
+
+    claude/run_1   879 occupations (full run)
+    claude/run_2    40 occupations (40-subset run)
+    chatgpt/run_1  879, chatgpt/run_2 40
+    mistral/run_1  879, mistral/run_2 40
+    gemini/run_1    40 (no full Gemini run yet)
+
+The files named e.g. Claude_40_S&As_run1.xlsx are hand-renamed copies of the
+40-subset Excel outputs. Check the row count if in doubt about which run a
+file belongs to.
+
+
+RESUMING AFTER A CRASH / INTERRUPTION
+--------------------------------------
+Re-run the same script with the same LLM choice. It looks for an existing
+run_N.json with fewer results than expected and continues it, skipping the
+occupations already rated.
+
+CAUTION: because the two scripts share folders, the full (879) script will
+treat a 40-subset run as an "incomplete" run and try to top it up to 879.
+Before running the full script in a provider folder that already contains a
+40-subset run, either move that run elsewhere or rename it so it no longer
+starts with "run_".
+
+
+ADJUSTING CONCURRENCY
+---------------------
+At the top of each script:
+
+    MAX_CONCURRENT = 5
+
+Raise to 10-15 if your API plan allows. Lower to 2-3 if you hit rate limits.
+
+
+DIFFERENCES VS. THE MAIN O*NET 878 PIPELINE
+--------------------------------------------
+- Input is occupation_data_skills_abilities_ranked.json (with skills and
+  abilities + importance scores) instead of occupations_dict_mar17.json.
+- Prompt template is rating_instructions_skills_abilities.txt, which adds a
+  "skills and abilities" block and instructions on how to use it.
+- Same nine scales, same 0-5 levels, same Excel/JSON output schema.
