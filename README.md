@@ -26,15 +26,18 @@ Occupation information comes from O*NET: code, title, description and the full t
 
 ```
 Occupational Ratings/
-├── O*NET ratings/                  ← the main study
-│   ├── O*NET 878 ratings/          ← 8 models × 5 runs × 878 occupations (canonical analysis set)
-│   └── O*NET 44 extra/             ← 44 additional occupations, 4 flagship models × 5 runs
-├── IWA ratings/                    ← same method applied to O*NET Intermediate Work Activities
-│   ├── IWA ratings (34 curated)/
-│   └── IWA ratings (332 full)/
-└── Experiments/                    ← not part of the paper's analysis set
-    └── Skills and abilities ratings/   ← occupation rating with O*NET skills/abilities added to the prompt
+├── Occupational analysis/                          ← the main study: occupations rated on the 9 scales
+│   ├── O*NET 878 ratings/                          ← 8 models × 5 runs × 878 occupations (canonical analysis set)
+│   ├── O*NET 44 extra/                             ← 44 additional occupations, 4 flagship models × 5 runs
+│   └── Additional experiments (not in main results)/
+│       └── Skills and abilities ratings/           ← prompt variant with O*NET skills/abilities added; not used in the paper
+└── Task and Work Activities analysis (pilot)/      ← same method applied below occupation level; exploratory
+    └── IWA ratings/                                ← O*NET Intermediate Work Activities
+        ├── IWA ratings (34 curated)/
+        └── IWA ratings (332 full)/
 ```
+
+Only `Occupational analysis/O*NET 878 ratings/` and `O*NET 44 extra/` feed the paper. Everything under `Additional experiments` and `Task and Work Activities analysis (pilot)` is kept so the record is complete, but none of it is part of the reported results.
 
 Every experiment folder follows the same pattern:
 
@@ -43,7 +46,7 @@ Every experiment folder follows the same pattern:
 
 The Excel versions of the results (`run_N.xlsx`, sitting next to each JSON) are derived from the JSON and are *not* tracked in git for now, to keep the repository a sensible size. They can be regenerated from the JSON.
 
-## The main study: O*NET 878 ratings
+## The main study: Occupational analysis/O*NET 878 ratings
 
 The canonical analysis set is 8 models — a flagship and a lightweight option from each of four families — with 5 complete, independent runs each over all 878 occupations. That is 40 run files, 35,120 occupation-ratings and 316,080 scale-level ratings.
 
@@ -101,9 +104,9 @@ Audit as of June 2026: every one of the 40 canonical run files contains exactly 
 
 ## The other folders
 
-**IWA ratings.** The same nine-scale rating applied to O*NET Intermediate Work Activities rather than occupations. An IWA sits above individual tasks and is performed across many occupations, so the prompt (`rating_instructions_iwa.txt`) gives the model the parent GWA, linked DWAs, sampled tasks and the occupations the IWA appears in, and asks it to rate the activity as a whole. `34 curated` is the hand-picked selection (`Final IWAs selection for LLM.xls`); `332 full` is the complete set. Claude Opus only so far, one run each.
+**Occupational analysis/Additional experiments (not in main results)/Skills and abilities ratings.** The occupation prompt with one addition: the 10 most important O*NET skills and abilities for the occupation, with their importance scores, as complementary evidence alongside the task list. Run on the 40-occupation subset for all four flagship models, and on the full set for Claude, GPT and Mistral (`run_1`; the GPT and Mistral full runs stopped a few occupations short). This was a test of whether extra structured input changes the ratings. It is not part of the analysis set and is not reported in the paper; it lives in its own subfolder so it can't be confused with the canonical runs.
 
-**Experiments/Skills and abilities ratings.** The occupation prompt with one addition: the 10 most important O*NET skills and abilities for the occupation, with their importance scores, as complementary evidence alongside the task list. Run on the 40-occupation subset for all four flagship models, and on the full set for Claude, GPT and Mistral (`run_1`; the GPT and Mistral full runs stopped a few occupations short). Kept as an experiment to see whether the extra structured input changes anything.
+**Task and Work Activities analysis (pilot)/IWA ratings.** The same nine-scale rating applied to O*NET Intermediate Work Activities rather than occupations. An IWA sits above individual tasks and is performed across many occupations, so the prompt (`rating_instructions_iwa.txt`) gives the model the parent GWA, linked DWAs, sampled tasks and the occupations the IWA appears in, and asks it to rate the activity as a whole. `34 curated` is the hand-picked selection (`Final IWAs selection for LLM.xls`); `332 full` is the complete set. Claude Opus only so far, one run each. Exploratory: no human comparison has been done at this level, so the validation logic of the main study doesn't yet apply here.
 
 ## Running it yourself
 

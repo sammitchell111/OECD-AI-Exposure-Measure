@@ -4,8 +4,8 @@
 .env
 
 # Internal pilots — not for publication.
-Experiments/PIMCO ratings/
-Experiments/Nora's ratings (PIMCO format)/
+Task and Work Activities analysis (pilot)/PIMCO ratings/
+Task and Work Activities analysis (pilot)/Nora's ratings (PIMCO format)/
 
 # Excel exports of results are derived from the JSON next to them; only the
 # JSON is tracked for now.
